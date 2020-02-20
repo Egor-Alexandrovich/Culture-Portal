@@ -1,4 +1,13 @@
 import React, { Component } from 'react';
+import Header from './components/Header/Header';
+import Main from './components/Main/Main';
+import Author from './components/AuthorDescription/AuthorDescription';
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route,
+} from "react-router-dom";
+
 import './App.css';
 
 // PARTICIPANTS
@@ -10,17 +19,36 @@ import Ilya from './assets/images/fourth-cat.jpg';
 import Natalia from './assets/images/fifth-cat.jpg';
 import Artsiom from './assets/images/sixth-cat.jpg';
     
-export default class App extends Component {
+import React, { Component } from 'react';
+
+class App extends Component {
   render() {
     return (
-      <div className="app">
-        <Header />
-        <About />
-        <Autor />
-        <Team />
-        <Footer />
-      </div>
-    );
+      <Router>
+          <Header />
+          <Switch>
+            <Route exact path="/">
+              <Main />
+            </Route>
+            <Route exact path="/authors">
+              <Authors />
+            </Route>
+            <Route path="/authors/:id">
+              <AuthorDescription />
+            </Route>
+            <Route path="/team">
+              <Team />
+            </Route>
+            <Route path="/worklog">
+              <Worklog />
+            </Route>
+            <Route path="/styleguide">
+              <Styleguide />
+            </Route>
+          </Switch>
+          <Footer />
+      </Router>
+    )
   }
 }
 
