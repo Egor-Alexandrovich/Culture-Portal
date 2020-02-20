@@ -1,13 +1,9 @@
 #### Worklog
 
+*Ilya Androsov*
 | Start time  | End time | time spent | feature |
 |-----------|-------------|-------------|-------------|
-| Dec 24 | Dec 24 | 6h |  |
-|        |        |    |  | 
-| Dec 25 | Dec 25 | 4h |  |
-|        |        |    |  |
-| Dec 26 | Dec 26 | 6h |  |
-| Dec 27 | Dec 27 | 4h |  |
-|        |        |    |  |
+| Feb 21 | Feb 21 | 30 min | add svg icons |
+| Fed 21 | Fed 21 | 15 min | add basic structure of the project |
 
 Total: 64h

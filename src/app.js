@@ -1,7 +1,12 @@
 import React, { Component } from 'react';
 import Header from './components/Header/Header';
 import Main from './components/Main/Main';
-import Author from './components/AuthorDescription/AuthorDescription';
+import Footer from './components/Footer/Footer';
+import Styleguide from './components/Styleguide/Styleguide';
+import Team from './components/Team/Team';
+import Authors from './components/Authors/Authors';
+import Worklog from './components/Worklog/Worklog';
+import AuthorDescription from './components/AuthorDescriptionDescription/AuthorDescriptionDescription';
 import {
   BrowserRouter as Router,
   Switch,
