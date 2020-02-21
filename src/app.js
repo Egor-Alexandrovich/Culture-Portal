@@ -7,22 +7,12 @@ import Team from './components/Team/Team';
 import Authors from './components/Authors/Authors';
 import Worklog from './components/Worklog/Worklog';
 import AuthorDescription from './components/AuthorDescription/AuthorDescription';
+import './App.css';
 import {
   BrowserRouter as Router,
   Switch,
   Route,
 } from "react-router-dom";
-
-import './App.css';
-import Authors from './Authors';
-import Main from './Main';
-
-import {
-  BrowserRouter as Router,
-  Route,
-  Link,
-  Switch
-} from 'react-router-dom';
 
 class App extends Component {
   render() {

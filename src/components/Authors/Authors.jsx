@@ -2,7 +2,9 @@ import React from 'react';
 
 function Authors() {
   return (
-    <div></div>
+    <div>
+        <h1>Писатели Беларуси</h1>
+    </div>
   );
 }
 
