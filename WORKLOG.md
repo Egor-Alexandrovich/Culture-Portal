@@ -1,9 +1,9 @@
 #### Worklog
 
-*Ilya Androsov*
+*Sergey Potapov*
 | Start time  | End time | time spent | feature |
 |-----------|-------------|-------------|-------------|
-| Feb 21 | Feb 21 | 30 min | add svg icons |
-| Fed 21 | Fed 21 | 15 min | add basic structure of the project |
 
-Total: 64h
+| Fed 21 | Fed 21 | 90 min | add Autor component, AuthorData file, 2 module.css pages |
+
+Total: 1.5h

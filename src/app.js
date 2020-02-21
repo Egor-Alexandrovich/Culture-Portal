@@ -24,7 +24,7 @@ class App extends Component {
               <Main />
             </Route>
             <Route exact path="/authors">
-              <Authors />
+              <Authors state={this.props.state}/>
             </Route>
             <Route path="/authors/:id">
               <AuthorDescription />

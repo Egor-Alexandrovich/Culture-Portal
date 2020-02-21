@@ -1,7 +1,7 @@
 import React from 'react';
 import LinksList from '../LinksList/LinksList'
-import logo from '/RSSchool/Culture-Portal/src/assets/icons/book.svg';
-import linksList from '/RSSchool/Culture-Portal/src/data/links';
+import logo from '../../assets/icons/book.svg';
+import linksList from '../../data/links';
 import './Header.scss'
 
 function Header() {
