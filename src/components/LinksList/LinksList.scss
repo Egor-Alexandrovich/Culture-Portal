@@ -1,13 +1,18 @@
 .links-list {
   display: flex;
   margin: 0;
+  @media (max-width: 550px) {
+    justify-content: space-around;
+    width: 100%;
+  }
 }
 
 .links-item {
   color: black;
-  padding: 0 20px;
-  &:hover {
-    text-decoration: overline;
+  padding: 0 15px;
+  text-decoration: overline;
+  @media (max-width: 550px) {
+    padding: 0;
   }
 }
 

@@ -4,7 +4,7 @@ function About() {
   return (
     <div className="about-wrapp d-flex align-items-center justify-content-center">
       <div className="about d-flex flex-column align-items-center justify-content-center">
-        <h1>О портале</h1>
+        <h2>О портале</h2>
         <p>
           Белорусская литература условно делится на несколько периодов: 
           «Давняя (древняя) белорусская литература» (ХI—ХVІІ вв.), 

@@ -10,31 +10,31 @@ function Team() {
   return (
     <div className="about-team-wrapp d-flex align-items-center justify-content-center">
       <div className="about-team d-flex flex-column align-items-center justify-content-center">
-        <h1 className="our-team">Наша команда</h1>
+        <h2 className="our-team">Наша команда</h2>
         <div className="team d-flex flex-wrap align-items-center justify-content-center">
           <div className="participant d-flex flex-column align-items-center">
             <img className="team-img" src={Yahor} alt = "Yahor"/>
-            <h2>Yahor Shulha</h2>
+            <h3>Yahor Shulha</h3>
           </div>
           <div className="participant">
             <img className="team-img" src={Sergey} alt = "Sergey"/>
-            <h2>Sergey Potapov</h2>
+            <h3>Sergey Potapov</h3>
           </div>
           <div className="participant">
             <img className="team-img" src={Anton} alt = "Anton"/>
-            <h2>Anton Yanovskyi</h2>
+            <h3>Anton Yanovskyi</h3>
           </div>
           <div className="participant">
             <img className="team-img" src={Ilya} alt = "Ilya"/>
-            <h2>Ilya Androsau</h2>
+            <h3>Ilya Androsau</h3>
           </div>
           <div className="participant">
             <img className="team-img" src={Natalia} alt = "Natalia"/>
-            <h2>Natalia Zarubina</h2>
+            <h3>Natalia Zarubina</h3>
           </div>
           <div className="participant">
             <img className="team-img" src={Artsiom} alt = "Artsiom"/>
-            <h2>Artsiom Lipchyk</h2>
+            <h3>Artsiom Lipchyk</h3>
           </div>
         </div>
       </div>

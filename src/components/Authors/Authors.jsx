@@ -3,7 +3,7 @@ import React from 'react';
 function Authors() {
   return (
     <div>
-        <h1>Писатели Беларуси</h1>
+        <h2>Писатели Беларуси</h2>
     </div>
   );
 }
