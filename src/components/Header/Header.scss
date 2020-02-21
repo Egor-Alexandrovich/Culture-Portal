@@ -1,0 +1,23 @@
+.header-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #eaf188;
+  box-shadow: 0px 2px 20px 0px #888888;
+  height: 65px;
+}
+
+.logo-img {
+  height: 65px;
+  @media (max-width: 550px) {
+    display: none;
+  }
+}
+
+.logo-name {
+  margin: 0;
+  font-family: 'Dancing Script', cursive;
+  @media (max-width: 950px) {
+    display: none;
+  }
+}
