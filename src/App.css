@@ -129,22 +129,22 @@ li {
     font-size: 30px;
 }
 
-.autor-wrapp {
+.author-wrapp {
     width: 100%;
     border-top: 1px solid black;
     border-bottom: 1px solid black;
     padding: 20px 0;
 }
 
-.day-autor {
+.day-author {
     width: 70%;
 }
 
-.day-autor h1 {
+.day-author h1 {
     font-family: 'Dancing Script', cursive;
 }
 
-.day-autor-content {
+.day-author-content {
     display: flex;
 
 }
@@ -204,7 +204,7 @@ li {
 }
 
 @media (min-width: 5000px) {
-    .head, .about, .day-autor, .footer {
+    .head, .about, .day-author, .footer {
         width: 3500px;
     }
 }
