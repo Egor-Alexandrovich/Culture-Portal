@@ -11,6 +11,9 @@
   color: black;
   padding: 0 15px;
   text-decoration: overline;
+  &:hover {
+    text-decoration: overline;
+  }
   @media (max-width: 550px) {
     padding: 0;
   }
