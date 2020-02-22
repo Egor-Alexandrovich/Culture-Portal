@@ -4,19 +4,25 @@ import membersArray from '../../data/members';
 
 function Team() {
   const membersList = membersArray.map(item => {
-    const { name, photo } = item;
-    return <li>
-      <TeamMember 
-        name = { name }
-        photo = { photo }
-      />    
-    </li>
+    const { id, names, photo, gitHub, contribution } = item;
+    return <TeamMember
+      key = { id }
+      name = { names }
+      photo = { photo }
+      gitHub = { gitHub }
+      contribution = { contribution }
+    />
   });
   return (
-    <ul>
-      {membersList}
-    </ul>
-  )
+    <div className="about-team-wrapp d-flex align-items-center justify-content-center">
+      <div className="about-team d-flex flex-column align-items-center justify-content-center">
+        <h2 className="our-team">Наша команда</h2>
+        <div className="team d-flex flex-wrap align-items-center justify-content-center">
+          { membersList }
+        </div>
+      </div>
+    </div>
+  );
 }
 
 export default Team;
