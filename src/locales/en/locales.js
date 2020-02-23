@@ -7,4 +7,9 @@ export default {
   'Website developed by': 'Website developed by',
   'Contribution': 'Contribution',
   'Our team': 'Our team',
+  'Home': 'Home',
+  'Authors': 'Writers',
+  'Team': 'Team',
+  'Style guide': 'Style guide',
+  'Worklog': 'Worklog',
 };
