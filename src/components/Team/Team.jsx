@@ -1,8 +1,9 @@
 import React from 'react';
 import TeamMember from '../TeamMember/TeamMember';
 import membersArray from '../../data/members';
+import { withTranslation } from 'react-i18next';
 
-function Team() {
+function Team({t}) {
   const membersList = membersArray.map(item => {
     const { id, names, photo, gitHub, contribution } = item;
     return <TeamMember
@@ -16,7 +17,7 @@ function Team() {
   return (
     <div className="about-team-wrapp d-flex align-items-center justify-content-center">
       <div className="about-team d-flex flex-column align-items-center justify-content-center">
-        <h2 className="our-team">Наша команда</h2>
+        <h2 className="our-team">{t('Our team')}</h2>
         <div className="team d-flex flex-wrap align-items-center justify-content-center">
           { membersList }
         </div>
@@ -25,4 +26,4 @@ function Team() {
   );
 }
 
-export default Team;
+export default withTranslation()(Team);
