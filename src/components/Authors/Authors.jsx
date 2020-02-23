@@ -1,11 +1,12 @@
 import React from 'react';
+import { withTranslation } from 'react-i18next';
 
-function Authors() {
+function Authors({t}) {
   return (
     <div>
-        <h2>Писатели Беларуси</h2>
+        <h2>{t('Writers of Belarus')}</h2>
     </div>
   );
 }
 
-export default Authors;
+export default withTranslation()(Authors);

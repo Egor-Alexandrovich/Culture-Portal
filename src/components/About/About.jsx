@@ -1,26 +1,17 @@
 import React from 'react';
+import { withTranslation } from 'react-i18next';
 
-function About() {
+function About({t}) {
   return (
     <div className="about-wrapp d-flex align-items-center justify-content-center">
       <div className="about d-flex flex-column align-items-center justify-content-center">
-        <h2>О портале</h2>
+        <h2>{t('About portal')}</h2>
         <p>
-          Белорусская литература условно делится на несколько периодов: 
-          «Давняя (древняя) белорусская литература» (ХI—ХVІІ вв.), 
-          «Новая беларуская литература» (перв.пол. XVIII—ХІХ в.в.), 
-          и «Новейшая белорусская литература» (литература от начала ХХ в.). 
-          Литература первой половины XVIII в. определяется как «Литература переходного периода» — время, 
-          когда формировались основы новой поэтики. 
-          Литература второй половины XVIII ст. – первой четверти ХІХ ст. 
-          именуется как «Литература эпохи Просветительства». 
-          Белорусскую литературу от середины 20-х гг. до конца ХІХ в. 
-          воодушевляла романтичная мысль про национальное Возрождение. 
-          Романтичный пафос этого этапа предопределяет и его название — «Литература эпохи романтизма»
+          {t('About portal extended')}
         </p>
       </div>
     </div>  
   )
 }
 
-export default About;
+export default withTranslation()(About);
