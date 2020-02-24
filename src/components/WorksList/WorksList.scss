@@ -1,0 +1,16 @@
+.colored-rows {
+  tbody tr:nth-of-type(2n) {
+    background-color: #eaf18880;
+  }
+}
+
+.thead-color {
+  background-color: #e86971;
+}
+
+.wrapper-border {
+  width: 100%;
+  max-width: 800px;
+  padding: 20px;
+  margin: 0 auto;
+}

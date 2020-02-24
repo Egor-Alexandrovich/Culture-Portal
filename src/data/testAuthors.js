@@ -23,6 +23,44 @@ export default [
           'Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel at sapiente voluptatem aliquam, labore veniam reiciendis ea. Delectus, enim corporis. Aspernatur fuga autem doloremque ut libero blanditiis voluptatum vel quasi.',
         ]
       },
+    ],
+    works: [
+      {
+        name: 'First',
+        date: '19.11.1942'
+      },
+      {
+        name: 'Third',
+        date: '04.07.1923'
+      },
+      {
+        name: 'First',
+        date: '29.03.1939'
+      },
+      {
+        name: 'First',
+        date: '19.11.1942'
+      },
+      {
+        name: 'Third',
+        date: '04.07.1923'
+      },
+      {
+        name: 'First',
+        date: '29.03.1939'
+      },
+      {
+        name: 'First',
+        date: '19.11.1942'
+      },
+      {
+        name: 'Third',
+        date: '04.07.1923'
+      },
+      {
+        name: 'First',
+        date: '29.03.1939'
+      },
     ]
   },
   {

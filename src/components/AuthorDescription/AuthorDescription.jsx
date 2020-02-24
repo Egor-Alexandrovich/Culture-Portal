@@ -24,7 +24,11 @@ function AuthorDescription() {
         years = { years }
         photo = { photo }
       />
-      { timelineElem }
+      {timelineElem}
+      {worksElem}
+      {galleryElem}
+      {videoElem}
+      {mapElem}
     </div>
   );
 }
