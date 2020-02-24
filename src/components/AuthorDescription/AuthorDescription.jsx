@@ -11,7 +11,7 @@ import { useParams } from "react-router-dom";
 function AuthorDescription() {
   const { id } = useParams();
   const index = data.findIndex(item => item.id === Number(id));
-  const { name, years, picture, timeline, works, gallery, video, activity } = data[index];
+  const { name, years, photo, timeline, works, gallery, video, activity } = data[index];
   const timelineElem = timeline ? <Timeline timeline={timeline}/> : null;
   const worksElem = works ? <WorksList works={works}/> : null;
   const galleryElem = gallery ? <PhotoGallery gallery={gallery}/> : null;
@@ -22,7 +22,7 @@ function AuthorDescription() {
       <AuthorIdentity 
         name = { name }
         years = { years }
-        picture = { picture }
+        photo = { photo }
       />
       { timelineElem, worksElem, galleryElem, videoElem, mapElem }
     </div>
