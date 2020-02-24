@@ -23,11 +23,12 @@ class Authors extends Component {
   renderAuthors(arr) {
     return arr.map((item) => {
       const { id, name } = item;
+      const idStr = id+"";
       return (
         <li className="list-group-item"
             key={id}
             onClick={() => {
-              this.props.history.push(`/authors/${id}`)
+              this.props.history.push(`/authors/${idStr}`)
             }}
             >
           {name}{id}
@@ -36,6 +37,7 @@ class Authors extends Component {
     });
   }
   render () {
+    console.log(this.state);
     const { data } = this.state;
 
     if (!data) {
