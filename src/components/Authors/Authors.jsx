@@ -1,11 +1,59 @@
-import React from 'react';
+import React, { Component } from 'react';
+import AuthorApiService from '../../services/authorapi-service';
+import { withRouter } from 'react-router-dom';
 
-function Authors() {
-  return (
-    <div>
+class Authors extends Component {
+  componentDidMount() {
+    this.updateAuthors();
+  }
+  apiService = new AuthorApiService();
+  state = {
+    loading: true,
+    data : null,
+  }
+  updateAuthors () {
+    this.apiService.getAllAuthors()
+      .then((data) => {
+        this.setState({
+          data: data,
+          loading: false
+        });
+      })
+  }
+  renderAuthors(arr) {
+    return arr.map((item) => {
+      const { id, name } = item;
+      return (
+        <li className="list-group-item"
+            key={id}
+            onClick={() => {
+              this.props.history.push(`/authors/${id}`)
+            }}
+            >
+          {name}{id}
+        </li>
+      );
+    });
+  }
+  render () {
+    const { data } = this.state;
+
+    if (!data) {
+      return <div>
         <h2>Писатели Беларуси</h2>
-    </div>
-  );
-}
+      </div>;
+    }
 
-export default Authors;
+    const items = this.renderAuthors(data);
+    return (
+      <div>
+        <h2>Писатели Беларуси</h2>
+        <ul className="item-list list-group">
+          {items}
+        </ul>
+      </div>
+      
+    )
+  }
+}
+export default withRouter(Authors);
