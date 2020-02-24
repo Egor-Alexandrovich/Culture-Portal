@@ -5,7 +5,7 @@ import PhotoGallery from '../PhotoGallery/PhotoGallery';
 import YouTubeVideo from '../YouTubeVideo/YouTubeVideo';
 import ActivityMap from '../ActivityMap/ActivityMap';
 import AuthorIdentity from '../AuthorIdentity/AuthorIdentity';
-import data from '../../data/authors.js';
+import data from '../../data/testAuthors.js';
 import { useParams } from "react-router-dom";
 
 function AuthorDescription() {
@@ -24,7 +24,7 @@ function AuthorDescription() {
         years = { years }
         photo = { photo }
       />
-      { timelineElem, worksElem, galleryElem, videoElem, mapElem }
+      { timelineElem }
     </div>
   );
 }
