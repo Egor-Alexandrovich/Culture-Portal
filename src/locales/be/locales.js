@@ -1,0 +1,15 @@
+export default {
+  'About portal': `Пра партал`,
+  'About portal extended': `Need translation`,
+  'Author of the day': 'Аўтар дня',
+  'More': 'Падрабязней',
+  'Writers of Belarus': 'Пісьменнікі Беларусі',
+  'Website developed by': 'Сайт распрацаваны',
+  'Contribution': 'ўклад',
+  'Our team': 'Наша каманда',
+  'Home': 'Галоўная',
+  'Authors': 'Пісьменнікі',
+  'Team': 'Каманда',
+  'Style guide': 'Стылі сайта',
+  'Worklog': 'Часопіс падзей',
+};
