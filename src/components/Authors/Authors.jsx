@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { withTranslation } from 'react-i18next';
-import data from '../../data/testAuthors.js';
+import data from '../../data/AuthorsData';
 import AuthorIdentity from '../AuthorIdentity/AuthorIdentity';
 
 import { withRouter } from 'react-router-dom';
