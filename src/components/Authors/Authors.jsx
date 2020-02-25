@@ -6,6 +6,14 @@ import AuthorIdentity from '../AuthorIdentity/AuthorIdentity';
 import { withRouter } from 'react-router-dom';
 
 class Authors extends Component {
+  constructor() {
+    super();
+
+    this.state = {
+      list: data,
+    };
+  }
+
   renderAuthors(arr) {
     return arr.map((item) => {
       const { name, years, photo, id } = item;
@@ -21,6 +29,14 @@ class Authors extends Component {
       );
     });
   }
+
+  find(arr) {
+    let value = this.searchInput.value;
+    this.setState({
+      list: arr.filter(au => au.name.toUpperCase().includes(value.toUpperCase())),
+    });  
+  }
+
   render () {
     if (!data) {
       return (
@@ -30,13 +46,12 @@ class Authors extends Component {
       )
     }
 
-    const items = this.renderAuthors(data);
+    let items = this.renderAuthors(this.state.list);
     return (
       <div className="container">
         <h2 className="text-center">Писатели Беларуси</h2>
+        <input type="text" ref={(input) => { this.searchInput = input }} onChange={this.find.bind(this, data)}/>
         <div className="row">
-          {items}
-          {items}
           {items}
         </div>
       </div>
