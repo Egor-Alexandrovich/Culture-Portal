@@ -32,9 +32,13 @@ class Authors extends Component {
 
     const items = this.renderAuthors(data);
     return (
-      <div>
-        <h2>Писатели Беларуси</h2>
+      <div className="container">
+        <h2 className="text-center">Писатели Беларуси</h2>
+        <div className="row">
           {items}
+          {items}
+          {items}
+        </div>
       </div>
       
     )
