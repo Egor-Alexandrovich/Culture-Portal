@@ -11,11 +11,11 @@ import { useParams } from "react-router-dom";
 function AuthorDescription() {
   const { id } = useParams();
   const index = data.findIndex(item => item.id === Number(id));
-  const { name, years, photo, timeline, works, gallery, video, activity } = data[index];
+  const { name, years, photo, timeline, works, gallery, videoId, activity } = data[index];
   const timelineElem = timeline ? <Timeline timeline={timeline}/> : null;
   const worksElem = works ? <WorksList works={works}/> : null;
   const galleryElem = gallery ? <PhotoGallery gallery={gallery}/> : null;
-  const videoElem = video ? <YouTubeVideo video={video}/> : null;
+  const videoElem = videoId ? <YouTubeVideo videoId={videoId}/> : null;
   const mapElem = activity ? <ActivityMap activity={activity}/>  : null;
   return (
     <div>
