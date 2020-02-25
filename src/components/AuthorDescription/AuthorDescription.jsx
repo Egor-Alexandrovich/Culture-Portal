@@ -5,7 +5,7 @@ import PhotoGallery from '../PhotoGallery/PhotoGallery';
 import YouTubeVideo from '../YouTubeVideo/YouTubeVideo';
 import ActivityMap from '../ActivityMap/ActivityMap';
 import AuthorIdentity from '../AuthorIdentity/AuthorIdentity';
-import data from '../../data/testAuthors.js';
+import data from '../../data/AuthorsData';
 import { useParams } from "react-router-dom";
 
 function AuthorDescription() {
