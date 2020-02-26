@@ -5,6 +5,28 @@ export default [
         years: '1896 - 1991',
         about: 'Кондра́т Крапива́ — белорусский советский писатель, поэт, драматург и переводчик, литературовед, сатирик, общественный деятель. Доктор филологических наук, академик АН Белорусской ССР (1950). Член ВКП(б) с 1941 года. Народный писатель Белорусской ССР (1956). Герой Социалистического Труда (1975). Лауреат двух Сталинских премий (1941, 1951) и Государственной премии СССР (1971).',
         photo: 'https://upload.wikimedia.org/wikipedia/commons/0/09/Krapiva-k.jpg',
+        gallery: [
+            {
+              original: 'https://lib.ggau.by/images/LIBRARY/2016/Kandrat_Krapiva/1.JPG',
+              thumbnail: 'https://lib.ggau.by/images/LIBRARY/2016/Kandrat_Krapiva/1.JPG',
+            },
+            {
+              original: 'https://lib.ggau.by/images/LIBRARY/2016/Kandrat_Krapiva/2.JPG',
+              thumbnail: 'https://lib.ggau.by/images/LIBRARY/2016/Kandrat_Krapiva/2.JPG',
+            },
+            {
+              original: 'https://lib.ggau.by/images/LIBRARY/2016/Kandrat_Krapiva/3.JPG',
+              thumbnail: 'https://lib.ggau.by/images/LIBRARY/2016/Kandrat_Krapiva/3.JPG',
+            },
+            {
+                original: 'https://lib.ggau.by/images/LIBRARY/2016/Kandrat_Krapiva/4.JPG',
+                thumbnail: 'https://lib.ggau.by/images/LIBRARY/2016/Kandrat_Krapiva/4.JPG',
+            },
+            {
+                original: 'https://lib.ggau.by/images/LIBRARY/2016/Kandrat_Krapiva/5.JPG',
+                thumbnail: 'https://lib.ggau.by/images/LIBRARY/2016/Kandrat_Krapiva/5.JPG',
+            },
+          ],
         timeline: [
             {
                 dateText: '1896',
@@ -84,15 +106,36 @@ export default [
                     'К. Крапива умер 7 января 1991 года. Похоронен в Минске на Восточном кладбище.'
                 ]
             }
-
-        ]
+        ],
     },
     {
         id: 2,
         name: 'Иван Шамякин',
         years: '1921 - 2004',
         about: 'Ива́н Петро́вич Шамя́кин — белорусский советский писатель, сценарист и драматург, общественный деятель. Народный писатель Белорусской ССР (1972). Герой Социалистического Труда (1981). Лауреат Сталинской премии третьей степени (1951). Член ВКП(б) с 1943 года. Академик Национальной академии наук Беларуси (1994).',
-        photo: 'https://lh3.googleusercontent.com/proxy/ZmNmaejVKLEhQYOYEjeG9QuEpN35sUimi5pw7lqgbXm4N8fqxvvMqF1GlaA-VzD_L0Yse3516eE9QU51rwOtpY5VpMDkTXM',
+        photo: 'https://www.you-books.com/storebooks/I/I-P-Shamyakin/Atlanty-I-Kariatidy-Sbornik/i_001.jpg',
+        gallery: [
+            {
+              original: 'https://www.belta.by/uploads/lotus/news/000027_FDB3D2943D15708F43257F48002EA45B_702252.jpg',
+              thumbnail: 'https://www.belta.by/uploads/lotus/news/000027_FDB3D2943D15708F43257F48002EA45B_702252.jpg',
+            },
+            {
+              original: 'https://www.belta.by/uploads/lotus/news/000027_FDB3D2943D15708F43257F48002EA45B_441527.jpg',
+              thumbnail: 'https://www.belta.by/uploads/lotus/news/000027_FDB3D2943D15708F43257F48002EA45B_441527.jpg',
+            },
+            {
+              original: 'https://www.belta.by/uploads/lotus/news/000027_FDB3D2943D15708F43257F48002EA45B_319191.jpg',
+              thumbnail: 'https://www.belta.by/uploads/lotus/news/000027_FDB3D2943D15708F43257F48002EA45B_319191.jpg',
+            },
+            {
+                original: 'https://www.belta.by/uploads/lotus/news/000027_FDB3D2943D15708F43257F48002EA45B_130032.jpg',
+                thumbnail: 'https://www.belta.by/uploads/lotus/news/000027_FDB3D2943D15708F43257F48002EA45B_130032.jpg',
+            },
+            {
+                original: 'https://www.belta.by/uploads/lotus/news/000027_FDB3D2943D15708F43257F48002EA45B_865284.jpg',
+                thumbnail: 'https://www.belta.by/uploads/lotus/news/000027_FDB3D2943D15708F43257F48002EA45B_865284.jpg',
+            },
+          ],
         timeline: [
             {
                 dateText: '1921',
@@ -168,6 +211,28 @@ export default [
         years: '1924 - 2003',
         about: 'Васи́ль Влади́мирович Бы́ков — советский и белорусский писатель, общественный деятель, участник Великой Отечественной войны. Член Союза писателей СССР. Герой Социалистического Труда (1984). Народный писатель Беларуси (1980). Лауреат Ленинской премии (1986). Лауреат Государственной премии СССР (1974). Лауреат Государственной премии Белорусской ССР (1978).',
         photo: 'https://upload.wikimedia.org/wikipedia/commons/1/1a/Vasil_Bykov_%28cropped%29.jpg',
+        gallery: [
+            {
+              original: 'https://www.knigosvet.com/img/w300/1480389.jpg',
+              thumbnail: 'https://www.knigosvet.com/img/w300/1480389.jpg',
+            },
+            {
+              original: 'https://www.knigosvet.com/img/w300/1471126.jpg',
+              thumbnail: 'https://www.knigosvet.com/img/w300/1471126.jpg',
+            },
+            {
+              original: 'https://www.knigosvet.com/img/w300/1459342.jpg',
+              thumbnail: 'https://www.knigosvet.com/img/w300/1459342.jpg',
+            },
+            {
+                original: 'https://www.knigosvet.com/img/w300/1432040.jpg',
+                thumbnail: 'https://www.knigosvet.com/img/w300/1432040.jpg',
+            },
+            {
+                original: 'https://www.knigosvet.com/img/w300/1409409.jpg',
+                thumbnail: 'https://www.knigosvet.com/img/w300/1409409.jpg',
+            },
+          ],
         timeline: [
             {
                 dateText: '1924',
@@ -249,6 +314,24 @@ export default [
         years: '1917 - 2006',
         about: 'Янка Брыль — белорусский советский писатель и переводчик. Народный писатель Белорусской ССР (1981). Лауреат Сталинской премии третьей степени (1952). Лауреат Государственной премии Белорусской ССР имени Якуба Коласа (1982).',
         photo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/%D0%91%D1%80%D1%8B%D0%BB%D1%8C_%D0%98%D0%B2%D0%B0%D0%BD_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%BE%D0%B2%D0%B8%D1%87_1985.jpg/800px-%D0%91%D1%80%D1%8B%D0%BB%D1%8C_%D0%98%D0%B2%D0%B0%D0%BD_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%BE%D0%B2%D0%B8%D1%87_1985.jpg',
+        gallery: [
+            {
+              original: 'https://www.belta.by/images/storage/news/with_archive/2017/000027_822444_big.jpg',
+              thumbnail: 'https://www.belta.by/images/storage/news/with_archive/2017/000027_822444_big.jpg',
+            },
+            {
+              original: 'https://www.belta.by/uploads/lotus/news/000027_C98176F052699271432581710024A4D9_762557.jpg',
+              thumbnail: 'https://www.belta.by/uploads/lotus/news/000027_C98176F052699271432581710024A4D9_762557.jpg',
+            },
+            {
+              original: 'https://www.belta.by/images/storage/news/with_archive/2017/000027_581459_big.jpg',
+              thumbnail: 'https://www.belta.by/images/storage/news/with_archive/2017/000027_581459_big.jpg',
+            },
+            {
+                original: 'https://www.belta.by/images/storage/news/with_archive/2015/000027_625455_big.jpg',
+                thumbnail: 'https://www.belta.by/images/storage/news/with_archive/2015/000027_625455_big.jpg',
+            },
+          ],
         timeline: [
             {
                 dateText: '1917',
@@ -312,6 +395,24 @@ export default [
         years: '1925 - 2006',
         about: 'Ива́н Я́ковлевич Нау́менко — белорусский советский прозаик и драматург, литературовед. Академик Национальной академии наук Беларуси (1980). Доктор филологических наук (1969), профессор (1971). Заслуженный деятель науки Белорусской ССР (1978). Народный писатель Беларуси (1995). Председатель ВС БССР (1985—1990). Член СП СССР (1957).',
         photo: 'https://upload.wikimedia.org/wikipedia/ru/8/84/%D0%9D%D0%B0%D1%83%D0%BC%D0%B5%D0%BD%D0%BA%D0%BE_%D0%98.jpg',
+        gallery: [
+            {
+              original: 'https://r5.readrate.com/img/pictures/book/641/641314/6413141/w136h203-b3b06948.jpg',
+              thumbnail: 'https://r5.readrate.com/img/pictures/book/641/641314/6413141/w136h203-b3b06948.jpg',
+            },
+            {
+              original: 'https://r5.readrate.com/img/pictures/book/638/638920/6389203/w136h203-41a3a298.jpg',
+              thumbnail: 'https://r5.readrate.com/img/pictures/book/638/638920/6389203/w136h203-41a3a298.jpg',
+            },
+            {
+              original: 'https://r5.readrate.com/img/pictures/book/574/574483/5744839/w136h203-ac2c9c23.jpg',
+              thumbnail: 'https://r5.readrate.com/img/pictures/book/574/574483/5744839/w136h203-ac2c9c23.jpg',
+            },
+            {
+                original: 'https://r5.readrate.com/img/pictures/book/992/992369/992369/w136h203-ee820cad.jpg',
+                thumbnail: 'https://r5.readrate.com/img/pictures/book/992/992369/992369/w136h203-ee820cad.jpg',
+            },
+          ],
         timeline: [
             {
                 dateText: '1925',
@@ -387,34 +488,379 @@ export default [
         years: '1920 - 1982',
         about: 'Андрей Егорович Макаёнок (белор. Андрэй Ягоравіч Макаёнак) — белорусский советский драматург, сценарист. Народный писатель Белорусской ССР (1977). Член ВКП с 1945 года.',
         photo: 'https://upload.wikimedia.org/wikipedia/ru/4/45/Makayonak_A_Ya.jpg',
-        
+        gallery: [
+            {
+              original: 'https://www.belta.by/images/storage/news/with_archive/2015/000027_20230_big.jpg',
+              thumbnail: 'https://www.belta.by/images/storage/news/with_archive/2015/000027_20230_big.jpg',
+            },
+            {
+              original: 'http://delaemvmeste.by/wp-content/uploads/2014/06/Andrey-Mkayonok-so-svoey-zhenoy-Lyubovyu-600x404.jpg',
+              thumbnail: 'http://delaemvmeste.by/wp-content/uploads/2014/06/Andrey-Mkayonok-so-svoey-zhenoy-Lyubovyu-600x404.jpg',
+            },
+            {
+              original: 'http://delaemvmeste.by/wp-content/uploads/2014/06/Andre%60y-Makayonak-z-lepshyim-syabram-Ivanam-SHamyakinam.-1978-god-600x383.jpg',
+              thumbnail: 'http://delaemvmeste.by/wp-content/uploads/2014/06/Andre%60y-Makayonak-z-lepshyim-syabram-Ivanam-SHamyakinam.-1978-god-600x383.jpg',
+            },
+            {
+                original: 'https://www.belarus.by/apimages/4872.jpg',
+                thumbnail: 'https://www.belarus.by/apimages/4872.jpg',
+            },
+          ],
+        timeline: [
+            {
+                dateText: '1920',
+                paragraphs: [
+                    'Родился 12 ноября 1920 года в деревне Борхов  в крестьянской семье.'
+                ]
+            },
+            {
+                dateText: '1927 - 1938',
+                paragraphs: [
+                    'В 1927 году поступил в Борховскую начальную школу, продолжил учёбу в Журавичской средней школе, которую окончил в 1938 году.'
+                ]
+            },
+            {
+                dateText: '1939',
+                paragraphs: [
+                    'В 1939 году не прошёл по конкурсу во Всесоюзный государственный институт кинематографии (ВГИК) и в том же году был мобилизован в ряды РККА, службу проходил в Грузии.'
+                ]
+            },
+            {
+                dateText: '1942 — 1943',
+                paragraphs: [
+                    'Работал военруком в одном из сёл Грузии. В конце 1943 года, после освобождения Гомельской области от оккупантов, вернулся в село Журавичи.'
+                ]
+            },
+            {
+                dateText: '1945 — 1946',
+                paragraphs: [
+                    'Работал заведующим партийным кабинетом Могилёвского железнодорожного узла.'
+                ]
+            },
+            {
+                dateText: '1949',
+                paragraphs: [
+                    'Член СП СССР.'
+                ]
+            },
+            {
+                dateText: '1947 — 1953',
+                paragraphs: [
+                    'В 1947 году поступил в Республиканскую партийную школу при ЦК КПБ, которую окончил в 1949 году. После обучения в партшколе был направлен в журнал «Вожык», где работал до 1953 года в должности заведующего отделом прозы.'
+                ]
+            },
+            {
+                dateText: '1966 — 1978',
+                paragraphs: [
+                    'Главный редактор литературного журнала «Нёман».'
+                ]
+            },
+            {
+                dateText: '1966 — 1982',
+                paragraphs: [
+                    'В 1966 году в составе делегации БССР принимал участие в работе XX сессии Генеральной Ассамблеи ООН, в 1971—1982 годах был депутатом ВС БССР.'
+                ]
+            },
+            {
+                dateText: '1982',
+                paragraphs: [
+                    'Умер 16 ноября 1982 года. Похоронен в Минске на Восточном кладбище.'
+                ]
+            }
+        ]
     },
     {
         id: 7,
         name: 'Иван Чигринов',
         years: '1934 - 1996',
         about: 'Ива́н Гаври́лович Чигри́нов (белор. Іван Гаўрылавіч Чыгрынаў) — народный писатель Белоруссии, публицист, драматург, сценарист. Лауреат Государственной премии БССР (1974). Член СП СССР (1964).',
-        photo: 'https://upload.wikimedia.org/wikipedia/ru/0/02/Chigrinov.jpg'
+        photo: 'https://upload.wikimedia.org/wikipedia/ru/0/02/Chigrinov.jpg',
+        gallery: [
+            {
+              original: 'https://i.livelib.ru/boocover/1001188703/140/e045/Ivan_Chigrinov__Plach_perepelki.jpg',
+              thumbnail: 'https://i.livelib.ru/boocover/1001188703/140/e045/Ivan_Chigrinov__Plach_perepelki.jpg',
+            },
+            {
+              original: 'https://j.livelib.ru/boocover/1002520847/140/64d5/__Sena_na_asfaltse._Apavyadanni.jpg',
+              thumbnail: 'https://j.livelib.ru/boocover/1002520847/140/64d5/__Sena_na_asfaltse._Apavyadanni.jpg',
+            },
+            {
+              original: 'https://j.livelib.ru/workpic/1002823464/140/4185/Ivan_Chygryna%D1%9E__Dzivak_z_Gancharnaj_vulitsy.jpg',
+              thumbnail: 'https://j.livelib.ru/workpic/1002823464/140/4185/Ivan_Chygryna%D1%9E__Dzivak_z_Gancharnaj_vulitsy.jpg',
+            },
+            {
+                original: 'https://i.livelib.ru/boocover/1001189112/140/67dd/Ivan_Chygryna%D1%9E__Svoi_i_chuzhie.jpg',
+                thumbnail: 'https://i.livelib.ru/boocover/1001189112/140/67dd/Ivan_Chygryna%D1%9E__Svoi_i_chuzhie.jpg',
+            },
+          ],
+        timeline: [
+            {
+                dateText: '1934',
+                paragraphs: [
+                    'Иван Чигринов родился 21 декабря 1934 года в деревне Великий Бор Могилёвской области Белорусской ССР в семье председателя сельсовета.'
+                ]
+            },
+            {
+                dateText: '1952',
+                paragraphs: [
+                    'В 1952 году поступил на отделение журналистики филологического факультета Белорусского государственного университета имени В. И. Ленина.'
+                ]
+            },
+            {
+                dateText: '1957 - 1962',
+                paragraphs: [
+                    'После окончания университета, работал в издательстве АН БССР.'
+                ]
+            },
+            {
+                dateText: '1965',
+                paragraphs: [
+                    'Редактор отдела публицистики журнала «Полымя».'
+                ]
+            },
+            {
+                dateText: '1975 - 1976',
+                paragraphs: [
+                    'С 1975 года заместитель начальника, а с 1976 — секретарь правления Союза писателей БССР.'
+                ]
+            },
+            {
+                dateText: '1986',
+                paragraphs: [
+                    'Депутат ВС БССР.'
+                ]
+            },
+            {
+                dateText: '1987',
+                paragraphs: [
+                    'Председатель правления Белорусского отделения советского фонда культуры.'
+                ]
+            },
+            {
+                dateText: '1989',
+                paragraphs: [
+                    'Главный редактор журнала «Спадчына».'
+                ]
+            },
+            {
+                dateText: '1996',
+                paragraphs: [
+                    'Умер Чигринов 5 января 1996 года. Похоронен в Минске, на Восточном кладбище.'
+                ]
+            },
+            {
+                dateText: '1982',
+                paragraphs: [
+                    'Умер 16 ноября 1982 года. Похоронен в Минске на Восточном кладбище.'
+                ]
+            }
+        ]
     },
     {
         id: 8,
         name: 'Светлана Алексиевич',
         years: '1948 - наше время',
         about: 'Светла́на Алекса́ндровна Алексие́вич — советская и белорусская писательница, журналистка, сценарист документальных фильмов. Пишет на русском языке. Первый белорусский и шестой русскоязычный лауреат Нобелевской премии по литературе (2015 год).',
-        photo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/%D0%A1%D0%B2%D1%96%D1%82%D0%BB%D0%B0%D0%BD%D0%B0_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D1%96%D1%94%D0%B2%D0%B8%D1%87_%28%D0%9A%D0%B8%D1%97%D0%B2%2C_2016%29_08_%28cropped%29.JPG/1024px-%D0%A1%D0%B2%D1%96%D1%82%D0%BB%D0%B0%D0%BD%D0%B0_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D1%96%D1%94%D0%B2%D0%B8%D1%87_%28%D0%9A%D0%B8%D1%97%D0%B2%2C_2016%29_08_%28cropped%29.JPG'
+        photo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/%D0%A1%D0%B2%D1%96%D1%82%D0%BB%D0%B0%D0%BD%D0%B0_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D1%96%D1%94%D0%B2%D0%B8%D1%87_%28%D0%9A%D0%B8%D1%97%D0%B2%2C_2016%29_08_%28cropped%29.JPG/1024px-%D0%A1%D0%B2%D1%96%D1%82%D0%BB%D0%B0%D0%BD%D0%B0_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D1%96%D1%94%D0%B2%D0%B8%D1%87_%28%D0%9A%D0%B8%D1%97%D0%B2%2C_2016%29_08_%28cropped%29.JPG',
+        gallery: [
+            {
+              original: 'https://www.belta.by/images/storage/news/with_archive/2018/000027_1527739953_304880_big.jpg',
+              thumbnail: 'https://www.belta.by/images/storage/news/with_archive/2018/000027_1527739953_304880_big.jpg',
+            },
+            {
+              original: 'https://www.belta.by/uploads/lotus/news/000027_98F413E8287048754325829E00168FDF_587857.jpg',
+              thumbnail: 'https://www.belta.by/uploads/lotus/news/000027_98F413E8287048754325829E00168FDF_587857.jpg',
+            },
+            {
+              original: 'https://www.belta.by/images/storage/news/with_archive/2019/000026_1552294193_339478_big.jpg',
+              thumbnail: 'https://www.belta.by/images/storage/news/with_archive/2019/000026_1552294193_339478_big.jpg',
+            },
+            {
+                original: 'https://www.belta.by/images/storage/news/with_archive/2015/000027_377086_big.jpg',
+                thumbnail: 'https://www.belta.by/images/storage/news/with_archive/2015/000027_377086_big.jpg',
+            },
+          ],
+        timeline: [
+            {
+                dateText: '1948',
+                paragraphs: [
+                    'Родилась 31 мая 1948 года в Станиславе.'
+                ]
+            },
+            {
+                dateText: '1965',
+                paragraphs: [
+                    'Окончила среднюю школу в Копаткевичах Гомельской области.'
+                ]
+            },
+            {
+                dateText: '1972',
+                paragraphs: [
+                    'В 1972 году окончила факультет журналистики Белорусского государственного университета, начала работу в «Маяке коммунизма» — районной газете в Берёзе Брестской области.'
+                ]
+            },
+            {
+                dateText: '1973 — 1976',
+                paragraphs: [
+                    'Работала в белорусской «Сельской газете»'
+                ]
+            },
+            {
+                dateText: '1976 — 1984',
+                paragraphs: [
+                    'Руководитель отдела очерка и публицистики журнала «Нёман».'
+                ]
+            },
+            {
+                dateText: '1983',
+                paragraphs: [
+                    'В 1983 году по рекомендации А. Адамовича, Я. Брыля, В. Быкова и В. Витки принята в Союз писателей СССР'
+                ]
+            },
+            {
+                dateText: '2000 - 2012',
+                paragraphs: [
+                    'Жила в Италии, Франции, Германии'
+                ]
+            },
+            {
+                dateText: '2013',
+                paragraphs: [
+                    'Снова живёт в Белоруссии'
+                ]
+            },
+            {
+                dateText: '2013-2020',
+                paragraphs: [
+                    'Член Рады (Совета) Союза белорусских писателей, вице-президент Международного ПЕН-клуба, с 26 октября 2019 года — председатель Белорусского ПЕН-центра'
+                ]
+            }
+        ]
     },
     {
         id: 9,
         name: 'Наталья Батракова',
         years: '1964 - наше время',
         about: 'Наталья Николаевна Батракова — русскоязычная писательница из Белоруссии. Одна из лидеров современных прозаиков по количеству проданных книг в Белоруссии, автор популярных романов',
-        photo: 'https://www.sb.by/upload/resize_cache/slam.image/iblock/d5a/d5a8e5ef430671d5255fd9948a224de2.jpg'
+        photo: 'https://www.sb.by/upload/resize_cache/slam.image/iblock/d5a/d5a8e5ef430671d5255fd9948a224de2.jpg',
+        gallery: [
+            {
+              original: 'http://villib.by/wp-content/uploads/2019/10/20191003_131403.jpg',
+              thumbnail: 'http://villib.by/wp-content/uploads/2019/10/20191003_131403.jpg',
+            },
+            {
+              original: 'http://villib.by/wp-content/uploads/2019/10/20191003_111440.jpg',
+              thumbnail: 'http://villib.by/wp-content/uploads/2019/10/20191003_111440.jpg',
+            },
+            {
+              original: 'http://villib.by/wp-content/uploads/2019/10/IMG_20191003_130708.jpg',
+              thumbnail: 'http://villib.by/wp-content/uploads/2019/10/IMG_20191003_130708.jpg',
+            },
+            {
+                original: 'http://villib.by/wp-content/uploads/2019/10/IMG_20191003_123831.jpg',
+                thumbnail: 'http://villib.by/wp-content/uploads/2019/10/IMG_20191003_123831.jpg',
+            },
+          ],
+        timeline: [
+            {
+                dateText: '1964',
+                paragraphs: [
+                    'Наталья Батракова родилась 18 мая 1964 года в Белыничах, Могилёвская область, Белоруссия.'
+                ]
+            },
+            {
+                dateText: '1981',
+                paragraphs: [
+                    'Окончила Белыническую СШ № 2.'
+                ]
+            },
+            {
+                dateText: '1986',
+                paragraphs: [
+                    'В 1986 году окончила Белорусский институт инженеров железнодорожного транспорта в Гомеле'
+                ]
+            },
+            {
+                dateText: '2002',
+                paragraphs: [
+                    'Стихи пробовала писать с 16 лет. Её книги романы-дилогии «Территория души» и «Площадь согласия» стали настоящими бестселлерами на белорусском книжном рынке. Известным автором стала после дилогии «Территория души».'
+                ]
+            },
+            {
+                dateText: '2012',
+                paragraphs: [
+                    'Её роман «Миг бесконечности» в 2-х томах стал самым продаваемой художественной книгой в Белоруссии в 2012 году'
+                ]
+            },
+            {
+                dateText: '2013',
+                paragraphs: [
+                    'По итогам профессионального конкурса «Брэнд года—2012», проводимого в Белоруссии, Наталья Батракова стала брэнд-персоной 2012 года в номинации «Культура»'
+                ]
+            }
+        ]
     },
     {
         id: 10,
         name: 'Виктор Мартинович',
         years: '1977 - наше время',
         about: 'Ви́ктор Вале́рьевич Мартино́вич — белорусский писатель, искусствовед и журналист. С 2002 по 2015 г. заместитель главного редактора информационно-аналитического еженедельника «БелГазета»',
-        photo: 'https://s12.stc.all.kpcdn.net/share/i/4/687943/big.jpg'
+        photo: 'https://s12.stc.all.kpcdn.net/share/i/4/687943/big.jpg',
+        gallery: [
+            {
+              original: 'https://s14.stc.all.kpcdn.net/share/i/4/1587470/inx960x640.jpg',
+              thumbnail: 'https://s14.stc.all.kpcdn.net/share/i/4/1587470/inx960x640.jpg',
+            },
+            {
+              original: 'https://s11.stc.all.kpcdn.net/share/i/4/1587460/inx960x640.jpg',
+              thumbnail: 'https://s11.stc.all.kpcdn.net/share/i/4/1587460/inx960x640.jpg',
+            },
+            {
+              original: 'https://s16.stc.all.kpcdn.net/share/i/4/1587462/inx960x640.jpg',
+              thumbnail: 'https://s16.stc.all.kpcdn.net/share/i/4/1587462/inx960x640.jpg',
+            },
+            {
+                original: 'https://s10.stc.all.kpcdn.net/share/i/4/1587472/inx960x640.jpg',
+                thumbnail: 'https://s10.stc.all.kpcdn.net/share/i/4/1587472/inx960x640.jpg',
+            },
+          ],
+        timeline: [
+            {
+                dateText: '1977',
+                paragraphs: [
+                    'Родился 9 сентября 1977 года в Ошмянах.'
+                ]
+            },
+            {
+                dateText: '1999',
+                paragraphs: [
+                    'В 1999 году окончил факультет журналистики'
+                ]
+            },
+            {
+                dateText: '2002',
+                paragraphs: [
+                    'В 2002 году окончил — аспирантуру БГУ'
+                ]
+            },
+            {
+                dateText: '2002 - 2015',
+                paragraphs: [
+                    'Заместитель главного редактора информационно-аналитического еженедельника «БелГазета»'
+                ]
+            },
+            {
+                dateText: '2008',
+                paragraphs: [
+                    '27 июня 2008 года в Вильнюсской Академии Искусств (Литва) защитил докторскую диссертацию на тему «Витебский авангард (1918—1922): социокультурный контекст и художественная критика» («Віцебскі авангард (1918—1922): сацыякультурны кантэкст і мастацкая крытыка»)[3], имеет учёную степень PhD по истории искусств. Преподаёт в Европейском гуманитарном университете.'
+                ]
+            },
+            {
+                dateText: '2014',
+                paragraphs: [
+                    'В октябре-декабре 2014 года занимался научно-исследовательской работой в Институте гуманитарных наук в Вене (Австрия), где в рамках программы им. Милены Есенской готовил работу о витебском периоде жизни и творчества Марка Шагала.'
+                ]
+            }
+        ]
     }
 ];

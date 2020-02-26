@@ -137,7 +137,7 @@ li {
 }
 
 .day-author {
-    width: 70%;
+    width: 100%;
 }
 
 .day-author h2 {
@@ -206,5 +206,13 @@ li {
 @media (min-width: 5000px) {
     .head, .about, .day-author, .footer {
         width: 3500px;
+    }
+}
+
+@media (max-width: 850px) {
+    .about-team-wrapp:after {
+
+        background: url(./assets/images/manuscript-roll.jpg) no-repeat center; 
+
     }
 }

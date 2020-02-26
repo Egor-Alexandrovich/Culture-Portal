@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import './Authors.scss';
 import { withTranslation } from 'react-i18next';
 import data from '../../data/AuthorsData';
 import AuthorIdentity from '../AuthorIdentity/AuthorIdentity';
@@ -50,7 +51,9 @@ class Authors extends Component {
     return (
       <div className="container">
         <h2 className="text-center">Писатели Беларуси</h2>
-        <input type="text" ref={(input) => { this.searchInput = input }} onChange={this.find.bind(this, data)}/>
+        <div className="search-wrapp">
+          <input type="text" className="search" placeholder="Search" ref={(input) => { this.searchInput = input }} onChange={this.find.bind(this, data)}/>
+        </div>
         <div className="row">
           {items}
         </div>
