@@ -1,0 +1,28 @@
+.map-container {
+  max-width: 800px;
+  width: 100%;
+  height: 400px;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+.fullscreenControlStyle {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  padding: 10px
+};
+
+.navStyle {
+  position: absolute;
+  top: 36px;
+  left: 0px;
+  padding: 10px
+};
+
+.scaleControlStyle {
+  position: absolute;
+  bottom: 36px;
+  left: 0px;
+  padding: 10px
+};
