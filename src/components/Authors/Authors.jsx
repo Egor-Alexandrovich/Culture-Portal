@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import './Authors.scss';
 import { withTranslation } from 'react-i18next';
 import data from '../../data/AuthorsData';
 import AuthorIdentity from '../AuthorIdentity/AuthorIdentity';
@@ -40,7 +41,7 @@ class Authors extends Component {
   render () {
     if (!data) {
       return (
-        <div>
+        <div className = "main-background" >
         <h2>Писатели Беларуси</h2>
       </div>
       )
@@ -48,7 +49,7 @@ class Authors extends Component {
 
     let items = this.renderAuthors(this.state.list);
     return (
-      <div className="container">
+      <div className="container main-background">
         <h2 className="text-center">Писатели Беларуси</h2>
         <input type="text" ref={(input) => { this.searchInput = input }} onChange={this.find.bind(this, data)}/>
         <div className="row">
