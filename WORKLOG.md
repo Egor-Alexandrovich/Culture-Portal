@@ -10,3 +10,9 @@
 | Start time  | End time | time spent | feature |
 |-----------|-------------|-------------|-------------|
 | Feb 21 | Feb 23 | 4h | Multi-language |
+
+*Yahor Shulha*
+| Start time  | End time | time spent | feature |
+|-----------|-------------|-------------|-------------|
+| Feb 24 | Feb 24 | 4h | add authors page |
+| Fed 24 | Fed 24 | 1h | add add logic  authors page  |
