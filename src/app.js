@@ -15,13 +15,28 @@ import {
 } from "react-router-dom";
 
 class App extends Component {
+  state = {
+    id: null,
+  }
+  componentDidMount() {
+    this.updateAuthor();
+  }
+  updateAuthor = () => {
+    const date = new Date();
+    const day = date.getDate();
+    const AuthorId = day % 10 + 1;
+    this.setState({
+      id:AuthorId
+    })
+  };
   render() {
+    const { id } = this.state;
     return (
       <Router>
           <Header />
           <Switch>
             <Route exact path="/">
-              <Main />
+              <Main id = {id}/>
             </Route>
             <Route exact path="/authors">
               <Authors />
