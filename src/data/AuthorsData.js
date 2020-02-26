@@ -91,7 +91,7 @@ export default [
         name: 'Иван Шамякин',
         years: '1921 - 2004',
         about: 'Ива́н Петро́вич Шамя́кин — белорусский советский писатель, сценарист и драматург, общественный деятель. Народный писатель Белорусской ССР (1972). Герой Социалистического Труда (1981). Лауреат Сталинской премии третьей степени (1951). Член ВКП(б) с 1943 года. Академик Национальной академии наук Беларуси (1994).',
-        photo: 'https://lh3.googleusercontent.com/proxy/ZmNmaejVKLEhQYOYEjeG9QuEpN35sUimi5pw7lqgbXm4N8fqxvvMqF1GlaA-VzD_L0Yse3516eE9QU51rwOtpY5VpMDkTXM',
+        photo: 'https://www.you-books.com/storebooks/I/I-P-Shamyakin/Atlanty-I-Kariatidy-Sbornik/i_001.jpg',
         timeline: [
             {
                 dateText: '1921',
