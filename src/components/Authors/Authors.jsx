@@ -41,7 +41,7 @@ class Authors extends Component {
   render () {
     if (!data) {
       return (
-        <div className = "main-background" >
+        <div>
         <h2>Писатели Беларуси</h2>
       </div>
       )
@@ -49,9 +49,11 @@ class Authors extends Component {
 
     let items = this.renderAuthors(this.state.list);
     return (
-      <div className="container main-background">
+      <div className="container">
         <h2 className="text-center">Писатели Беларуси</h2>
-        <input type="text" ref={(input) => { this.searchInput = input }} onChange={this.find.bind(this, data)}/>
+        <div className="search-wrapp">
+          <input type="text" className="search" placeholder="Search" ref={(input) => { this.searchInput = input }} onChange={this.find.bind(this, data)}/>
+        </div>
         <div className="row">
           {items}
         </div>

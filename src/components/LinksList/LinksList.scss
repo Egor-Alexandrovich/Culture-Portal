@@ -1,5 +1,7 @@
 .links-list {
   display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
   margin: 0;
   @media (max-width: 550px) {
     justify-content: space-around;
@@ -7,9 +9,12 @@
   }
 }
 
+.links-list li {
+  padding: 0 15px;
+}
+
 .links-item {
   color: black;
-  padding: 0 15px;
   text-decoration: overline;
   &:hover {
     text-decoration: overline;
