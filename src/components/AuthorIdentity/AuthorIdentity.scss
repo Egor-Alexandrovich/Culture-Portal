@@ -1,11 +1,8 @@
 .card-width {
   width: 350px;
   margin: 20px auto;
-  @media (max-width: 550px) {
-    width: 85%;
-  }
-  @media (max-width: 550px) {
-    width: 85%;
+  @media (max-width: 350px) {
+    width: -webkit-fill-available;
   }
 }
 

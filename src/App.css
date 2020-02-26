@@ -208,3 +208,11 @@ li {
         width: 3500px;
     }
 }
+
+@media (max-width: 850px) {
+    .about-team-wrapp:after {
+
+        background: url(./assets/images/manuscript-roll.jpg) no-repeat center; 
+
+    }
+}
