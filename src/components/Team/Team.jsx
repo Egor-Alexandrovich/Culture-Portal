@@ -2,6 +2,7 @@ import React from 'react';
 import TeamMember from '../TeamMember/TeamMember';
 import membersArray from '../../data/members';
 import { withTranslation } from 'react-i18next';
+import "./Team.scss"
 
 function Team({t}) {
   const membersList = membersArray.map(item => {
