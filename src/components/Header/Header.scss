@@ -1,4 +1,5 @@
 .header-container {
+  width: 100%;
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -12,6 +13,17 @@
   }
 }
 
+
+.head {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  @media (min-width: 3500px) {
+    width: 3500px;
+  }
+}
+
 .logo-img {
   height: 65px;
   @media (max-width: 550px) {
@@ -22,7 +34,7 @@
 .logo-name {
   margin: 0;
   font-family: 'Dancing Script', cursive;
-  @media (max-width: 1100px) {
+  @media (max-width: 1150px) {
     width: min-content;
   }
   @media (max-width: 950px) {
@@ -30,3 +42,85 @@
   }
 }
 
+.app-name {
+  height: 200px;
+  width: 200px;
+  border-radius: 5px;
+  background: url(../../assets/images/book-background.jpg) no-repeat center;
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-bottom: 40px;
+  font-family: 'Dancing Script', cursive;
+}
+
+.app-name span {
+  font-size: 30px;
+}
+
+li {
+  list-style-type: none;
+}
+
+.item {
+  padding: 8px 15px 8px 0px;
+}
+
+.list {
+  margin-bottom: 0;
+}
+
+.list:after {
+  content: "";
+  width: 0;
+  height: 0;
+  position: absolute;
+  top: 22px;
+  right: 10px;
+  margin-top: -6px;
+  border-width: 0px 6px 6px 6px;
+  border-style: solid;
+  border-color: rgb(238, 255, 0) transparent;
+  transition: 0.5s;
+}
+
+.list:hover:after {
+  transform: rotate(180deg);
+}
+
+.list>li:hover>.sub-list {
+  display: block;
+}
+
+.sub-list {
+  display: none;
+  text-align: center;
+  padding-top: 15px;
+}
+
+.head-buttons-block {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.head-buttons {
+  width: 49%;
+  height: auto;
+  padding: 10px 10px;
+  color: #ef0;
+}
+
+
+@media (max-width: 450px) {
+  .head-buttons-block {
+      flex-direction: column;
+  }
+  .head-buttons {
+      width: 100%;
+      margin-top: 10px;
+  }    
+}

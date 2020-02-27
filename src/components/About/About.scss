@@ -1,0 +1,41 @@
+.about-wrapp, .about-team-wrapp {
+    position: relative;
+    background-color: black;
+    margin: 20px 0;
+    z-index: -2;
+}
+ 
+.about-wrapp:after, .about-team-wrapp:after {
+    content : "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: url(../../assets/images/manuscript3.jpg) no-repeat center; 
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+.about, .about-team {
+    width: 70%;
+    padding: 20px 0;
+    font-family: 'Caveat', cursive;
+}
+
+.about p {
+    font-size: 30px;
+}
+
+.author-wrapp {
+    width: 100%;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    padding: 20px 0;
+}
+
+@media (min-width: 5000px) {
+    .about {
+        width: 3500px;
+    }
+}

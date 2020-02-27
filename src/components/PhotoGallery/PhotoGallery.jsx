@@ -9,7 +9,7 @@ function PhotoGallery({gallery}) {
       <ImageGallery items={gallery}
         showBullets = {true}
         disableSwipe = {true}
-      />;
+      />
     </div>
   );
 }
