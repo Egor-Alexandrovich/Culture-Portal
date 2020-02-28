@@ -3,7 +3,7 @@ import gitIco from '../../assets/icons/github.svg';
 import { withTranslation } from 'react-i18next';
 
 function TeamMember({ name, photo, gitHub, contribution, t}) {
-  const contributionList = contribution.map((item, index) => <li key={ index }>{ item }</li>);
+  const contributionList = contribution.map((item, index) => <li key={ index }>{ item.feature }</li>);
   return (
     <div className="participant d-flex flex-column align-items-center">
       <h3>{ name }</h3>
