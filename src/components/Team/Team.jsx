@@ -6,10 +6,10 @@ import "./Team.scss"
 
 function Team({t}) {
   const membersList = membersArray.map(item => {
-    const { id, names, photo, gitHub, contribution } = item;
+    const { id, name, photo, gitHub, contribution } = item;
     return <TeamMember
       key = { id }
-      name = { names }
+      name = { name }
       photo = { photo }
       gitHub = { gitHub }
       contribution = { contribution }

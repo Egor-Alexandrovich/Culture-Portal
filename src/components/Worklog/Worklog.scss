@@ -1,0 +1,19 @@
+.worklog-wrapper {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  @media (max-width: 1020px) {
+    grid-template-columns: 100%;
+    h2 {
+      font-size: 1rem;
+    }
+  }
+}
+
+.table-container {
+  display: inline-block;
+  padding: 20px;
+  @media (max-width: 600px) {
+    padding: 10px;
+    font-size: 0.8em;;
+  }
+}
