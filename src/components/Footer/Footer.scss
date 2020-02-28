@@ -1,19 +1,15 @@
+@import '../../colors.scss';
+
 .footer-wrapp {
     width: 100%;
     display: flex;
     justify-content: center;
-    background-color: black;
+    background-color: $primary-dark;
 }
 
 .footer {
-    width: 70%;
-    padding: 35px 0;
-    color: rgb(238, 255, 0);
+    width: 100%;
+    font-family: Caveat, cursive;
+    color: $secondary-light;
     font-size: 25px;
-}
-
-@media (min-width: 5000px) {
-    .footer {
-        width: 3500px;
-    }
 }

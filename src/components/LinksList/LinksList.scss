@@ -1,3 +1,5 @@
+@import '../../colors.scss';
+
 .links-list {
   display: flex;
   justify-content: center;
@@ -14,10 +16,37 @@
 }
 
 .links-item {
-  color: black;
-  text-decoration: overline;
+  color: $primary-dark;
+  font-family: Caveat, cursive;
+  text-decoration: none;
+  font-size: 1.4rem;
+  display: inline-block;
+  &:before,
+  &:after {
+    content: '';
+    transition: width 0.3s ease-in-out;
+    margin: 0 auto;
+    height: 2px;
+    background: $primary-dark;
+    display: block;
+  }
+  &:before {
+    width: 100%;
+  }
+  
+  &:after {
+    width: 0;
+  }
+  
   &:hover {
-    text-decoration: overline;
+    color: $primary-dark;
+    text-decoration: none;
+    &:before{
+      width: 0;
+    }
+    &:after{
+    width: 100%;
+    }
   }
   @media (max-width: 550px) {
     padding: 0;
