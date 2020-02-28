@@ -40,6 +40,30 @@ export default [
         endTime: 'Feb 21',
         timeSpent: '15 min',
         feature: 'add basic structure of the project',
+      },
+      {
+        startTime: 'Feb 23',
+        endTime: 'Feb 24',
+        timeSpent: '30 min',
+        feature: 'implement timeline component',
+      },
+      {
+        startTime: 'Feb 24',
+        endTime: 'Feb 24',
+        timeSpent: '1h',
+        feature: 'append writers\' works element',
+      },
+      {
+        startTime: 'Feb 25',
+        endTime: 'Feb 25',
+        timeSpent: '1.5h',
+        feature: 'add YouTube video widget',
+      },
+      {
+        startTime: 'Feb 26',
+        endTime: 'Feb 27',
+        timeSpent: '3h',
+        feature: 'actualize activity map box',
       }
     ]
   },
