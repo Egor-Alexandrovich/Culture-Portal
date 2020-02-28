@@ -13,7 +13,7 @@ class ActivityMap extends Component {
       viewport: {
         latitude: 53.9006,
         longitude: 27.5590,
-        zoom: 10,
+        zoom: 9.5,
         bearing: 0,
         pitch: 0
       },

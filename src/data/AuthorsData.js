@@ -7,16 +7,16 @@ export default [
         photo: 'https://upload.wikimedia.org/wikipedia/commons/0/09/Krapiva-k.jpg',
         gallery: [
             {
-              original: 'https://lib.ggau.by/images/LIBRARY/2016/Kandrat_Krapiva/1.JPG',
-              thumbnail: 'https://lib.ggau.by/images/LIBRARY/2016/Kandrat_Krapiva/1.JPG',
+                original: 'https://lib.ggau.by/images/LIBRARY/2016/Kandrat_Krapiva/1.JPG',
+                thumbnail: 'https://lib.ggau.by/images/LIBRARY/2016/Kandrat_Krapiva/1.JPG',
             },
             {
-              original: 'https://lib.ggau.by/images/LIBRARY/2016/Kandrat_Krapiva/2.JPG',
-              thumbnail: 'https://lib.ggau.by/images/LIBRARY/2016/Kandrat_Krapiva/2.JPG',
+                original: 'https://lib.ggau.by/images/LIBRARY/2016/Kandrat_Krapiva/2.JPG',
+                thumbnail: 'https://lib.ggau.by/images/LIBRARY/2016/Kandrat_Krapiva/2.JPG',
             },
             {
-              original: 'https://lib.ggau.by/images/LIBRARY/2016/Kandrat_Krapiva/3.JPG',
-              thumbnail: 'https://lib.ggau.by/images/LIBRARY/2016/Kandrat_Krapiva/3.JPG',
+                original: 'https://lib.ggau.by/images/LIBRARY/2016/Kandrat_Krapiva/3.JPG',
+                thumbnail: 'https://lib.ggau.by/images/LIBRARY/2016/Kandrat_Krapiva/3.JPG',
             },
             {
                 original: 'https://lib.ggau.by/images/LIBRARY/2016/Kandrat_Krapiva/4.JPG',
@@ -26,7 +26,7 @@ export default [
                 original: 'https://lib.ggau.by/images/LIBRARY/2016/Kandrat_Krapiva/5.JPG',
                 thumbnail: 'https://lib.ggau.by/images/LIBRARY/2016/Kandrat_Krapiva/5.JPG',
             },
-          ],
+        ],
         timeline: [
             {
                 dateText: '1896',
@@ -107,6 +107,13 @@ export default [
                 ]
             }
         ],
+        activity: [
+            {
+                latitude: 53.938303,
+                longitude: 27.662716,
+                description: 'Похоронен на Восточном кладбище'
+            }
+        ]
     },
     {
         id: 2,
@@ -116,16 +123,16 @@ export default [
         photo: 'https://www.you-books.com/storebooks/I/I-P-Shamyakin/Atlanty-I-Kariatidy-Sbornik/i_001.jpg',
         gallery: [
             {
-              original: 'https://www.belta.by/uploads/lotus/news/000027_FDB3D2943D15708F43257F48002EA45B_702252.jpg',
-              thumbnail: 'https://www.belta.by/uploads/lotus/news/000027_FDB3D2943D15708F43257F48002EA45B_702252.jpg',
+                original: 'https://www.belta.by/uploads/lotus/news/000027_FDB3D2943D15708F43257F48002EA45B_702252.jpg',
+                thumbnail: 'https://www.belta.by/uploads/lotus/news/000027_FDB3D2943D15708F43257F48002EA45B_702252.jpg',
             },
             {
-              original: 'https://www.belta.by/uploads/lotus/news/000027_FDB3D2943D15708F43257F48002EA45B_441527.jpg',
-              thumbnail: 'https://www.belta.by/uploads/lotus/news/000027_FDB3D2943D15708F43257F48002EA45B_441527.jpg',
+                original: 'https://www.belta.by/uploads/lotus/news/000027_FDB3D2943D15708F43257F48002EA45B_441527.jpg',
+                thumbnail: 'https://www.belta.by/uploads/lotus/news/000027_FDB3D2943D15708F43257F48002EA45B_441527.jpg',
             },
             {
-              original: 'https://www.belta.by/uploads/lotus/news/000027_FDB3D2943D15708F43257F48002EA45B_319191.jpg',
-              thumbnail: 'https://www.belta.by/uploads/lotus/news/000027_FDB3D2943D15708F43257F48002EA45B_319191.jpg',
+                original: 'https://www.belta.by/uploads/lotus/news/000027_FDB3D2943D15708F43257F48002EA45B_319191.jpg',
+                thumbnail: 'https://www.belta.by/uploads/lotus/news/000027_FDB3D2943D15708F43257F48002EA45B_319191.jpg',
             },
             {
                 original: 'https://www.belta.by/uploads/lotus/news/000027_FDB3D2943D15708F43257F48002EA45B_130032.jpg',
@@ -135,7 +142,7 @@ export default [
                 original: 'https://www.belta.by/uploads/lotus/news/000027_FDB3D2943D15708F43257F48002EA45B_865284.jpg',
                 thumbnail: 'https://www.belta.by/uploads/lotus/news/000027_FDB3D2943D15708F43257F48002EA45B_865284.jpg',
             },
-          ],
+        ],
         timeline: [
             {
                 dateText: '1921',
@@ -203,6 +210,13 @@ export default [
                     'Скончался 14 октября 2004 года в Минске. Похоронен на Восточном кладбище.'
                 ]
             }
+        ],
+        activity: [
+            {
+                latitude: 53.938303,
+                longitude: 27.662716,
+                description: 'Похоронен на Восточном кладбище'
+            }
         ]
     },
     {
@@ -213,16 +227,16 @@ export default [
         photo: 'https://upload.wikimedia.org/wikipedia/commons/1/1a/Vasil_Bykov_%28cropped%29.jpg',
         gallery: [
             {
-              original: 'https://www.knigosvet.com/img/w300/1480389.jpg',
-              thumbnail: 'https://www.knigosvet.com/img/w300/1480389.jpg',
+                original: 'https://www.knigosvet.com/img/w300/1480389.jpg',
+                thumbnail: 'https://www.knigosvet.com/img/w300/1480389.jpg',
             },
             {
-              original: 'https://www.knigosvet.com/img/w300/1471126.jpg',
-              thumbnail: 'https://www.knigosvet.com/img/w300/1471126.jpg',
+                original: 'https://www.knigosvet.com/img/w300/1471126.jpg',
+                thumbnail: 'https://www.knigosvet.com/img/w300/1471126.jpg',
             },
             {
-              original: 'https://www.knigosvet.com/img/w300/1459342.jpg',
-              thumbnail: 'https://www.knigosvet.com/img/w300/1459342.jpg',
+                original: 'https://www.knigosvet.com/img/w300/1459342.jpg',
+                thumbnail: 'https://www.knigosvet.com/img/w300/1459342.jpg',
             },
             {
                 original: 'https://www.knigosvet.com/img/w300/1432040.jpg',
@@ -232,7 +246,7 @@ export default [
                 original: 'https://www.knigosvet.com/img/w300/1409409.jpg',
                 thumbnail: 'https://www.knigosvet.com/img/w300/1409409.jpg',
             },
-          ],
+        ],
         timeline: [
             {
                 dateText: '1924',
@@ -306,6 +320,13 @@ export default [
                     'Умер 22 июня 2003 года в 20 часов 30 минут от злокачественной опухоли желудка в реанимационном отделении онкологического госпиталя в Боровлянах, под Минском. Похоронен на Восточном кладбище в Минске.'
                 ]
             }
+        ],
+        activity: [
+            {
+                latitude: 53.938303,
+                longitude: 27.662716,
+                description: 'Похоронен на Восточном кладбище'
+            }
         ]
     },
     {
@@ -316,22 +337,22 @@ export default [
         photo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/%D0%91%D1%80%D1%8B%D0%BB%D1%8C_%D0%98%D0%B2%D0%B0%D0%BD_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%BE%D0%B2%D0%B8%D1%87_1985.jpg/800px-%D0%91%D1%80%D1%8B%D0%BB%D1%8C_%D0%98%D0%B2%D0%B0%D0%BD_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%BE%D0%B2%D0%B8%D1%87_1985.jpg',
         gallery: [
             {
-              original: 'https://www.belta.by/images/storage/news/with_archive/2017/000027_822444_big.jpg',
-              thumbnail: 'https://www.belta.by/images/storage/news/with_archive/2017/000027_822444_big.jpg',
+                original: 'https://www.belta.by/images/storage/news/with_archive/2017/000027_822444_big.jpg',
+                thumbnail: 'https://www.belta.by/images/storage/news/with_archive/2017/000027_822444_big.jpg',
             },
             {
-              original: 'https://www.belta.by/uploads/lotus/news/000027_C98176F052699271432581710024A4D9_762557.jpg',
-              thumbnail: 'https://www.belta.by/uploads/lotus/news/000027_C98176F052699271432581710024A4D9_762557.jpg',
+                original: 'https://www.belta.by/uploads/lotus/news/000027_C98176F052699271432581710024A4D9_762557.jpg',
+                thumbnail: 'https://www.belta.by/uploads/lotus/news/000027_C98176F052699271432581710024A4D9_762557.jpg',
             },
             {
-              original: 'https://www.belta.by/images/storage/news/with_archive/2017/000027_581459_big.jpg',
-              thumbnail: 'https://www.belta.by/images/storage/news/with_archive/2017/000027_581459_big.jpg',
+                original: 'https://www.belta.by/images/storage/news/with_archive/2017/000027_581459_big.jpg',
+                thumbnail: 'https://www.belta.by/images/storage/news/with_archive/2017/000027_581459_big.jpg',
             },
             {
                 original: 'https://www.belta.by/images/storage/news/with_archive/2015/000027_625455_big.jpg',
                 thumbnail: 'https://www.belta.by/images/storage/news/with_archive/2015/000027_625455_big.jpg',
             },
-          ],
+        ],
         timeline: [
             {
                 dateText: '1917',
@@ -387,6 +408,13 @@ export default [
                     'Янка Брыль скончался 25 июля 2006. Похоронен в Колодищах.'
                 ]
             }
+        ],
+        activity: [
+            {
+                latitude: 53.906602,
+                longitude: 27.833675,
+                description: 'Похоронен на кладбище в Колодищах'
+            }
         ]
     },
     {
@@ -397,22 +425,22 @@ export default [
         photo: 'https://upload.wikimedia.org/wikipedia/ru/8/84/%D0%9D%D0%B0%D1%83%D0%BC%D0%B5%D0%BD%D0%BA%D0%BE_%D0%98.jpg',
         gallery: [
             {
-              original: 'https://r5.readrate.com/img/pictures/book/641/641314/6413141/w136h203-b3b06948.jpg',
-              thumbnail: 'https://r5.readrate.com/img/pictures/book/641/641314/6413141/w136h203-b3b06948.jpg',
+                original: 'https://r5.readrate.com/img/pictures/book/641/641314/6413141/w136h203-b3b06948.jpg',
+                thumbnail: 'https://r5.readrate.com/img/pictures/book/641/641314/6413141/w136h203-b3b06948.jpg',
             },
             {
-              original: 'https://r5.readrate.com/img/pictures/book/638/638920/6389203/w136h203-41a3a298.jpg',
-              thumbnail: 'https://r5.readrate.com/img/pictures/book/638/638920/6389203/w136h203-41a3a298.jpg',
+                original: 'https://r5.readrate.com/img/pictures/book/638/638920/6389203/w136h203-41a3a298.jpg',
+                thumbnail: 'https://r5.readrate.com/img/pictures/book/638/638920/6389203/w136h203-41a3a298.jpg',
             },
             {
-              original: 'https://r5.readrate.com/img/pictures/book/574/574483/5744839/w136h203-ac2c9c23.jpg',
-              thumbnail: 'https://r5.readrate.com/img/pictures/book/574/574483/5744839/w136h203-ac2c9c23.jpg',
+                original: 'https://r5.readrate.com/img/pictures/book/574/574483/5744839/w136h203-ac2c9c23.jpg',
+                thumbnail: 'https://r5.readrate.com/img/pictures/book/574/574483/5744839/w136h203-ac2c9c23.jpg',
             },
             {
                 original: 'https://r5.readrate.com/img/pictures/book/992/992369/992369/w136h203-ee820cad.jpg',
                 thumbnail: 'https://r5.readrate.com/img/pictures/book/992/992369/992369/w136h203-ee820cad.jpg',
             },
-          ],
+        ],
         timeline: [
             {
                 dateText: '1925',
@@ -480,6 +508,13 @@ export default [
                     'Умер 17 декабря 2006. Похоронен на Кальварийском кладбище Минска.'
                 ]
             }
+        ],
+        activity: [
+            {
+                latitude: 53.908296,
+                longitude: 27.504409,
+                description: 'Похоронен на Кальварийском кладбище'
+            }
         ]
     },
     {
@@ -490,22 +525,22 @@ export default [
         photo: 'https://upload.wikimedia.org/wikipedia/ru/4/45/Makayonak_A_Ya.jpg',
         gallery: [
             {
-              original: 'https://www.belta.by/images/storage/news/with_archive/2015/000027_20230_big.jpg',
-              thumbnail: 'https://www.belta.by/images/storage/news/with_archive/2015/000027_20230_big.jpg',
+                original: 'https://www.belta.by/images/storage/news/with_archive/2015/000027_20230_big.jpg',
+                thumbnail: 'https://www.belta.by/images/storage/news/with_archive/2015/000027_20230_big.jpg',
             },
             {
-              original: 'http://delaemvmeste.by/wp-content/uploads/2014/06/Andrey-Mkayonok-so-svoey-zhenoy-Lyubovyu-600x404.jpg',
-              thumbnail: 'http://delaemvmeste.by/wp-content/uploads/2014/06/Andrey-Mkayonok-so-svoey-zhenoy-Lyubovyu-600x404.jpg',
+                original: 'http://delaemvmeste.by/wp-content/uploads/2014/06/Andrey-Mkayonok-so-svoey-zhenoy-Lyubovyu-600x404.jpg',
+                thumbnail: 'http://delaemvmeste.by/wp-content/uploads/2014/06/Andrey-Mkayonok-so-svoey-zhenoy-Lyubovyu-600x404.jpg',
             },
             {
-              original: 'http://delaemvmeste.by/wp-content/uploads/2014/06/Andre%60y-Makayonak-z-lepshyim-syabram-Ivanam-SHamyakinam.-1978-god-600x383.jpg',
-              thumbnail: 'http://delaemvmeste.by/wp-content/uploads/2014/06/Andre%60y-Makayonak-z-lepshyim-syabram-Ivanam-SHamyakinam.-1978-god-600x383.jpg',
+                original: 'http://delaemvmeste.by/wp-content/uploads/2014/06/Andre%60y-Makayonak-z-lepshyim-syabram-Ivanam-SHamyakinam.-1978-god-600x383.jpg',
+                thumbnail: 'http://delaemvmeste.by/wp-content/uploads/2014/06/Andre%60y-Makayonak-z-lepshyim-syabram-Ivanam-SHamyakinam.-1978-god-600x383.jpg',
             },
             {
                 original: 'https://www.belarus.by/apimages/4872.jpg',
                 thumbnail: 'https://www.belarus.by/apimages/4872.jpg',
             },
-          ],
+        ],
         timeline: [
             {
                 dateText: '1920',
@@ -567,6 +602,13 @@ export default [
                     'Умер 16 ноября 1982 года. Похоронен в Минске на Восточном кладбище.'
                 ]
             }
+        ],
+        activity: [
+            {
+                latitude: 53.938303,
+                longitude: 27.662716,
+                description: 'Похоронен на Восточном кладбище'
+            }
         ]
     },
     {
@@ -577,22 +619,22 @@ export default [
         photo: 'https://upload.wikimedia.org/wikipedia/ru/0/02/Chigrinov.jpg',
         gallery: [
             {
-              original: 'https://i.livelib.ru/boocover/1001188703/140/e045/Ivan_Chigrinov__Plach_perepelki.jpg',
-              thumbnail: 'https://i.livelib.ru/boocover/1001188703/140/e045/Ivan_Chigrinov__Plach_perepelki.jpg',
+                original: 'https://i.livelib.ru/boocover/1001188703/140/e045/Ivan_Chigrinov__Plach_perepelki.jpg',
+                thumbnail: 'https://i.livelib.ru/boocover/1001188703/140/e045/Ivan_Chigrinov__Plach_perepelki.jpg',
             },
             {
-              original: 'https://j.livelib.ru/boocover/1002520847/140/64d5/__Sena_na_asfaltse._Apavyadanni.jpg',
-              thumbnail: 'https://j.livelib.ru/boocover/1002520847/140/64d5/__Sena_na_asfaltse._Apavyadanni.jpg',
+                original: 'https://j.livelib.ru/boocover/1002520847/140/64d5/__Sena_na_asfaltse._Apavyadanni.jpg',
+                thumbnail: 'https://j.livelib.ru/boocover/1002520847/140/64d5/__Sena_na_asfaltse._Apavyadanni.jpg',
             },
             {
-              original: 'https://j.livelib.ru/workpic/1002823464/140/4185/Ivan_Chygryna%D1%9E__Dzivak_z_Gancharnaj_vulitsy.jpg',
-              thumbnail: 'https://j.livelib.ru/workpic/1002823464/140/4185/Ivan_Chygryna%D1%9E__Dzivak_z_Gancharnaj_vulitsy.jpg',
+                original: 'https://j.livelib.ru/workpic/1002823464/140/4185/Ivan_Chygryna%D1%9E__Dzivak_z_Gancharnaj_vulitsy.jpg',
+                thumbnail: 'https://j.livelib.ru/workpic/1002823464/140/4185/Ivan_Chygryna%D1%9E__Dzivak_z_Gancharnaj_vulitsy.jpg',
             },
             {
                 original: 'https://i.livelib.ru/boocover/1001189112/140/67dd/Ivan_Chygryna%D1%9E__Svoi_i_chuzhie.jpg',
                 thumbnail: 'https://i.livelib.ru/boocover/1001189112/140/67dd/Ivan_Chygryna%D1%9E__Svoi_i_chuzhie.jpg',
             },
-          ],
+        ],
         timeline: [
             {
                 dateText: '1934',
@@ -654,6 +696,13 @@ export default [
                     'Умер 16 ноября 1982 года. Похоронен в Минске на Восточном кладбище.'
                 ]
             }
+        ],
+        activity: [
+            {
+                latitude: 53.938303,
+                longitude: 27.662716,
+                description: 'Похоронен на Восточном кладбище'
+            }
         ]
     },
     {
@@ -664,22 +713,22 @@ export default [
         photo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/%D0%A1%D0%B2%D1%96%D1%82%D0%BB%D0%B0%D0%BD%D0%B0_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D1%96%D1%94%D0%B2%D0%B8%D1%87_%28%D0%9A%D0%B8%D1%97%D0%B2%2C_2016%29_08_%28cropped%29.JPG/1024px-%D0%A1%D0%B2%D1%96%D1%82%D0%BB%D0%B0%D0%BD%D0%B0_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D1%96%D1%94%D0%B2%D0%B8%D1%87_%28%D0%9A%D0%B8%D1%97%D0%B2%2C_2016%29_08_%28cropped%29.JPG',
         gallery: [
             {
-              original: 'https://www.belta.by/images/storage/news/with_archive/2018/000027_1527739953_304880_big.jpg',
-              thumbnail: 'https://www.belta.by/images/storage/news/with_archive/2018/000027_1527739953_304880_big.jpg',
+                original: 'https://www.belta.by/images/storage/news/with_archive/2018/000027_1527739953_304880_big.jpg',
+                thumbnail: 'https://www.belta.by/images/storage/news/with_archive/2018/000027_1527739953_304880_big.jpg',
             },
             {
-              original: 'https://www.belta.by/uploads/lotus/news/000027_98F413E8287048754325829E00168FDF_587857.jpg',
-              thumbnail: 'https://www.belta.by/uploads/lotus/news/000027_98F413E8287048754325829E00168FDF_587857.jpg',
+                original: 'https://www.belta.by/uploads/lotus/news/000027_98F413E8287048754325829E00168FDF_587857.jpg',
+                thumbnail: 'https://www.belta.by/uploads/lotus/news/000027_98F413E8287048754325829E00168FDF_587857.jpg',
             },
             {
-              original: 'https://www.belta.by/images/storage/news/with_archive/2019/000026_1552294193_339478_big.jpg',
-              thumbnail: 'https://www.belta.by/images/storage/news/with_archive/2019/000026_1552294193_339478_big.jpg',
+                original: 'https://www.belta.by/images/storage/news/with_archive/2019/000026_1552294193_339478_big.jpg',
+                thumbnail: 'https://www.belta.by/images/storage/news/with_archive/2019/000026_1552294193_339478_big.jpg',
             },
             {
                 original: 'https://www.belta.by/images/storage/news/with_archive/2015/000027_377086_big.jpg',
                 thumbnail: 'https://www.belta.by/images/storage/news/with_archive/2015/000027_377086_big.jpg',
             },
-          ],
+        ],
         timeline: [
             {
                 dateText: '1948',
@@ -735,6 +784,13 @@ export default [
                     'Член Рады (Совета) Союза белорусских писателей, вице-президент Международного ПЕН-клуба, с 26 октября 2019 года — председатель Белорусского ПЕН-центра'
                 ]
             }
+        ],
+        activity: [
+            {
+                latitude: 53.909722,
+                longitude: 27.581558,
+                description: 'Руководитель Белорусского ПЕН-центра'
+            }
         ]
     },
     {
@@ -745,22 +801,22 @@ export default [
         photo: 'https://www.sb.by/upload/resize_cache/slam.image/iblock/d5a/d5a8e5ef430671d5255fd9948a224de2.jpg',
         gallery: [
             {
-              original: 'http://villib.by/wp-content/uploads/2019/10/20191003_131403.jpg',
-              thumbnail: 'http://villib.by/wp-content/uploads/2019/10/20191003_131403.jpg',
+                original: 'http://villib.by/wp-content/uploads/2019/10/20191003_131403.jpg',
+                thumbnail: 'http://villib.by/wp-content/uploads/2019/10/20191003_131403.jpg',
             },
             {
-              original: 'http://villib.by/wp-content/uploads/2019/10/20191003_111440.jpg',
-              thumbnail: 'http://villib.by/wp-content/uploads/2019/10/20191003_111440.jpg',
+                original: 'http://villib.by/wp-content/uploads/2019/10/20191003_111440.jpg',
+                thumbnail: 'http://villib.by/wp-content/uploads/2019/10/20191003_111440.jpg',
             },
             {
-              original: 'http://villib.by/wp-content/uploads/2019/10/IMG_20191003_130708.jpg',
-              thumbnail: 'http://villib.by/wp-content/uploads/2019/10/IMG_20191003_130708.jpg',
+                original: 'http://villib.by/wp-content/uploads/2019/10/IMG_20191003_130708.jpg',
+                thumbnail: 'http://villib.by/wp-content/uploads/2019/10/IMG_20191003_130708.jpg',
             },
             {
                 original: 'http://villib.by/wp-content/uploads/2019/10/IMG_20191003_123831.jpg',
                 thumbnail: 'http://villib.by/wp-content/uploads/2019/10/IMG_20191003_123831.jpg',
             },
-          ],
+        ],
         timeline: [
             {
                 dateText: '1964',
@@ -798,6 +854,13 @@ export default [
                     'По итогам профессионального конкурса «Брэнд года—2012», проводимого в Белоруссии, Наталья Батракова стала брэнд-персоной 2012 года в номинации «Культура»'
                 ]
             }
+        ],
+        activity: [
+            {
+                latitude: 53.995239,
+                longitude: 29.707344,
+                description: 'Белыничи, Могилёвская область'
+            }
         ]
     },
     {
@@ -808,22 +871,22 @@ export default [
         photo: 'https://s12.stc.all.kpcdn.net/share/i/4/687943/big.jpg',
         gallery: [
             {
-              original: 'https://s14.stc.all.kpcdn.net/share/i/4/1587470/inx960x640.jpg',
-              thumbnail: 'https://s14.stc.all.kpcdn.net/share/i/4/1587470/inx960x640.jpg',
+                original: 'https://s14.stc.all.kpcdn.net/share/i/4/1587470/inx960x640.jpg',
+                thumbnail: 'https://s14.stc.all.kpcdn.net/share/i/4/1587470/inx960x640.jpg',
             },
             {
-              original: 'https://s11.stc.all.kpcdn.net/share/i/4/1587460/inx960x640.jpg',
-              thumbnail: 'https://s11.stc.all.kpcdn.net/share/i/4/1587460/inx960x640.jpg',
+                original: 'https://s11.stc.all.kpcdn.net/share/i/4/1587460/inx960x640.jpg',
+                thumbnail: 'https://s11.stc.all.kpcdn.net/share/i/4/1587460/inx960x640.jpg',
             },
             {
-              original: 'https://s16.stc.all.kpcdn.net/share/i/4/1587462/inx960x640.jpg',
-              thumbnail: 'https://s16.stc.all.kpcdn.net/share/i/4/1587462/inx960x640.jpg',
+                original: 'https://s16.stc.all.kpcdn.net/share/i/4/1587462/inx960x640.jpg',
+                thumbnail: 'https://s16.stc.all.kpcdn.net/share/i/4/1587462/inx960x640.jpg',
             },
             {
                 original: 'https://s10.stc.all.kpcdn.net/share/i/4/1587472/inx960x640.jpg',
                 thumbnail: 'https://s10.stc.all.kpcdn.net/share/i/4/1587472/inx960x640.jpg',
             },
-          ],
+        ],
         timeline: [
             {
                 dateText: '1977',
@@ -860,6 +923,13 @@ export default [
                 paragraphs: [
                     'В октябре-декабре 2014 года занимался научно-исследовательской работой в Институте гуманитарных наук в Вене (Австрия), где в рамках программы им. Милены Есенской готовил работу о витебском периоде жизни и творчества Марка Шагала.'
                 ]
+            }
+        ],
+        activity: [
+            {
+                latitude: 54.426144,
+                longitude: 25.935744,
+                description: 'Ошмяны'
             }
         ]
     }
