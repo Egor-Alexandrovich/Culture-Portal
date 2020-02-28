@@ -39,20 +39,22 @@ class Authors extends Component {
   }
 
   render () {
+    const {t} = this.props;
+
     if (!data) {
       return (
         <div>
-        <h2>Писатели Беларуси</h2>
-      </div>
+          <h2>{t('Writers of Belarus')}</h2>
+        </div>
       )
     }
 
     let items = this.renderAuthors(this.state.list);
     return (
       <div className="container">
-        <h2 className="text-center">Писатели Беларуси</h2>
+        <h2 className="text-center">{t('Writers of Belarus')}</h2>
         <div className="search-wrapp">
-          <input type="text" className="search" placeholder="Search" ref={(input) => { this.searchInput = input }} onChange={this.find.bind(this, data)}/>
+          <input type="text" className="search" placeholder={t('Search')} ref={(input) => { this.searchInput = input }} onChange={this.find.bind(this, data)}/>
         </div>
         <div className="row">
           {items}

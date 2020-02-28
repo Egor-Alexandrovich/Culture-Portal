@@ -1,7 +1,7 @@
 export default [
     {
         id: 1,
-        name: 'Кондрат Крапива',
+        name: 'Kandrat Krapiva',
         years: '1896 - 1991',
         about: 'Кондра́т Крапива́ — белорусский советский писатель, поэт, драматург и переводчик, литературовед, сатирик, общественный деятель. Доктор филологических наук, академик АН Белорусской ССР (1950). Член ВКП(б) с 1941 года. Народный писатель Белорусской ССР (1956). Герой Социалистического Труда (1975). Лауреат двух Сталинских премий (1941, 1951) и Государственной премии СССР (1971).',
         photo: 'https://upload.wikimedia.org/wikipedia/commons/0/09/Krapiva-k.jpg',
@@ -31,79 +31,79 @@ export default [
             {
                 dateText: '1896',
                 paragraphs: [
-                    'Родился 22 февраля (5 марта) 1896 год в деревне Низок в крестьянской семье.'
+                    'Was born February 22 (March 5), 1896 in the village of Nizok in a peasant family.'
                 ]
             },
             {
                 dateText: '1913',
                 paragraphs: [
-                    'В 1913 году экстерном сдал экзамен на звание народного учителя.'
+                    'In 1913, externally passed the exam for the title of public teacher.'
                 ]
             },
             {
                 dateText: '1916 - 1918',
                 paragraphs: [
-                    'В марте 1916 года окончил Гатчинскую школу прапорщиков. Воевал на Румынском фронте. Был демобилизован в феврале 1918 года.'
+                    'In March 1916 he graduated from the Gatchina Ensign School. He fought on the Romanian front. He was demobilized in February 1918.'
                 ]
             },
             {
                 dateText: '1920 — 1923',
                 paragraphs: [
-                    'Cлужил в РККА (Рабо́че-крестья́нская Кра́сная армия).'
+                    'He served in the Red Army (Workers \'and Peasants\' Red Army).'
                 ]
             },
             {
                 dateText: '1924 — 1925',
                 paragraphs: [
-                    'Hаботал учителем начальной школы в посёлке Островок на Узденщине.'
+                    'He worked as an elementary school teacher in the village of Ostrovok in Uzden.'
                 ]
             },
             {
                 dateText: '1925 — 1926',
                 paragraphs: [
-                    'В 1925 году переехал в Минск. был членом литературного объединения "Маладняк". В 1925—1926 годах — инструктор Центрального бюро краеведения при Инбелкульте.'
+                    'In 1925 he moved to Minsk. was a member of the literary association "Maladnyak". In 1925-1926 - instructor of the Central Bureau of Local History at Inbelkult.'
                 ]
             },
             {
                 dateText: '1926 — 1930',
                 paragraphs: [
-                    'Учился на литературно-лингвистическом отделении педагогического факультета БГУ.'
+                    'He studied at the literary and linguistic department of the pedagogical faculty of BSU.'
                 ]
             },
             {
                 dateText: '1932 — 1936',
                 paragraphs: [
-                    'Заведующий отдела в литературном журнале «Пламя революции».'
+                    'Head of department in the literary magazine "Flame of the Revolution."'
                 ]
             },
             {
                 dateText: '1939 — 1940',
                 paragraphs: [
-                    'В 1939 году участвовал в Польском походе РККА. Участник советско-финской войны 1939—1940 годов. В начале Великой Отечественной войны работал во фронтовой газете «За Советскую Беларусь», "Красноармейская правда".'
+                    'In 1939 he participated in the Polish campaign of the Red Army. Member of the Soviet-Finnish war of 1939-1940. At the beginning of World War II, he worked in the front-line newspaper For Soviet Belarus, Krasnoarmeyskaya Pravda.'
                 ]
             },
             {
                 dateText: '1943 — 1947',
                 paragraphs: [
-                    'В 1943—1945 годах редактировал сатирическую газету-плакат «Раздавим фашистскую гадину». В 1945—1947 годы — редактор журнала «Вожык».'
+                    'In 1943-1945 he edited the satirical poster newspaper "Crush the fascist reptile." In the years 1945-1947 - editor of the journal "Leader".'
                 ]
             },
             {
                 dateText: '1947 — 1956',
                 paragraphs: [
-                    'В 1947—1952 годы — заведующий сектором языкознания Института языка и литературы Академии наук БССР, директор Института языкознания АН БССР (1952—1956).'
+                    'In 1947-1952 - head of the linguistics sector of the Institute of Language and Literature of the Academy of Sciences of the BSSR, director of the Institute of Linguistics of the Academy of Sciences of the BSSR (1952-1956).'
                 ]
             },
             {
                 dateText: '1947 — 1990',
                 paragraphs: [
-                    'Избирался депутатом ВС БССР 2—8-го созывов (1947—1990).'
+                    'He was elected deputy of the Armed Forces of the BSSR of the 2nd-8th convocations (1947-1990).'
                 ]
             },
             {
                 dateText: '1991',
                 paragraphs: [
-                    'К. Крапива умер 7 января 1991 года. Похоронен в Минске на Восточном кладбище.'
+                    'Died on January 7, 1991. He was buried in Minsk at the Eastern cemetery.'
                 ]
             }
         ],

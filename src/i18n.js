@@ -27,7 +27,8 @@ i18n
 
     interpolation: {
       escapeValue: false, // not needed for react as it escapes by default
-    }
+    },
+    keySeparator: false,
   });
 
 export default i18n;
