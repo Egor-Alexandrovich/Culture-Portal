@@ -9,13 +9,10 @@ import './Header.scss'
 function Header({t}) {
   return (
     <header className='header-container'>
-      <div className="head">
         <img className='logo-img' src={logo} alt=""/>
         <h1 className='logo-name'>{t('Writers of Belarus')}</h1>
         <LinksList list={ linksList }/>
         <LanguageSelector/>
-      </div>
-
     </header>
   );
 }

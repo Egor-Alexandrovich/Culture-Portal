@@ -82,13 +82,5 @@ export default [
     gitHub: 'https://github.com/tommergz',
     contribution: [
     ]
-  },
-  {
-    id: 6,
-    photo: 'https://avatars0.githubusercontent.com/u/47758072?s=460&v=4',
-    name: 'Artsiom Lipchyk',
-    gitHub: 'https://github.com/tommergz',
-    contribution: [
-    ]
   }
 ]

@@ -1,6 +1,8 @@
 .card-width {
   width: 350px;
   margin: 20px auto;
+  font-family: Caveat, cursive;
+  font-size: 1.8rem;
   @media (max-width: 350px) {
     width: -webkit-fill-available;
   }
