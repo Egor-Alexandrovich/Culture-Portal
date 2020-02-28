@@ -14,6 +14,7 @@
 | Start time  | End time | time spent | feature |
 |-----------|-------------|-------------|-------------|
 | Feb 21 | Feb 23 | 4h | Multi-language |
+| Feb 27 | Feb 28 | 2h | Translate Timeline |
 
 *Yahor Shulha*
 | Start time  | End time | time spent | feature |
