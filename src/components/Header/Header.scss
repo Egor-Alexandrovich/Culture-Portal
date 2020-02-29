@@ -32,7 +32,7 @@
 .logo-name {
   margin: 0;
   width: max-content;
-  font-family: 'Dancing Script', cursive;
+  font-family: 'Dancing Script', 'Marck Script', cursive;
   @media (max-width: 950px) {
     display: none;
   }
@@ -49,7 +49,7 @@
   justify-content: center;
   text-align: center;
   margin-bottom: 40px;
-  font-family: 'Dancing Script', cursive;
+  font-family: 'Dancing Script', 'Marck Script', cursive;
 }
 
 .app-name span {
