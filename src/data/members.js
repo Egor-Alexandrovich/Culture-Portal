@@ -73,6 +73,18 @@ export default [
     name: 'Natalia Zarubina',
     gitHub: 'https://github.com/tor4',
     contribution: [
+      {
+        startTime: 'Feb 21',
+        endTime: 'Feb 23',
+        timeSpent: '4h',
+        feature: 'Configure multi-language',
+      },
+      {
+        startTime: 'Feb 27',
+        endTime: 'Feb 29',
+        timeSpent: '7h',
+        feature: 'Translate timelines',
+      }
     ]
   },
   {
@@ -81,6 +93,42 @@ export default [
     name: 'Artsiom Lipchyk',
     gitHub: 'https://github.com/tommergz',
     contribution: [
+      {
+        startTime: 'Feb 19',
+        endTime: 'Feb 19',
+        timeSpent: '3h',
+        feature: 'first page layout',
+      },
+      {
+        startTime: 'Feb 21',
+        endTime: 'Feb 21',
+        timeSpent: '15 min',
+        feature: 'react router structure of the project',
+      },
+      {
+        startTime: 'Feb 25',
+        endTime: 'Feb 25',
+        timeSpent: '1h',
+        feature: 'search option',
+      },
+      {
+        startTime: 'Feb 26',
+        endTime: 'Feb 26',
+        timeSpent: '30 min',
+        feature: 'adaptive design',
+      },
+      {
+        startTime: 'Feb 27',
+        endTime: 'Feb 27',
+        timeSpent: '1h',
+        feature: 'work with styles',
+      },
+      {
+        startTime: 'Feb 29',
+        endTime: 'Feb 29',
+        timeSpent: '1h',
+        feature: 'video block styles',
+      }
     ]
   }
 ]

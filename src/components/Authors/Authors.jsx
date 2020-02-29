@@ -16,12 +16,12 @@ class Authors extends Component {
 
   renderAuthors(arr) {
     return arr.map((item) => {
-      const { name, years, photo, id } = item;
+      const { name, yearOfBirth, yearOfDeath, photo, id } = item;
       return (
         <AuthorIdentity 
         key = {id}
         name = { name }
-        years = { years }
+        years = { {yearOfBirth, yearOfDeath} }
         photo = { photo }
         link = {true}
         id = { id }

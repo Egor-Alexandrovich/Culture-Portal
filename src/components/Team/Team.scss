@@ -5,6 +5,7 @@
 
 .participant {
     width: 245px;
+    height: 500px;
     margin: 0 20px;
 }
 
@@ -26,7 +27,7 @@
 
 @media (max-width: 850px) {
     .about-team-wrapp:after {
-        background: url(../../assets/images/manuscript-roll.jpg) no-repeat center; 
+        background: url(../../assets/images/manuscript-roll.jpg) center; 
     }
 }
 

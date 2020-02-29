@@ -2,9 +2,12 @@ export default [
     {
         id: 1,
         name: 'Kandrat Krapiva',
+        yearOfBirth: 1986,
+        yearOfDeath: 1991,
         years: '1896 - 1991',
         about: 'Кондра́т Крапива́ — белорусский советский писатель, поэт, драматург и переводчик, литературовед, сатирик, общественный деятель. Доктор филологических наук, академик АН Белорусской ССР (1950). Член ВКП(б) с 1941 года. Народный писатель Белорусской ССР (1956). Герой Социалистического Труда (1975). Лауреат двух Сталинских премий (1941, 1951) и Государственной премии СССР (1971).',
         photo: 'https://upload.wikimedia.org/wikipedia/commons/0/09/Krapiva-k.jpg',
+        videoId: 'BjxiKxV32_w',
         gallery: [
             {
                 original: 'https://lib.ggau.by/images/LIBRARY/2016/Kandrat_Krapiva/1.JPG',
@@ -159,7 +162,9 @@ export default [
     },
     {
         id: 2,
-        name: 'Иван Шамякин',
+        name: 'Ivan Shamiakin',
+        yearOfBirth: 1921,
+        yearOfDeath: 2004,
         years: '1921 - 2004',
         about: 'Ива́н Петро́вич Шамя́кин — белорусский советский писатель, сценарист и драматург, общественный деятель. Народный писатель Белорусской ССР (1972). Герой Социалистического Труда (1981). Лауреат Сталинской премии третьей степени (1951). Член ВКП(б) с 1943 года. Академик Национальной академии наук Беларуси (1994).',
         photo: 'https://www.you-books.com/storebooks/I/I-P-Shamyakin/Atlanty-I-Kariatidy-Sbornik/i_001.jpg',
@@ -189,67 +194,67 @@ export default [
             {
                 dateText: '1921',
                 paragraphs: [
-                    'Родился 30 января 1921 года в деревне Корма Гомельского уезда Гомельской губернии в крестьянской семье.'
+                    'Born on January 30, 1921 in a peasant family in the village of Korma, Gomel county, Gomel province.'
                 ]
             },
             {
                 dateText: '1936 - 1940',
                 paragraphs: [
-                    'В 1936 году окончил семь классов Маковской школы, продолжил учёбу в Гомельском техникуме строительных материалов (1936—1940). По окончании техникума работал техником-технологом кирпичного завода в Белостоке. Ещё в техникуме начал писать стихи, участвовал в заседаниях литературного объединения при газете «Гомельская правда».'
+                    'In 1936 he graduated from seven classes of the Makovsky school, continued his studies at the Gomel College of Building Materials (1936-1940). At the end of the technical school he worked as a technologist-technologist at a brick factory in Bialystok. Even in college he began to write poetry, participated in meetings of the literary association at the newspaper "Gomelskaya Pravda".'
                 ]
             },
             {
                 dateText: '1940 - 1945',
                 paragraphs: [
-                    'В 1940 году был призван в РККА, проходил службу в Мурманске в зенитно-артиллерийской части, в 1944 передислоцирован в Польшу, принимал участие в Висло-Одерской операции и в Берлинской наступательной операции в составе прожекторной роты 16.04.1945. Во время Великой Отечественной войны командир орудийного расчёта, комсорг дивизиона.'
+                    'In 1940 he was drafted into the Red Army, served in Murmansk in the anti-aircraft artillery unit, was relocated to Poland in 1944, and took part in the Wislo-Oder operation and in the Berlin offensive operation as part of a searchlight company on 04/16/1945. During World War II, the commander of the gun crew, the Komsomol division.'
                 ]
             },
             {
                 dateText: '1945 — 1947',
                 paragraphs: [
-                    'После демобилизации в октябре 1945 года работал до 1947 года преподавателем языка и литературы неполной средней школы в деревне Прокоповка Тереховского района. В 1946 году поступил на заочное отделение Гомельского педагогического института.'
+                    'After demobilization in October 1945, he worked until 1947 as a teacher of the language and literature of an incomplete secondary school in the village of Prokopovka, Terekhovsky District. In 1946 he entered the correspondence department of the Gomel Pedagogical Institute.'
                 ]
             },
             {
                 dateText: '1948 — 1950',
                 paragraphs: [
-                    'Учился в Республиканской партийной школе.'
+                    'He studied at the Republican Party School.'
                 ]
             },
             {
                 dateText: '1963',
                 paragraphs: [
-                    'В 1963 году входил в состав белорусской делегации на XVIII сессии Генеральной Ассамблеи ООН'
+                    'In 1963 he was a member of the Belarusian delegation at the XVIII session of the UN General Assembly'
                 ]
             },
             {
                 dateText: '1963 — 1985',
                 paragraphs: [
-                    'Депутат Верховного Совета БССР.'
+                    'Member of the Supreme Council of the BSSR.'
                 ]
             },
             {
                 dateText: '1971 — 1985',
                 paragraphs: [
-                    'Председатель Верховного Совета БССР.'
+                    'Chairman of the Supreme Council of the BSSR.'
                 ]
             },
             {
                 dateText: '1980 — 1989',
                 paragraphs: [
-                    'Депутат Верховного Совета СССР.'
+                    'Member of the Supreme Soviet of the USSR.',
                 ]
             },
             {
                 dateText: '1980 — 1992',
                 paragraphs: [
-                    'Главный редактор издательства «Белорусская советская энциклопедия».'
+                    'Editor-in-chief of the Belarusian Soviet Encyclopedia Publishing House.'
                 ]
             },
             {
                 dateText: '2004',
                 paragraphs: [
-                    'Скончался 14 октября 2004 года в Минске. Похоронен на Восточном кладбище.'
+                    'He died on October 14, 2004 in Minsk. He was buried in the Eastern cemetery.',
                 ]
             }
         ],
@@ -257,12 +262,12 @@ export default [
             {
                 latitude: 53.938303,
                 longitude: 27.662716,
-                description: 'Похоронен на Восточном кладбище'
+                description: 'Buried in the Eastern Cemetery'
             }
         ],
         works: [
             {
-                name: '«Глубокое течение»',
+                name: '«Deep streams»',
                 date: '1949'
             },
             {
@@ -305,8 +310,10 @@ export default [
     },
     {
         id: 3,
-        name: 'Василь Быков',
+        name: 'Vasíl Býkaŭ',
         years: '1924 - 2003',
+        yearOfBirth: 1924,
+        yearOfDeath: 2003,
         about: 'Васи́ль Влади́мирович Бы́ков — советский и белорусский писатель, общественный деятель, участник Великой Отечественной войны. Член Союза писателей СССР. Герой Социалистического Труда (1984). Народный писатель Беларуси (1980). Лауреат Ленинской премии (1986). Лауреат Государственной премии СССР (1974). Лауреат Государственной премии Белорусской ССР (1978).',
         photo: 'https://upload.wikimedia.org/wikipedia/commons/1/1a/Vasil_Bykov_%28cropped%29.jpg',
         gallery: [
@@ -335,73 +342,73 @@ export default [
             {
                 dateText: '1924',
                 paragraphs: [
-                    'Родился 19 июня 1924 года в деревне Бычки Ушачского района Витебской области в крестьянской семье.'
+                    'He was born on June 19, 1924 in a peasant family in the village of Bychki, Ushachsky District, Vitebsk Region.'
                 ]
             },
             {
                 dateText: '1940 - 1942',
                 paragraphs: [
-                    'Зимой 1941—1942 годов жил на ст. Салтыковка и в городе Аткарске Саратовской области, учился в железнодорожной школе.'
+                    'In the winter of 1941-1942 he lived at Art. Saltykovka and in the city of Atkarsk, Saratov region, studied at a railway school.'
                 ]
             },
             {
                 dateText: '1942 - 1945',
                 paragraphs: [
-                    'Призван в армию летом 1942 года, окончил Саратовское пехотное училище. Осенью 1943 года присвоено звание младшего лейтенанта. Участвовал в боях за Кривой Рог, Александрию, Знаменку. Во время Кировоградской операции ранен в ногу и живот (по ошибке был записан как погибший); события после ранения послужили основой повести «Мёртвым не больно». В начале 1944 года три месяца находился в госпитале. '
+                    'Drafted into the army in the summer of 1942, he graduated from the Saratov Infantry School. In the fall of 1943, he was awarded the rank of junior lieutenant. Participated in the battles of Krivoy Rog, Alexandria, Znamenka. During the Kirovograd operation, he was wounded in the leg and stomach (he was mistakenly recorded as dead); events after the wound served as the basis for the story “It Doesn’t Hurt the Dead” At the beginning of 1944, he was in the hospital for three months.'
                 ]
             },
             {
                 dateText: '1947 — 1949',
                 paragraphs: [
-                    'После демобилизации жил в Гродно. Печатался с 1947 года, работал в мастерских, а также в редакции областной газеты «Гродненская правда».'
+                    'After demobilization he lived in Grodno. Published since 1947, worked in workshops, as well as in the editorial office of the regional newspaper Grodno Pravda.'
                 ]
             },
             {
                 dateText: '1949 — 1955',
                 paragraphs: [
-                    'В период с 1949 по 1955 год снова служил в Советской армии, в 1955 году окончательно демобилизовался в звании майора. '
+                    'In the period from 1949 to 1955 he again served in the Soviet army, in 1955 he was finally demobilized with the rank of major.'
                 ]
             },
             {
                 dateText: '1955 - 1972',
                 paragraphs: [
-                    'С 1955 по 1972 год вновь работал в «Гродненской правде».'
+                    'From 1955 to 1972 he again worked in the Grodno Truth.'
                 ]
             },
             {
                 dateText: '1972 — 1978',
                 paragraphs: [
-                    'Секретарь Гродненского отделения Союза писателей Белорусской ССР'
+                    'Secretary of the Grodno branch of the Union of Writers of the Belarusian SSR'
                 ]
             },
             {
                 dateText: '1978 — 1989',
                 paragraphs: [
-                    'В 1978 году переехал в Минск. Избирался депутатом Верховного Совета Белорусской ССР в 1978—1989 годах.'
+                    'In 1978 he moved to Minsk. He was elected deputy of the Supreme Council of the Belarusian SSR in 1978-1989.'
                 ]
             },
             {
                 dateText: '1988 — 1990',
                 paragraphs: [
-                    'В 1988 году стал одним из учредителей Белорусского народного фронта. В 1988 году входил в состав Государственной комиссии по расследованию советских преступлений в Куропатах. В 1989 году избран народным депутатом СССР, вошёл в Межрегиональную депутатскую группу. Был президентом белорусского ПЕН-центра.'
+                    'In 1988 he became one of the founders of the Belarusian Popular Front. In 1988, he was a member of the State Commission for the Investigation of Soviet Crimes in Kurapaty. In 1989, he was elected People’s Deputy of the USSR and joined the Interregional Deputy Group. He was president of the Belarusian PEN Center.'
                 ]
             },
             {
                 dateText: '1997 — 2003',
                 paragraphs: [
-                    'С конца 1997 года жил за границей в политической эмиграции — вначале по приглашению ПЕН-центра Финляндии проживал в окрестностях Хельсинки, затем, получив приглашение ПЕН-центра ФРГ, переехал в Германию, а затем в Чехию.'
+                    'Since the end of 1997, he lived abroad in political emigration - at first, at the invitation of the PEN Center of Finland, he lived in the vicinity of Helsinki, then, having received an invitation from the PEN Center of Germany, he moved to Germany and then to the Czech Republic.'
                 ]
             },
             {
                 dateText: '2004',
                 paragraphs: [
-                    'Вернулся на родину.'
+                    'Returned to his homeland.'
                 ]
             },
             {
                 dateText: '2004',
                 paragraphs: [
-                    'Умер 22 июня 2003 года в 20 часов 30 минут от злокачественной опухоли желудка в реанимационном отделении онкологического госпиталя в Боровлянах, под Минском. Похоронен на Восточном кладбище в Минске.'
+                    'Died June 22, 2003 at 20 hours from a malignant tumor of the stomach in the intensive care unit of the Oncology Hospital in Borovlyany, near Minsk. He was buried in the Eastern cemetery in Minsk.'
                 ]
             }
         ],
@@ -409,7 +416,7 @@ export default [
             {
                 latitude: 53.938303,
                 longitude: 27.662716,
-                description: 'Похоронен на Восточном кладбище'
+                description: 'Buried in the Eastern Cemetery'
             }
         ],
         works: [
@@ -422,7 +429,7 @@ export default [
                 date: '1958'
             },
             {
-                name: '«Журавлиный крик»',
+                name: '«Crane\'s Cry»',
                 date: '1959'
             },
             {
@@ -430,7 +437,7 @@ export default [
                 date: '1960'
             },
             {
-                name: '«Третья ракета»',
+                name: '«Third Rocket»',
                 date: '1961'
             },
             {
@@ -450,15 +457,17 @@ export default [
                 date: '1969'
             },
             {
-                name: '«Дожить до рассвета»',
+                name: '«To Live till Sunrise»',
                 date: '1972'
             }
         ]
     },
     {
         id: 4,
-        name: 'Янка Брыль',
+        name: 'Janka Bryl',
         years: '1917 - 2006',
+        yearOfBirth: 1917,
+        yearOfDeath: 2006,
         about: 'Янка Брыль — белорусский советский писатель и переводчик. Народный писатель Белорусской ССР (1981). Лауреат Сталинской премии третьей степени (1952). Лауреат Государственной премии Белорусской ССР имени Якуба Коласа (1982).',
         photo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/%D0%91%D1%80%D1%8B%D0%BB%D1%8C_%D0%98%D0%B2%D0%B0%D0%BD_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%BE%D0%B2%D0%B8%D1%87_1985.jpg/800px-%D0%91%D1%80%D1%8B%D0%BB%D1%8C_%D0%98%D0%B2%D0%B0%D0%BD_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%BE%D0%B2%D0%B8%D1%87_1985.jpg',
         gallery: [
@@ -483,55 +492,55 @@ export default [
             {
                 dateText: '1917',
                 paragraphs: [
-                    'Родился 22 июля (4 августа) 1917 года в Одессе в семье железнодорожника.'
+                    'He was born on July 22 (August 4), 1917 in Odessa, in the family of a railway worker.'
                 ]
             },
             {
                 dateText: '1922',
                 paragraphs: [
-                    'В 1922 году вместе с родителями переехал на их родину в Западную Беларусь.'
+                    'In 1922, he moved with his parents to their homeland in Western Belarus.'
                 ]
             },
             {
                 dateText: '1931',
                 paragraphs: [
-                    'В 1931 году окончил польскую семилетнюю школу, поступил в гимназию, однако не мог в ней учиться из-за материальных затруднений, занимался самообразованием. C 1938 года публиковал стихи и публицистику в виленском белорусском журнале «Шлях моладзі».'
+                    'In 1931 he graduated from the Polish seven-year school, entered the gymnasium, but could not study in it because of material difficulties, he was engaged in self-education. Since 1938, he has published poetry and journalism in the Vilnius Belarusian magazine “Shlyakh Moladzi”.'
                 ]
             },
             {
                 dateText: '1939 — 1941',
                 paragraphs: [
-                    'В 1939 году призван в польскую армию, служил в морской пехоте. В сентябре 1939 года под Гдыней попал в немецкий плен, осенью 1941 бежал и вернулся на родину; присоединился к советским партизанам.'
+                    'In 1939, drafted into the Polish army, served in the Marine Corps. In September 1939, he was captured by German forces near Gdynia; in the fall of 1941 he fled and returned to his homeland; joined the Soviet partisans.'
                 ]
             },
             {
                 dateText: '1942 — 1944',
                 paragraphs: [
-                    'С октября 1942 года — связной партизанской бригады имени Жукова, с марта по июль 1944 года — партизан-разведчик бригады «Комсомолец», редактор газеты «Сцяг свабоды» и сатирического листка «Партызанскае жыгала».'
+                    'From October 1942 - a connected partisan brigade named after Zhukov, from March to July 1944 - a partisan reconnaissance brigade "Komsomolets", editor of the newspaper "Sciag Svaboda" and the satirical sheet "Partyzanske zhigala."'
                 ]
             },
             {
                 dateText: '1966 - 1971',
                 paragraphs: [
-                    'Секретарь правления Союза писателей Белорусской ССР. '
+                    'Secretary of the Board of the Union of Writers of the Belarusian SSR.'
                 ]
             },
             {
                 dateText: '1967 — 1990',
                 paragraphs: [
-                    'Председатель Белорусского отделения общества «СССР — Канада».'
+                    'Chairman of the Belarusian branch of the USSR-Canada Society.'
                 ]
             },
             {
                 dateText: '1994',
                 paragraphs: [
-                    'Почетный член Национальной академии наук Беларуси.'
+                    'Honorary Member of the National Academy of Sciences of Belarus.'
                 ]
             },
             {
                 dateText: '2006',
                 paragraphs: [
-                    'Янка Брыль скончался 25 июля 2006. Похоронен в Колодищах.'
+                    'Janka Bryl passed away on July 25, 2006. He is buried in Kolodishchi.'
                 ]
             }
         ],
@@ -539,12 +548,12 @@ export default [
             {
                 latitude: 53.906602,
                 longitude: 27.833675,
-                description: 'Похоронен на кладбище в Колодищах'
+                description: 'Buried in a cemetery in Kolodishchi'
             }
         ],
         works: [
             {
-                name: '«Рассказы»',
+                name: '«Tales»',
                 date: '1946'
             },
             {
@@ -552,7 +561,7 @@ export default [
                 date: '1949'
             },
             {
-                name: '«Сиротский хлеб»',
+                name: '«Orphan bread»',
                 date: '1950'
             },
             {
@@ -587,8 +596,10 @@ export default [
     },
     {
         id: 5,
-        name: 'Иван Науменко',
+        name: 'Ivan Navumienka',
         years: '1925 - 2006',
+        yearOfBirth: 1925,
+        yearOfDeath: 2006,
         about: 'Ива́н Я́ковлевич Нау́менко — белорусский советский прозаик и драматург, литературовед. Академик Национальной академии наук Беларуси (1980). Доктор филологических наук (1969), профессор (1971). Заслуженный деятель науки Белорусской ССР (1978). Народный писатель Беларуси (1995). Председатель ВС БССР (1985—1990). Член СП СССР (1957).',
         photo: 'https://upload.wikimedia.org/wikipedia/ru/8/84/%D0%9D%D0%B0%D1%83%D0%BC%D0%B5%D0%BD%D0%BA%D0%BE_%D0%98.jpg',
         gallery: [
@@ -613,67 +624,67 @@ export default [
             {
                 dateText: '1925',
                 paragraphs: [
-                    'Родился 16 февраля 1925 года в городе Василевичи в семье железнодорожников.'
+                    'Born February 16, 1925 in the city of Vasilevichi in a family of railway workers.'
                 ]
             },
             {
                 dateText: '1942 - 1945',
                 paragraphs: [
-                    'Участник Великой Отечественной войны. С января 1942 года — в комсомольском подполье, затем — в партизанах. В декабре 1943 года призван в РККА. Участвовал в боях на Ленинградском и 1-м Украинском фронтах.'
+                    'Member of the Great Patriotic War. From January 1942 - in the Komsomol underground, then - in partisans. In December 1943 he was drafted into the Red Army. He participated in battles on the Leningrad and 1st Ukrainian fronts.'
                 ]
             },
             {
                 dateText: '1945 - 1951',
                 paragraphs: [
-                    'После мобилизации — корреспондент мозырской областной газеты «Бальшавік Палесся», с 1951 года — республиканской газеты «Звязда».'
+                    'After mobilization, he was a correspondent for the Bazhavik Palessia, a Mozyr regional newspaper, and, since 1951, for the republican newspaper“ Zvyazda.'
                 ]
             },
             {
                 dateText: '1950 — 1954',
                 paragraphs: [
-                    'Заочно окончил БГУ имени В. И. Ленина  и аспирантуру при университете.'
+                    'In absentia he graduated from the BSU named after V. I. Lenin and graduate school at the university.'
                 ]
             },
             {
                 dateText: '1953 — 1958',
                 paragraphs: [
-                    'Был заведующим отдела прозы литературного журнала «Маладосць».'
+                    'Was the head of the prose department of the literary magazine\' Maladosts.'
                 ]
             },
             {
                 dateText: '1954 — 1973',
                 paragraphs: [
-                    'Старший преподаватель, доцент, профессор, заведующий кафедрой белорусской литературы БГУ имени В. И. Ленина.'
+                    'Senior Lecturer, Associate Professor, Professor, Head of the Department of Belarusian Literature, B.I. Lenin BSU.',
                 ]
             },
             {
                 dateText: '1973 — 1982',
                 paragraphs: [
-                    'Директор Института литературы имени Янки Купалы АН БССР.'
+                    'Director of the Yanka Kupala Institute of Literature, Academy of Sciences of the BSSR.'
                 ]
             },
             {
                 dateText: '1982 — 1992',
                 paragraphs: [
-                    'Вице-президент АН БССР.'
+                    'Vice President of the Academy of Sciences of the BSSR.'
                 ]
             },
             {
                 dateText: '1985 — 1990',
                 paragraphs: [
-                    'Депутат ВС БССР. Председатель ВС БССР'
+                    'Deputy of the Armed Forces of the BSSR. Chairman of the Supreme Council of the BSSR.'
                 ]
             },
             {
                 dateText: '1992 — 2002',
                 paragraphs: [
-                    'В 1992—2002 годах советник Президиума Национальной академии наук Беларуси. С 2002 года главный научный сотрудник Института литературы НАН Беларуси.'
+                    'In 1992-2002, Advisor to the Presidium of the National Academy of Sciences of Belarus. Since 2002, the main researcher at the Institute of Literature of the National Academy of Sciences of Belarus.'
                 ]
             },
             {
                 dateText: '2006',
                 paragraphs: [
-                    'Умер 17 декабря 2006. Похоронен на Кальварийском кладбище Минска.'
+                    'Died December 17, 2006. He was buried in the Calvary cemetery of Minsk.'
                 ]
             }
         ],
@@ -681,7 +692,7 @@ export default [
             {
                 latitude: 53.908296,
                 longitude: 27.504409,
-                description: 'Похоронен на Кальварийском кладбище'
+                description: 'Buried in Calvary Cemetery',
             }
         ],
         works: [
@@ -729,8 +740,10 @@ export default [
     },
     {
         id: 6,
-        name: 'Андрей Макаёнок',
+        name: 'Andrei Makayonak',
         years: '1920 - 1982',
+        yearOfBirth: 1920,
+        yearOfDeath: 1982,
         about: 'Андрей Егорович Макаёнок (белор. Андрэй Ягоравіч Макаёнак) — белорусский советский драматург, сценарист. Народный писатель Белорусской ССР (1977). Член ВКП с 1945 года.',
         photo: 'https://upload.wikimedia.org/wikipedia/ru/4/45/Makayonak_A_Ya.jpg',
         gallery: [
@@ -755,61 +768,61 @@ export default [
             {
                 dateText: '1920',
                 paragraphs: [
-                    'Родился 12 ноября 1920 года в деревне Борхов  в крестьянской семье.'
+                    'Born on November 12, 1920 in the village of Borkhov in a peasant family.'
                 ]
             },
             {
                 dateText: '1927 - 1938',
                 paragraphs: [
-                    'В 1927 году поступил в Борховскую начальную школу, продолжил учёбу в Журавичской средней школе, которую окончил в 1938 году.'
+                    'In 1927 he entered the Borkhov elementary school, continued his studies at the Zhuravichi secondary school, which he graduated in 1938.'
                 ]
             },
             {
                 dateText: '1939',
                 paragraphs: [
-                    'В 1939 году не прошёл по конкурсу во Всесоюзный государственный институт кинематографии (ВГИК) и в том же году был мобилизован в ряды РККА, службу проходил в Грузии.'
+                    'In 1939, he did not enter the All-Union State Institute of Cinematography (VGIK) by competition and was mobilized in the Red Army in the same year, serving in Georgia.'
                 ]
             },
             {
                 dateText: '1942 — 1943',
                 paragraphs: [
-                    'Работал военруком в одном из сёл Грузии. В конце 1943 года, после освобождения Гомельской области от оккупантов, вернулся в село Журавичи.'
+                    'He worked as a military instructor in one of the villages of Georgia. At the end of 1943, after the liberation of the Gomel region from the invaders, he returned to the village of Zhuravichi.'
                 ]
             },
             {
                 dateText: '1945 — 1946',
                 paragraphs: [
-                    'Работал заведующим партийным кабинетом Могилёвского железнодорожного узла.'
+                    'He worked as the head of the party cabinet of the Mogilev railway junction.'
                 ]
             },
             {
                 dateText: '1949',
                 paragraphs: [
-                    'Член СП СССР.'
+                    'Member of the joint venture of the USSR.'
                 ]
             },
             {
                 dateText: '1947 — 1953',
                 paragraphs: [
-                    'В 1947 году поступил в Республиканскую партийную школу при ЦК КПБ, которую окончил в 1949 году. После обучения в партшколе был направлен в журнал «Вожык», где работал до 1953 года в должности заведующего отделом прозы.'
+                    'In 1947 he entered the Republican Party School under the Central Committee of the CPB, which he graduated in 1949. After training at a party school, he was sent to the magazine "Wozyk", where he worked until 1953 as head of the prose department.'
                 ]
             },
             {
                 dateText: '1966 — 1978',
                 paragraphs: [
-                    'Главный редактор литературного журнала «Нёман».'
+                    'Editor-in-chief of the literary magazine "Nyoman".'
                 ]
             },
             {
                 dateText: '1966 — 1982',
                 paragraphs: [
-                    'В 1966 году в составе делегации БССР принимал участие в работе XX сессии Генеральной Ассамблеи ООН, в 1971—1982 годах был депутатом ВС БССР.'
+                    'In 1966, as part of the BSSR delegation, he participated in the XX session of the UN General Assembly, in 1971-1982 he was a deputy of the BSSR Supreme Soviet.'
                 ]
             },
             {
                 dateText: '1982',
                 paragraphs: [
-                    'Умер 16 ноября 1982 года. Похоронен в Минске на Восточном кладбище.'
+                    'Died November 16, 1982. He was buried in Minsk at the Eastern cemetery.'
                 ]
             }
         ],
@@ -817,7 +830,7 @@ export default [
             {
                 latitude: 53.938303,
                 longitude: 27.662716,
-                description: 'Похоронен на Восточном кладбище'
+                description: 'Buried in the Eastern Cemetery'
             }
         ],
         works: [
@@ -845,8 +858,10 @@ export default [
     },
     {
         id: 7,
-        name: 'Иван Чигринов',
+        name: 'Ivan Chigrinov',
         years: '1934 - 1996',
+        yearOfBirth: 1934,
+        yearOfDeath: 1996,
         about: 'Ива́н Гаври́лович Чигри́нов (белор. Іван Гаўрылавіч Чыгрынаў) — народный писатель Белоруссии, публицист, драматург, сценарист. Лауреат Государственной премии БССР (1974). Член СП СССР (1964).',
         photo: 'https://upload.wikimedia.org/wikipedia/ru/0/02/Chigrinov.jpg',
         gallery: [
@@ -871,69 +886,63 @@ export default [
             {
                 dateText: '1934',
                 paragraphs: [
-                    'Иван Чигринов родился 21 декабря 1934 года в деревне Великий Бор Могилёвской области Белорусской ССР в семье председателя сельсовета.'
+                    'Ivan Chigrinov was born on December 21, 1934 in the village of Veliky Bor, Mogilev region, Belarusian SSR, in the family of the chairman of the village council.'
                 ]
             },
             {
                 dateText: '1952',
                 paragraphs: [
-                    'В 1952 году поступил на отделение журналистики филологического факультета Белорусского государственного университета имени В. И. Ленина.'
+                    'In 1952 he entered the journalism department of the philological faculty of V.I. Lenin Belarusian State University.'
                 ]
             },
             {
                 dateText: '1957 - 1962',
                 paragraphs: [
-                    'После окончания университета, работал в издательстве АН БССР.'
+                    'After graduation, he worked at the publishing house of the Academy of Sciences of the BSSR.'
                 ]
             },
             {
                 dateText: '1965',
                 paragraphs: [
-                    'Редактор отдела публицистики журнала «Полымя».'
+                    'Editor of the journalism department of the Polymya magazine.'
                 ]
             },
             {
                 dateText: '1975 - 1976',
                 paragraphs: [
-                    'С 1975 года заместитель начальника, а с 1976 — секретарь правления Союза писателей БССР.'
+                    'Since 1975, deputy chief, and since 1976 - secretary of the board of the Union of Writers of the BSSR.'
                 ]
             },
             {
                 dateText: '1986',
                 paragraphs: [
-                    'Депутат ВС БССР.'
+                    'Member of the Supreme Council of the BSSR.'
                 ]
             },
             {
                 dateText: '1987',
                 paragraphs: [
-                    'Председатель правления Белорусского отделения советского фонда культуры.'
+                    'Chairman of the Board of the Belarusian Branch of the Soviet Cultural Foundation.'
                 ]
             },
             {
                 dateText: '1989',
                 paragraphs: [
-                    'Главный редактор журнала «Спадчына».'
+                    'Editor-in-chief of Spadchyna magazine.'
                 ]
             },
             {
                 dateText: '1996',
                 paragraphs: [
-                    'Умер Чигринов 5 января 1996 года. Похоронен в Минске, на Восточном кладбище.'
+                    'Chigrinov died on January 5, 1996. He was buried in Minsk, at the Eastern cemetery.'
                 ]
             },
-            {
-                dateText: '1982',
-                paragraphs: [
-                    'Умер 16 ноября 1982 года. Похоронен в Минске на Восточном кладбище.'
-                ]
-            }
         ],
         activity: [
             {
                 latitude: 53.938303,
                 longitude: 27.662716,
-                description: 'Похоронен на Восточном кладбище'
+                description: 'Buried in the Eastern Cemetery'
             }
         ],
         works: [
@@ -961,8 +970,10 @@ export default [
     },
     {
         id: 8,
-        name: 'Светлана Алексиевич',
+        name: 'Svetlana Alexievich',
         years: '1948 - наше время',
+        yearOfBirth: 1948,
+        yearOfDeath: null,
         about: 'Светла́на Алекса́ндровна Алексие́вич — советская и белорусская писательница, журналистка, сценарист документальных фильмов. Пишет на русском языке. Первый белорусский и шестой русскоязычный лауреат Нобелевской премии по литературе (2015 год).',
         photo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/%D0%A1%D0%B2%D1%96%D1%82%D0%BB%D0%B0%D0%BD%D0%B0_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D1%96%D1%94%D0%B2%D0%B8%D1%87_%28%D0%9A%D0%B8%D1%97%D0%B2%2C_2016%29_08_%28cropped%29.JPG/1024px-%D0%A1%D0%B2%D1%96%D1%82%D0%BB%D0%B0%D0%BD%D0%B0_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D1%96%D1%94%D0%B2%D0%B8%D1%87_%28%D0%9A%D0%B8%D1%97%D0%B2%2C_2016%29_08_%28cropped%29.JPG',
         gallery: [
@@ -987,55 +998,55 @@ export default [
             {
                 dateText: '1948',
                 paragraphs: [
-                    'Родилась 31 мая 1948 года в Станиславе.'
+                    'Born May 31, 1948 in Stanislav.'
                 ]
             },
             {
                 dateText: '1965',
                 paragraphs: [
-                    'Окончила среднюю школу в Копаткевичах Гомельской области.'
+                    'Graduated from high school in Kopatkevichy in the Gomel region.'
                 ]
             },
             {
                 dateText: '1972',
                 paragraphs: [
-                    'В 1972 году окончила факультет журналистики Белорусского государственного университета, начала работу в «Маяке коммунизма» — районной газете в Берёзе Брестской области.'
+                    'In 1972, she graduated from the Faculty of Journalism of Belarusian State University, and began working at the Lighthouse of Communism, a regional newspaper in the Birch of the Brest Region.'
                 ]
             },
             {
                 dateText: '1973 — 1976',
                 paragraphs: [
-                    'Работала в белорусской «Сельской газете»'
+                    'Worked in the Belarussian “Selskaya Gazeta”'
                 ]
             },
             {
                 dateText: '1976 — 1984',
                 paragraphs: [
-                    'Руководитель отдела очерка и публицистики журнала «Нёман».'
+                    'Head of the essay and journalism department of Nyoman magazine.'
                 ]
             },
             {
                 dateText: '1983',
                 paragraphs: [
-                    'В 1983 году по рекомендации А. Адамовича, Я. Брыля, В. Быкова и В. Витки принята в Союз писателей СССР'
+                    'In 1983, on the recommendation of A. Adamovich, J. Bryl, V. Bykov and V. Vitka, she was admitted to the Union of Writers of the USSR.'
                 ]
             },
             {
                 dateText: '2000 - 2012',
                 paragraphs: [
-                    'Жила в Италии, Франции, Германии'
+                    'Lived in Italy, France, Germany'
                 ]
             },
             {
                 dateText: '2013',
                 paragraphs: [
-                    'Снова живёт в Белоруссии'
+                    'Living in Belarus again'
                 ]
             },
             {
                 dateText: '2013-2020',
                 paragraphs: [
-                    'Член Рады (Совета) Союза белорусских писателей, вице-президент Международного ПЕН-клуба, с 26 октября 2019 года — председатель Белорусского ПЕН-центра'
+                    'Member of the Rada (Council) of the Union of Belarusian Writers, Vice-President of the International PEN Club, since October 26, 2019 - Chairman of the Belarusian PEN Center',
                 ]
             }
         ],
@@ -1043,7 +1054,7 @@ export default [
             {
                 latitude: 53.909722,
                 longitude: 27.581558,
-                description: 'Руководитель Белорусского ПЕН-центра'
+                description: 'Head of the Belarusian PEN Center'
             }
         ],
         works: [
@@ -1079,8 +1090,10 @@ export default [
     },
     {
         id: 9,
-        name: 'Наталья Батракова',
+        name: 'Natalia Batrakova',
         years: '1964 - наше время',
+        yearOfBirth: 1964,
+        yearOfDeath: null,
         about: 'Наталья Николаевна Батракова — русскоязычная писательница из Белоруссии. Одна из лидеров современных прозаиков по количеству проданных книг в Белоруссии, автор популярных романов',
         photo: 'https://www.sb.by/upload/resize_cache/slam.image/iblock/d5a/d5a8e5ef430671d5255fd9948a224de2.jpg',
         gallery: [
@@ -1105,37 +1118,37 @@ export default [
             {
                 dateText: '1964',
                 paragraphs: [
-                    'Наталья Батракова родилась 18 мая 1964 года в Белыничах, Могилёвская область, Белоруссия.'
+                    'Natalia Batrakova was born on May 18, 1964 in Belynichi, Mogilev region, Belarus.'
                 ]
             },
             {
                 dateText: '1981',
                 paragraphs: [
-                    'Окончила Белыническую СШ № 2.'
+                    'Graduated from Belynichnaya secondary school number 2.'
                 ]
             },
             {
                 dateText: '1986',
                 paragraphs: [
-                    'В 1986 году окончила Белорусский институт инженеров железнодорожного транспорта в Гомеле'
+                    'In 1986 she graduated from the Belarusian Institute of Railway Engineers in Gomel'
                 ]
             },
             {
                 dateText: '2002',
                 paragraphs: [
-                    'Стихи пробовала писать с 16 лет. Её книги романы-дилогии «Территория души» и «Площадь согласия» стали настоящими бестселлерами на белорусском книжном рынке. Известным автором стала после дилогии «Территория души».'
+                    'I tried to write poetry from the age of 16. Her books novels-dilogies “Territory of the Soul” and “Area of Concord” became real bestsellers in the Belarusian book market. After the dilogy "Territory of the Soul" became a famous author.'
                 ]
             },
             {
                 dateText: '2012',
                 paragraphs: [
-                    'Её роман «Миг бесконечности» в 2-х томах стал самым продаваемой художественной книгой в Белоруссии в 2012 году'
+                    'Her novel “The Moment of Infinity” in 2 volumes became the best-selling art book in Belarus in 2012'
                 ]
             },
             {
                 dateText: '2013',
                 paragraphs: [
-                    'По итогам профессионального конкурса «Брэнд года—2012», проводимого в Белоруссии, Наталья Батракова стала брэнд-персоной 2012 года в номинации «Культура»'
+                    'According to the results of the Brand of the Year 2012 professional competition held in Belarus, Natalya Batrakova became the 2012 brand person in the Culture nomination'
                 ]
             }
         ],
@@ -1143,7 +1156,7 @@ export default [
             {
                 latitude: 53.995239,
                 longitude: 29.707344,
-                description: 'Белыничи, Могилёвская область'
+                description: 'Belynichi, Mogilev region'
             }
         ],
         works: [
@@ -1187,8 +1200,10 @@ export default [
     },
     {
         id: 10,
-        name: 'Виктор Мартинович',
+        name: 'Viktar Martsinovich',
         years: '1977 - наше время',
+        yearOfBirth: 1977,
+        yearOfDeath: null,
         about: 'Ви́ктор Вале́рьевич Мартино́вич — белорусский писатель, искусствовед и журналист. С 2002 по 2015 г. заместитель главного редактора информационно-аналитического еженедельника «БелГазета»',
         photo: 'https://s12.stc.all.kpcdn.net/share/i/4/687943/big.jpg',
         gallery: [
@@ -1213,37 +1228,37 @@ export default [
             {
                 dateText: '1977',
                 paragraphs: [
-                    'Родился 9 сентября 1977 года в Ошмянах.'
+                    'Born on September 9, 1977 in Oshmyany.'
                 ]
             },
             {
                 dateText: '1999',
                 paragraphs: [
-                    'В 1999 году окончил факультет журналистики'
+                    'In 1999 he graduated from the Faculty of Journalism'
                 ]
             },
             {
                 dateText: '2002',
                 paragraphs: [
-                    'В 2002 году окончил — аспирантуру БГУ'
+                    'In 2002 he graduated - postgraduate study at BSU'
                 ]
             },
             {
                 dateText: '2002 - 2015',
                 paragraphs: [
-                    'Заместитель главного редактора информационно-аналитического еженедельника «БелГазета»'
+                    'Deputy editor-in-chief of the information and analytical weekly BelGazeta'
                 ]
             },
             {
                 dateText: '2008',
                 paragraphs: [
-                    '27 июня 2008 года в Вильнюсской Академии Искусств (Литва) защитил докторскую диссертацию на тему «Витебский авангард (1918—1922): социокультурный контекст и художественная критика» («Віцебскі авангард (1918—1922): сацыякультурны кантэкст і мастацкая крытыка»)[3], имеет учёную степень PhD по истории искусств. Преподаёт в Европейском гуманитарном университете.'
+                    'On June 27, 2008, at the Vilnius Academy of Arts (Lithuania), he defended his doctoral dissertation on the topic “Vitebsk avant-garde (1918-1922): sociocultural context and artistic criticism” (“Vitebsk avant-garde (1918-1922): cantext and mastack cover is saty-cultural”) [ 3], has a PhD degree in art history. He teaches at the European Humanities University.'
                 ]
             },
             {
                 dateText: '2014',
                 paragraphs: [
-                    'В октябре-декабре 2014 года занимался научно-исследовательской работой в Институте гуманитарных наук в Вене (Австрия), где в рамках программы им. Милены Есенской готовил работу о витебском периоде жизни и творчества Марка Шагала.'
+                    'In October-December 2014, he was engaged in research work at the Institute for the Humanities in Vienna (Austria), where, as part of the program named after Milena Yesenskaya was preparing a work on the Vitebsk period of the life and work of Marc Chagall.'
                 ]
             }
         ],
@@ -1251,7 +1266,7 @@ export default [
             {
                 latitude: 54.426144,
                 longitude: 25.935744,
-                description: 'Ошмяны'
+                description: 'Ashmyany'
             }
         ],
         works: [
