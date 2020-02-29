@@ -1,12 +1,27 @@
 .wrapper {
   width: 100%;
-  max-width: 800px;
-  padding: 20px;
-  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  border-top: 2px solid #cc0001;
+  border-bottom: 2px solid #cc0001;
+  background: url(../../assets/images/ornament.jpg) center;
   h2 {
     display: inline;
+    color: white;
   }
   button {
     margin: auto 0 auto 10px;
   }
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  padding: 20px 24px;
+  background-color: #cc0001;
+}
+
+.wrapper button {
+  background-color: black;
+  border: none;
 }
