@@ -1,11 +1,12 @@
 import React from 'react';
+import { withTranslation } from 'react-i18next';
 import './WorksList.scss';
 
-function WorksList({ works }) {
+function WorksList({ works, t }) {
   const rowsList = works.map((item, index) => {
     return <tr key={index}>
       <th scope="row">{index + 1}</th>
-      <td>{item.name}</td>
+      <td>{t(item.name)}</td>
       <td>{item.date}</td>
     </tr>
   });
@@ -15,8 +16,8 @@ function WorksList({ works }) {
         <thead className="thead-color">
           <tr>
             <th scope="col">№</th>
-            <th scope="col">Творение</th>
-            <th scope="col">Дата создания</th>
+            <th scope="col">{t('Creation')}</th>
+            <th scope="col">{t('Date of creation')}</th>
           </tr>
         </thead>
         <tbody>
@@ -27,4 +28,4 @@ function WorksList({ works }) {
   );
 }
 
-export default WorksList;
+export default withTranslation()(WorksList);

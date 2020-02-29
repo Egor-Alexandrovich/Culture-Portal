@@ -159,7 +159,7 @@ export default [
     },
     {
         id: 2,
-        name: 'Иван Шамякин',
+        name: 'Ivan Shamiakin',
         years: '1921 - 2004',
         about: 'Ива́н Петро́вич Шамя́кин — белорусский советский писатель, сценарист и драматург, общественный деятель. Народный писатель Белорусской ССР (1972). Герой Социалистического Труда (1981). Лауреат Сталинской премии третьей степени (1951). Член ВКП(б) с 1943 года. Академик Национальной академии наук Беларуси (1994).',
         photo: 'https://www.you-books.com/storebooks/I/I-P-Shamyakin/Atlanty-I-Kariatidy-Sbornik/i_001.jpg',
@@ -189,67 +189,67 @@ export default [
             {
                 dateText: '1921',
                 paragraphs: [
-                    'Родился 30 января 1921 года в деревне Корма Гомельского уезда Гомельской губернии в крестьянской семье.'
+                    'Born on January 30, 1921 in a peasant family in the village of Korma, Gomel county, Gomel province.'
                 ]
             },
             {
                 dateText: '1936 - 1940',
                 paragraphs: [
-                    'В 1936 году окончил семь классов Маковской школы, продолжил учёбу в Гомельском техникуме строительных материалов (1936—1940). По окончании техникума работал техником-технологом кирпичного завода в Белостоке. Ещё в техникуме начал писать стихи, участвовал в заседаниях литературного объединения при газете «Гомельская правда».'
+                    'In 1936 he graduated from seven classes of the Makovsky school, continued his studies at the Gomel College of Building Materials (1936-1940). At the end of the technical school he worked as a technologist-technologist at a brick factory in Bialystok. Even in college he began to write poetry, participated in meetings of the literary association at the newspaper "Gomelskaya Pravda".'
                 ]
             },
             {
                 dateText: '1940 - 1945',
                 paragraphs: [
-                    'В 1940 году был призван в РККА, проходил службу в Мурманске в зенитно-артиллерийской части, в 1944 передислоцирован в Польшу, принимал участие в Висло-Одерской операции и в Берлинской наступательной операции в составе прожекторной роты 16.04.1945. Во время Великой Отечественной войны командир орудийного расчёта, комсорг дивизиона.'
+                    'In 1940 he was drafted into the Red Army, served in Murmansk in the anti-aircraft artillery unit, was relocated to Poland in 1944, and took part in the Wislo-Oder operation and in the Berlin offensive operation as part of a searchlight company on 04/16/1945. During World War II, the commander of the gun crew, the Komsomol division.'
                 ]
             },
             {
                 dateText: '1945 — 1947',
                 paragraphs: [
-                    'После демобилизации в октябре 1945 года работал до 1947 года преподавателем языка и литературы неполной средней школы в деревне Прокоповка Тереховского района. В 1946 году поступил на заочное отделение Гомельского педагогического института.'
+                    'After demobilization in October 1945, he worked until 1947 as a teacher of the language and literature of an incomplete secondary school in the village of Prokopovka, Terekhovsky District. In 1946 he entered the correspondence department of the Gomel Pedagogical Institute.'
                 ]
             },
             {
                 dateText: '1948 — 1950',
                 paragraphs: [
-                    'Учился в Республиканской партийной школе.'
+                    'He studied at the Republican Party School.'
                 ]
             },
             {
                 dateText: '1963',
                 paragraphs: [
-                    'В 1963 году входил в состав белорусской делегации на XVIII сессии Генеральной Ассамблеи ООН'
+                    'In 1963 he was a member of the Belarusian delegation at the XVIII session of the UN General Assembly'
                 ]
             },
             {
                 dateText: '1963 — 1985',
                 paragraphs: [
-                    'Депутат Верховного Совета БССР.'
+                    'Member of the Supreme Council of the BSSR.'
                 ]
             },
             {
                 dateText: '1971 — 1985',
                 paragraphs: [
-                    'Председатель Верховного Совета БССР.'
+                    'Chairman of the Supreme Council of the BSSR.'
                 ]
             },
             {
                 dateText: '1980 — 1989',
                 paragraphs: [
-                    'Депутат Верховного Совета СССР.'
+                    'Member of the Supreme Soviet of the USSR.',
                 ]
             },
             {
                 dateText: '1980 — 1992',
                 paragraphs: [
-                    'Главный редактор издательства «Белорусская советская энциклопедия».'
+                    'Editor-in-chief of the Belarusian Soviet Encyclopedia Publishing House.'
                 ]
             },
             {
                 dateText: '2004',
                 paragraphs: [
-                    'Скончался 14 октября 2004 года в Минске. Похоронен на Восточном кладбище.'
+                    'He died on October 14, 2004 in Minsk. He was buried in the Eastern cemetery.',
                 ]
             }
         ],
@@ -257,12 +257,12 @@ export default [
             {
                 latitude: 53.938303,
                 longitude: 27.662716,
-                description: 'Похоронен на Восточном кладбище'
+                description: 'Buried in the Eastern Cemetery'
             }
         ],
         works: [
             {
-                name: '«Глубокое течение»',
+                name: '«Deep streams»',
                 date: '1949'
             },
             {
