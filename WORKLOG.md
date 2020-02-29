@@ -32,6 +32,7 @@
 | Feb 26 | Feb 26 | 30 min | adaptive design |
 | Feb 27 | Feb 27 | 1h | work with styles |
 | Feb 29 | Feb 29 | 1h | video block styles |
+
 *Potapov Sergey*
 | Start time  | End time | time spent | feature |
 |-----------|-------------|-------------|-------------|
