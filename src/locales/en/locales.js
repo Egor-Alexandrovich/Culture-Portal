@@ -111,5 +111,17 @@ export default {
   'Chairman of the Board of the Belarusian Branch of the Soviet Cultural Foundation.': 'Chairman of the Board of the Belarusian Branch of the Soviet Cultural Foundation.',
   'Editor-in-chief of Spadchyna magazine.': 'Editor-in-chief of Spadchyna magazine.',
   'Chigrinov died on January 5, 1996. He was buried in Minsk, at the Eastern cemetery.': 'Chigrinov died on January 5, 1996. He was buried in Minsk, at the Eastern cemetery.',
+
+  'Svetlana Alexievich': 'Svetlana Alexievich',
+  'Born May 31, 1948 in Stanislav.': 'Born May 31, 1948 in Stanislav.',
+  'Graduated from high school in Kopatkevichy in the Gomel region.': 'Graduated from high school in Kopatkevichy in the Gomel region.',
+  'In 1972, she graduated from the Faculty of Journalism of Belarusian State University, and began working at the Lighthouse of Communism, a regional newspaper in the Birch of the Brest Region.': 'In 1972, she graduated from the Faculty of Journalism of Belarusian State University, and began working at the Lighthouse of Communism, a regional newspaper in the Birch of the Brest Region.',
+  'Worked in the Belarussian “Selskaya Gazeta”': 'Worked in the Belarussian “Selskaya Gazeta”',
+  'Head of the essay and journalism department of Nyoman magazine.': 'Head of the essay and journalism department of Nyoman magazine.',
+  'In 1983, on the recommendation of A. Adamovich, J. Bryl, V. Bykov and V. Vitka, she was admitted to the Union of Writers of the USSR.': 'In 1983, on the recommendation of A. Adamovich, J. Bryl, V. Bykov and V. Vitka, she was admitted to the Union of Writers of the USSR.',
+  'Lived in Italy, France, Germany': 'Lived in Italy, France, Germany',
+  'Living in Belarus again': 'Living in Belarus again',
+  'Member of the Rada (Council) of the Union of Belarusian Writers, Vice-President of the International PEN Club, since October 26, 2019 - Chairman of the Belarusian PEN Center': 'Member of the Rada (Council) of the Union of Belarusian Writers, Vice-President of the International PEN Club, since October 26, 2019 - Chairman of the Belarusian PEN Center',
+  'Head of the Belarusian PEN Center': 'Head of the Belarusian PEN Center',
   
 };

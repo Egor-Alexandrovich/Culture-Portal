@@ -955,7 +955,7 @@ export default [
     },
     {
         id: 8,
-        name: 'Светлана Алексиевич',
+        name: 'Svetlana Alexievich',
         years: '1948 - наше время',
         about: 'Светла́на Алекса́ндровна Алексие́вич — советская и белорусская писательница, журналистка, сценарист документальных фильмов. Пишет на русском языке. Первый белорусский и шестой русскоязычный лауреат Нобелевской премии по литературе (2015 год).',
         photo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/%D0%A1%D0%B2%D1%96%D1%82%D0%BB%D0%B0%D0%BD%D0%B0_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D1%96%D1%94%D0%B2%D0%B8%D1%87_%28%D0%9A%D0%B8%D1%97%D0%B2%2C_2016%29_08_%28cropped%29.JPG/1024px-%D0%A1%D0%B2%D1%96%D1%82%D0%BB%D0%B0%D0%BD%D0%B0_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D1%96%D1%94%D0%B2%D0%B8%D1%87_%28%D0%9A%D0%B8%D1%97%D0%B2%2C_2016%29_08_%28cropped%29.JPG',
@@ -981,55 +981,55 @@ export default [
             {
                 dateText: '1948',
                 paragraphs: [
-                    'Родилась 31 мая 1948 года в Станиславе.'
+                    'Born May 31, 1948 in Stanislav.'
                 ]
             },
             {
                 dateText: '1965',
                 paragraphs: [
-                    'Окончила среднюю школу в Копаткевичах Гомельской области.'
+                    'Graduated from high school in Kopatkevichy in the Gomel region.'
                 ]
             },
             {
                 dateText: '1972',
                 paragraphs: [
-                    'В 1972 году окончила факультет журналистики Белорусского государственного университета, начала работу в «Маяке коммунизма» — районной газете в Берёзе Брестской области.'
+                    'In 1972, she graduated from the Faculty of Journalism of Belarusian State University, and began working at the Lighthouse of Communism, a regional newspaper in the Birch of the Brest Region.'
                 ]
             },
             {
                 dateText: '1973 — 1976',
                 paragraphs: [
-                    'Работала в белорусской «Сельской газете»'
+                    'Worked in the Belarussian “Selskaya Gazeta”'
                 ]
             },
             {
                 dateText: '1976 — 1984',
                 paragraphs: [
-                    'Руководитель отдела очерка и публицистики журнала «Нёман».'
+                    'Head of the essay and journalism department of Nyoman magazine.'
                 ]
             },
             {
                 dateText: '1983',
                 paragraphs: [
-                    'В 1983 году по рекомендации А. Адамовича, Я. Брыля, В. Быкова и В. Витки принята в Союз писателей СССР'
+                    'In 1983, on the recommendation of A. Adamovich, J. Bryl, V. Bykov and V. Vitka, she was admitted to the Union of Writers of the USSR.'
                 ]
             },
             {
                 dateText: '2000 - 2012',
                 paragraphs: [
-                    'Жила в Италии, Франции, Германии'
+                    'Lived in Italy, France, Germany'
                 ]
             },
             {
                 dateText: '2013',
                 paragraphs: [
-                    'Снова живёт в Белоруссии'
+                    'Living in Belarus again'
                 ]
             },
             {
                 dateText: '2013-2020',
                 paragraphs: [
-                    'Член Рады (Совета) Союза белорусских писателей, вице-президент Международного ПЕН-клуба, с 26 октября 2019 года — председатель Белорусского ПЕН-центра'
+                    'Member of the Rada (Council) of the Union of Belarusian Writers, Vice-President of the International PEN Club, since October 26, 2019 - Chairman of the Belarusian PEN Center',
                 ]
             }
         ],
@@ -1037,7 +1037,7 @@ export default [
             {
                 latitude: 53.909722,
                 longitude: 27.581558,
-                description: 'Руководитель Белорусского ПЕН-центра'
+                description: 'Head of the Belarusian PEN Center'
             }
         ],
         works: [

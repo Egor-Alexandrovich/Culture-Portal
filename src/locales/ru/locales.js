@@ -112,5 +112,17 @@ export default {
   'Chairman of the Board of the Belarusian Branch of the Soviet Cultural Foundation.': 'Председатель правления Белорусского отделения советского фонда культуры.',
   'Editor-in-chief of Spadchyna magazine.': 'Главный редактор журнала «Спадчына».',
   'Chigrinov died on January 5, 1996. He was buried in Minsk, at the Eastern cemetery.': 'Умер Чигринов 5 января 1996 года. Похоронен в Минске, на Восточном кладбище.',
-   
+
+  'Svetlana Alexievich': 'Светлана Алексиевич',
+  'Born May 31, 1948 in Stanislav.': 'Родилась 31 мая 1948 года в Станиславе.',
+  'Graduated from high school in Kopatkevichy in the Gomel region.': 'Окончила среднюю школу в Копаткевичах Гомельской области.',
+  'In 1972, she graduated from the Faculty of Journalism of Belarusian State University, and began working at the Lighthouse of Communism, a regional newspaper in the Birch of the Brest Region.': 'В 1972 году окончила факультет журналистики Белорусского государственного университета, начала работу в «Маяке коммунизма» — районной газете в Берёзе Брестской области.',
+  'Worked in the Belarussian “Selskaya Gazeta”': 'Работала в белорусской «Сельской газете»',
+  'Head of the essay and journalism department of Nyoman magazine.': 'Руководитель отдела очерка и публицистики журнала «Нёман».',
+  'In 1983, on the recommendation of A. Adamovich, J. Bryl, V. Bykov and V. Vitka, she was admitted to the Union of Writers of the USSR.': 'В 1983 году по рекомендации А. Адамовича, Я. Брыля, В. Быкова и В. Витки принята в Союз писателей СССР.',
+  'Lived in Italy, France, Germany': 'Жила в Италии, Франции, Германии',
+  'Living in Belarus again': 'Снова живёт в Беларуси',
+  'Member of the Rada (Council) of the Union of Belarusian Writers, Vice-President of the International PEN Club, since October 26, 2019 - Chairman of the Belarusian PEN Center': 'Член Рады (Совета) Союза белорусских писателей, вице-президент Международного ПЕН-клуба, с 26 октября 2019 года — председатель Белорусского ПЕН-центра',
+  'Head of the Belarusian PEN Center': 'Руководитель Белорусского ПЕН-центра',
+    
 };

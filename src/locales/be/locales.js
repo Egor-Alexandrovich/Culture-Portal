@@ -112,6 +112,17 @@ export default {
   'Chairman of the Board of the Belarusian Branch of the Soviet Cultural Foundation.': 'Старшыня праўлення Беларускага аддзялення Савецкага фонду культуры.',
   'Editor-in-chief of Spadchyna magazine.': 'Галоўны рэдактар часопіса "Спадчына".',
   'Chigrinov died on January 5, 1996. He was buried in Minsk, at the Eastern cemetery.': 'Памёр Чыгрынаў 5 студзеня 1996 года. Пахаваны ў Мінску на Усходніх могілках.',
-  
 
+  'Svetlana Alexievich': 'Святлана Алексіевіч',
+  'Born May 31, 1948 in Stanislav.': 'Нарадзілася 31 траўня 1948 года ў Станіславе.',
+  'Graduated from high school in Kopatkevichy in the Gomel region.': 'Скончыла сярэднюю школу ў Капаткевічах Гомельскай вобласці.',
+  'In 1972, she graduated from the Faculty of Journalism of Belarusian State University, and began working at the Lighthouse of Communism, a regional newspaper in the Birch of the Brest Region.': 'У 1972 годзе скончыла факультэт журналістыкі Беларускага дзяржаўнага ўніверсітэта, пачала працу ў "маяку камунізму" - раённай газеце ў Бярозе Брэсцкай вобласці.',
+  'Worked in the Belarussian “Selskaya Gazeta”': 'Працавала ў беларускай "сельскай газеце"',
+  'Head of the essay and journalism department of Nyoman magazine.': 'Кіраўнік аддзела нарыса і публіцыстыкі часопіса «Нёман».',
+  'In 1983, on the recommendation of A. Adamovich, J. Bryl, V. Bykov and V. Vitka, she was admitted to the Union of Writers of the USSR.': 'У 1983 годзе па рэкамендацыі А. Адамовіча, Я. Брыля, В. Быкава і В. Віткі прынятая ў Саюз пісьменнікаў СССР',
+  'Lived in Italy, France, Germany': 'Жыла ў Італіі, Францыі, Германіі',
+  'Living in Belarus again': 'Зноў жыве ў Беларусі',
+  'Member of the Rada (Council) of the Union of Belarusian Writers, Vice-President of the International PEN Club, since October 26, 2019 - Chairman of the Belarusian PEN Center': 'Член Рады (Савета) Саюза беларускіх пісьменнікаў, віцэ-прэзідэнт Міжнароднага ПЭН-клуба, з 26 кастрычніка 2019 года-старшыня Беларускага ПЭН-цэнтра',
+  'Head of the Belarusian PEN Center': 'Кіраўнік Беларускага ПЭН-цэнтра',
+   
 };
