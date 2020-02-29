@@ -13,6 +13,7 @@ export default {
   'Style guide': 'Стили сайта',
   'Worklog': 'Журнал событий',
   'Years of life': 'Годы жизни',
+  'Our time': 'наше время',
   'Search': 'Поиск',
   'Creation': 'Творение',
   'Date of creation': 'Дата создания',
@@ -142,5 +143,5 @@ export default {
   'On June 27, 2008, at the Vilnius Academy of Arts (Lithuania), he defended his doctoral dissertation on the topic “Vitebsk avant-garde (1918-1922): sociocultural context and artistic criticism” (“Vitebsk avant-garde (1918-1922): cantext and mastack cover is saty-cultural”) [ 3], has a PhD degree in art history. He teaches at the European Humanities University.': '27 июня 2008 года в Вильнюсской Академии Искусств (Литва) защитил докторскую диссертацию на тему «Витебский авангард (1918—1922): социокультурный контекст и художественная критика» («Віцебскі авангард (1918—1922): сацыякультурны кантэкст і мастацкая крытыка»)[3], имеет учёную степень PhD по истории искусств. Преподаёт в Европейском гуманитарном университете.',
   'In October-December 2014, he was engaged in research work at the Institute for the Humanities in Vienna (Austria), where, as part of the program named after Milena Yesenskaya was preparing a work on the Vitebsk period of the life and work of Marc Chagall.': 'В октябре-декабре 2014 года занимался научно-исследовательской работой в Институте гуманитарных наук в Вене (Австрия), где в рамках программы им. Милены Есенской готовил работу о витебском периоде жизни и творчества Марка Шагала.',
   'Ashmyany': 'Ошмяны',
-  
+
 };

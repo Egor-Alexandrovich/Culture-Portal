@@ -14,6 +14,7 @@ export default {
   'Style guide': 'Стылі сайта',
   'Worklog': 'Часопіс падзей',
   'Years of life': 'Гады жыцця',
+  'Our time': 'наш час',
   'Search': 'Пошук',
   'Creation': 'Тварэнне',
   'Date of creation': 'Дата стварэння',
