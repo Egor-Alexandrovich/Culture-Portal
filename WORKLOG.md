@@ -32,3 +32,12 @@
 | Feb 26 | Feb 26 | 30 min | adaptive design |
 | Feb 27 | Feb 27 | 1h | work with styles |
 | Feb 29 | Feb 29 | 1h | video block styles |
+*Potapov Sergey*
+| Start time  | End time | time spent | feature |
+|-----------|-------------|-------------|-------------|
+| Feb 23 | Feb 23 | 1h | add css modules, data file |
+| Feb 24 | Feb 24 | 1.5h | add Authors basik information |
+| Feb 25 | Feb 26 | 2h | add Authors timeline |
+| Feb 28 | Feb 28 | 1h | add map information to AuthorsData |
+| Feb 28 | Feb 28 | 1.5h | add Authors biography |
+| Feb 29 | Feb 29 | 30 min | add videos to AuthorsData |
