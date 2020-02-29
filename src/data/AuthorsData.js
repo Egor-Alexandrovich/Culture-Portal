@@ -306,7 +306,8 @@ export default [
                 name: '«Поиски убежища»',
                 date: '2001'
             }
-        ]
+        ],
+        videoId: 'oR1oOlhZm-k'
     },
     {
         id: 3,
@@ -460,7 +461,8 @@ export default [
                 name: '«To Live till Sunrise»',
                 date: '1972'
             }
-        ]
+        ],
+        videoId: '0So1-oBXzXo'
     },
     {
         id: 4,
@@ -592,7 +594,8 @@ export default [
                 name: '«От сева до жатвы»',
                 date: '1987'
             },
-        ]
+        ],
+        videoId: 'aT3yJEpQlW4'
     },
     {
         id: 5,
@@ -736,7 +739,8 @@ export default [
                 name: '«Любимый город: Повесть, рассказы»',
                 date: '2001'
             },
-        ]
+        ],
+        videoId: 'zXKkUqv2oao'
     },
     {
         id: 6,
@@ -854,7 +858,8 @@ export default [
                 name: '«Затюканный апостол»',
                 date: '1978'
             }
-        ]
+        ],
+        videoId: 'Trx9656ii9A'
     },
     {
         id: 7,
@@ -966,7 +971,8 @@ export default [
                 name: '«Руины стреляют...»',
                 date: '1990'
             },
-        ]
+        ],
+        videoId: '6M6PWghuuBg'
     },
     {
         id: 8,
@@ -1086,7 +1092,8 @@ export default [
                 name: '«Чудный олень вечной охоты»',
                 date: '1990 - ####'
             },
-        ]
+        ],
+        videoId: 'K1vvncMQxV0'
     },
     {
         id: 9,
@@ -1196,7 +1203,8 @@ export default [
                 name: '«Миг бесконечности 2: бесконечность любви, бесконечность печали. Книга вторая»',
                 date: '2019'
             }
-        ]
+        ],
+        videoId: 'VnTVyh5mPV4'
     },
     {
         id: 10,
@@ -1294,6 +1302,7 @@ export default [
                 name: '«Ночь»',
                 date: '2018'
             }
-        ]
+        ],
+        videoId: 'sYjcQGnnsdA'
     }
 ];

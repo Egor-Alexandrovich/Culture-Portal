@@ -13,6 +13,42 @@ export default [
     name: 'Sergey Potapov',
     gitHub: 'https://github.com/Sykpen',
     contribution: [
+      {
+        startTime: 'Feb 23',
+        endTime: 'Feb 23',
+        timeSpent: '1h',
+        feature: 'add css modules, data file',
+      },
+      {
+        startTime: 'Feb 24',
+        endTime: 'Feb 24',
+        timeSpent: '1.5h',
+        feature: 'add Authors basik information',
+      },
+      {
+        startTime: 'Feb 25',
+        endTime: 'Feb 26',
+        timeSpent: '2h ',
+        feature: 'add Authors timeline',
+      },
+      {
+        startTime: 'Feb 28',
+        endTime: 'Feb 28',
+        timeSpent: '1h',
+        feature: 'add map information to AuthorsData',
+      },
+      {
+        startTime: 'Feb 28',
+        endTime: 'Feb 28',
+        timeSpent: '1.5h',
+        feature: 'add Authors biography',
+      },
+      {
+        startTime: 'Feb 29',
+        endTime: 'Feb 29',
+        timeSpent: '30 min',
+        feature: 'add videos to AuthorsData',
+      }
     ]
   },
   {
