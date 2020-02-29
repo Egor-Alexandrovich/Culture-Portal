@@ -77,4 +77,21 @@ export default {
   '«Tales»': '«Апавяданні»',
   '«Orphan bread»': '«Сірочы хлеб»',
 
+  'Ivan Navumienka': 'Іван Навуменка',
+  'Born February 16, 1925 in the city of Vasilevichi in a family of railway workers.': 'Нарадзіўся 16 лютага 1925 года ў горадзе Васілевічы ў сям\'і чыгуначнікаў.',
+  'Member of the Great Patriotic War. From January 1942 - in the Komsomol underground, then - in partisans. In December 1943 he was drafted into the Red Army. He participated in battles on the Leningrad and 1st Ukrainian fronts.': 'Удзельнік Вялікай Айчыннай вайны. Са студзеня 1942 года - у Камсамольскім падполлі, затым - у партызанах. У снежні 1943 года прызваны ў РСЧА. Удзельнічаў у баях на Ленінградскім і 1-м Украінскім франтах.',
+  'After mobilization, he was a correspondent for the Bazhavik Palessia, a Mozyr regional newspaper, and, since 1951, for the republican newspaper“ Zvyazda.': 'Пасля мабілізацыі — карэспандэнт мазырскай абласной газеты «Бальшавік Палесся», з 1951 — рэспубліканскай газеты «Звязда».',
+  'In absentia he graduated from the BSU named after V. I. Lenin and graduate school at the university.': 'Завочна закончыў БДУ імя у. І. Леніна і аспірантуру пры універсітэце.',
+  'Was the head of the prose department of the literary magazine\' Maladosts.': 'Быў загадчыкам аддзела прозы літаратурнага часопіса "Маладосць".',
+  'Senior Lecturer, Associate Professor, Professor, Head of the Department of Belarusian Literature, B.I. Lenin BSU.': 'Старшы выкладчык, дацэнт, прафесар, загадчык кафедры беларускай літаратуры БДУ імя у. І. Леніна.',
+  'Director of the Yanka Kupala Institute of Literature, Academy of Sciences of the BSSR.': 'Дырэктар Інстытута літаратуры імя Янкі Купалы АН БССР.',
+  'Vice President of the Academy of Sciences of the BSSR.': 'Віцэ-прэзідэнт АН БССР.',
+  'Deputy of the Armed Forces of the BSSR. Chairman of the Supreme Council of the BSSR.': 'Дэпутат ВС БССР. Старшыня ВС БССР',
+  'In 1992-2002, Advisor to the Presidium of the National Academy of Sciences of Belarus. Since 2002, the main researcher at the Institute of Literature of the National Academy of Sciences of Belarus.': 'У 1992-2002 гадах саветнік Прэзідыума Нацыянальнай акадэміі навук Беларусі. З 2002 года галоўны навуковы супрацоўнік Інстытута літаратуры НАН Беларусі.',
+  'Died December 17, 2006. He was buried in the Calvary cemetery of Minsk.': 'Памёр 17 снежня 2006. Пахаваны на Кальварыйскіх могілках Мінска.',
+  'Buried in Calvary Cemetery': 'Пахаваны на Кальварыйскіх могілках',
+
+  
+
+
 };

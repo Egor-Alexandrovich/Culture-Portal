@@ -587,7 +587,7 @@ export default [
     },
     {
         id: 5,
-        name: 'Иван Науменко',
+        name: 'Ivan Navumienka',
         years: '1925 - 2006',
         about: 'Ива́н Я́ковлевич Нау́менко — белорусский советский прозаик и драматург, литературовед. Академик Национальной академии наук Беларуси (1980). Доктор филологических наук (1969), профессор (1971). Заслуженный деятель науки Белорусской ССР (1978). Народный писатель Беларуси (1995). Председатель ВС БССР (1985—1990). Член СП СССР (1957).',
         photo: 'https://upload.wikimedia.org/wikipedia/ru/8/84/%D0%9D%D0%B0%D1%83%D0%BC%D0%B5%D0%BD%D0%BA%D0%BE_%D0%98.jpg',
@@ -613,67 +613,67 @@ export default [
             {
                 dateText: '1925',
                 paragraphs: [
-                    'Родился 16 февраля 1925 года в городе Василевичи в семье железнодорожников.'
+                    'Born February 16, 1925 in the city of Vasilevichi in a family of railway workers.'
                 ]
             },
             {
                 dateText: '1942 - 1945',
                 paragraphs: [
-                    'Участник Великой Отечественной войны. С января 1942 года — в комсомольском подполье, затем — в партизанах. В декабре 1943 года призван в РККА. Участвовал в боях на Ленинградском и 1-м Украинском фронтах.'
+                    'Member of the Great Patriotic War. From January 1942 - in the Komsomol underground, then - in partisans. In December 1943 he was drafted into the Red Army. He participated in battles on the Leningrad and 1st Ukrainian fronts.'
                 ]
             },
             {
                 dateText: '1945 - 1951',
                 paragraphs: [
-                    'После мобилизации — корреспондент мозырской областной газеты «Бальшавік Палесся», с 1951 года — республиканской газеты «Звязда».'
+                    'After mobilization, he was a correspondent for the Bazhavik Palessia, a Mozyr regional newspaper, and, since 1951, for the republican newspaper“ Zvyazda.'
                 ]
             },
             {
                 dateText: '1950 — 1954',
                 paragraphs: [
-                    'Заочно окончил БГУ имени В. И. Ленина  и аспирантуру при университете.'
+                    'In absentia he graduated from the BSU named after V. I. Lenin and graduate school at the university.'
                 ]
             },
             {
                 dateText: '1953 — 1958',
                 paragraphs: [
-                    'Был заведующим отдела прозы литературного журнала «Маладосць».'
+                    'Was the head of the prose department of the literary magazine\' Maladosts.'
                 ]
             },
             {
                 dateText: '1954 — 1973',
                 paragraphs: [
-                    'Старший преподаватель, доцент, профессор, заведующий кафедрой белорусской литературы БГУ имени В. И. Ленина.'
+                    'Senior Lecturer, Associate Professor, Professor, Head of the Department of Belarusian Literature, B.I. Lenin BSU.',
                 ]
             },
             {
                 dateText: '1973 — 1982',
                 paragraphs: [
-                    'Директор Института литературы имени Янки Купалы АН БССР.'
+                    'Director of the Yanka Kupala Institute of Literature, Academy of Sciences of the BSSR.'
                 ]
             },
             {
                 dateText: '1982 — 1992',
                 paragraphs: [
-                    'Вице-президент АН БССР.'
+                    'Vice President of the Academy of Sciences of the BSSR.'
                 ]
             },
             {
                 dateText: '1985 — 1990',
                 paragraphs: [
-                    'Депутат ВС БССР. Председатель ВС БССР'
+                    'Deputy of the Armed Forces of the BSSR. Chairman of the Supreme Council of the BSSR.'
                 ]
             },
             {
                 dateText: '1992 — 2002',
                 paragraphs: [
-                    'В 1992—2002 годах советник Президиума Национальной академии наук Беларуси. С 2002 года главный научный сотрудник Института литературы НАН Беларуси.'
+                    'In 1992-2002, Advisor to the Presidium of the National Academy of Sciences of Belarus. Since 2002, the main researcher at the Institute of Literature of the National Academy of Sciences of Belarus.'
                 ]
             },
             {
                 dateText: '2006',
                 paragraphs: [
-                    'Умер 17 декабря 2006. Похоронен на Кальварийском кладбище Минска.'
+                    'Died December 17, 2006. He was buried in the Calvary cemetery of Minsk.'
                 ]
             }
         ],
@@ -681,7 +681,7 @@ export default [
             {
                 latitude: 53.908296,
                 longitude: 27.504409,
-                description: 'Похоронен на Кальварийском кладбище'
+                description: 'Buried in Calvary Cemetery',
             }
         ],
         works: [

@@ -75,4 +75,18 @@ export default {
   'Buried in a cemetery in Kolodishchi': 'Buried in a cemetery in Kolodishchi',
   '«Tales»': '«Tales»',
   '«Orphan bread»': '«Orphan bread»',
+
+  'Ivan Navumienka': 'Ivan Navumienka',
+  'Born February 16, 1925 in the city of Vasilevichi in a family of railway workers.': 'Born February 16, 1925 in the city of Vasilevichi in a family of railway workers.',
+  'Member of the Great Patriotic War. From January 1942 - in the Komsomol underground, then - in partisans. In December 1943 he was drafted into the Red Army. He participated in battles on the Leningrad and 1st Ukrainian fronts.': 'Member of the Great Patriotic War. From January 1942 - in the Komsomol underground, then - in partisans. In December 1943 he was drafted into the Red Army. He participated in battles on the Leningrad and 1st Ukrainian fronts.',
+  'After mobilization, he was a correspondent for the Bazhavik Palessia, a Mozyr regional newspaper, and, since 1951, for the republican newspaper“ Zvyazda.': 'After mobilization, he was a correspondent for the Bazhavik Palessia, a Mozyr regional newspaper, and, since 1951, for the republican newspaper“ Zvyazda.',
+  'In absentia he graduated from the BSU named after V. I. Lenin and graduate school at the university.': 'In absentia he graduated from the BSU named after V. I. Lenin and graduate school at the university.',
+  'Was the head of the prose department of the literary magazine\' Maladosts.': 'Was the head of the prose department of the literary magazine\' Maladosts.',
+  'Senior Lecturer, Associate Professor, Professor, Head of the Department of Belarusian Literature, B.I. Lenin BSU.': 'Senior Lecturer, Associate Professor, Professor, Head of the Department of Belarusian Literature, B.I. Lenin BSU.',
+  'Director of the Yanka Kupala Institute of Literature, Academy of Sciences of the BSSR.': 'Director of the Yanka Kupala Institute of Literature, Academy of Sciences of the BSSR.',
+  'Vice President of the Academy of Sciences of the BSSR.': 'Vice President of the Academy of Sciences of the BSSR.',
+  'Deputy of the Armed Forces of the BSSR. Chairman of the Supreme Council of the BSSR.': 'Deputy of the Armed Forces of the BSSR. Chairman of the Supreme Council of the BSSR.',
+  'In 1992-2002, Advisor to the Presidium of the National Academy of Sciences of Belarus. Since 2002, the main researcher at the Institute of Literature of the National Academy of Sciences of Belarus.': 'In 1992-2002, Advisor to the Presidium of the National Academy of Sciences of Belarus. Since 2002, the main researcher at the Institute of Literature of the National Academy of Sciences of Belarus.',
+  'Died December 17, 2006. He was buried in the Calvary cemetery of Minsk.': 'Died December 17, 2006. He was buried in the Calvary cemetery of Minsk.',
+  'Buried in Calvary Cemetery': 'Buried in Calvary Cemetery',
 };
