@@ -1,0 +1,114 @@
+@import '../../colors.scss';
+
+.style-guide-logo {
+  text-align: center;
+  font-family: 'Dancing Script', 'Marck Script', cursive;
+  margin: 20px 0;
+}
+
+.style-guide-sections {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 50% 50%;
+  @media (max-width: 1020px) {
+    grid-template-columns: 100%;
+    h2 {
+      font-size: 1.2rem;
+    }
+  }
+}
+
+.style-guide-section {
+  padding: 20px;
+}
+
+.section-name {
+  font-family: 'Dancing Script', 'Marck Script', cursive;
+}
+
+.colors-list {
+  display: flex;
+  padding: 0;
+  list-style: none;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  &__item {
+    display: flex;
+    padding: 10px 0;
+    font-family: Caveat, cursive;
+    width: 50%;
+    align-items: center;
+    &_clr {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      box-shadow: 0px 0px 4px 4px black;
+    }
+  }
+  @media (max-width: 500px) {
+    flex-direction: column;
+    &__item {
+      width: 100%;
+    }
+  }
+}
+
+.color-description {
+  padding-left: 5px;
+}
+
+#color-1 {
+  background-color: $primary-dark;
+}
+#color-2 {
+  background-color: $primary-light;
+}
+#color-3 {
+  background-color: $secondary-light;
+}
+#color-4 {
+  background-color: $secondary-medium;
+}
+#color-5 {
+  background-color: $grid-head;
+}
+#color-6 {
+  background-color: $grid-row;
+}
+
+#dancing-script {
+  font-family: 'Dancing Script';
+}
+
+#marck-script {
+  font-family: 'Marck Script';
+}
+
+#caveat {
+  font-family: Caveat;
+}
+
+#cursive {
+  font-family: Cursive;
+}
+
+.elements-list {
+  display: flex;
+  flex-direction: column;
+  align-items: baseline;
+  &__item {
+    padding: 5px 0;
+  }
+}
+
+.btn-font {
+  font-family: Caveat, cursive;
+}
+
+.icons-list {
+  display: flex;
+  &__item {
+    padding-left: 10px;
+    width: 100px;
+  }
+}
