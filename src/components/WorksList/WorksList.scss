@@ -1,4 +1,9 @@
 .colored-rows {
+  td {
+    @media (max-width: 500px) {
+      padding: 5px;
+    }
+  }
   tbody tr:nth-of-type(2n) {
     background-color: #eaf18854;
   }
