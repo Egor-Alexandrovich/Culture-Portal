@@ -1,6 +1,7 @@
 import React from 'react';
 import { Timeline, TimelineItem } from 'vertical-timeline-component-for-react';
 import { withTranslation } from 'react-i18next';
+import './TimeLine.scss';
 
 function TimeLine({ timeline, t }) {
   const timeItemsArray = timeline.map((item, index) => {
@@ -15,7 +16,7 @@ function TimeLine({ timeline, t }) {
     </TimelineItem>
   });
   return (
-    <Timeline lineColor={'#ddd'}>
+    <Timeline className="time-line-font" lineColor={'#ddd'}>
       {timeItemsArray}
     </Timeline>
   );

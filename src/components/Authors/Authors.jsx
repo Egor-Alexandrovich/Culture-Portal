@@ -3,7 +3,6 @@ import './Authors.scss';
 import { withTranslation } from 'react-i18next';
 import data from '../../data/AuthorsData';
 import AuthorIdentity from '../AuthorIdentity/AuthorIdentity';
-
 import { withRouter } from 'react-router-dom';
 
 class Authors extends Component {
@@ -52,7 +51,7 @@ class Authors extends Component {
     let items = this.renderAuthors(this.state.list);
     return (
       <div className="container">
-        <h2 className="text-center">{t('Writers of Belarus')}</h2>
+        <h2 className="text-center head-text">{t('Writers of Belarus')}</h2>
         <div className="search-wrapp">
           <input type="text" className="search" placeholder={t('Search')} ref={(input) => { this.searchInput = input }} onChange={this.find.bind(this, data)}/>
         </div>

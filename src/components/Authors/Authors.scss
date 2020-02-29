@@ -12,7 +12,12 @@
     border-radius: 8px;
     display: flex;
     align-items: center;
- 
+    font-family: Caveat, cursive;
+}
+
+.head-text {
+    margin-top: 20px;
+    font-family: 'Dancing Script', 'Marck Script', cursive;
 }
 
 :focus::-webkit-input-placeholder {

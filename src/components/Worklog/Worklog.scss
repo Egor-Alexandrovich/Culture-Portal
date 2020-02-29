@@ -1,10 +1,13 @@
 .worklog-wrapper {
   display: grid;
   grid-template-columns: 50% 50%;
+  h2 {
+    font-family: 'Dancing Script', 'Marck Script', cursive;
+  }
   @media (max-width: 1020px) {
     grid-template-columns: 100%;
     h2 {
-      font-size: 1rem;
+      font-size: 1.2rem;
     }
   }
 }
@@ -12,8 +15,10 @@
 .table-container {
   display: inline-block;
   padding: 20px;
+  font-family: Caveat, cursive;
+  font-size: 1.5em;
   @media (max-width: 600px) {
     padding: 10px;
-    font-size: 0.8em;;
+    font-size: 1em;
   }
 }
