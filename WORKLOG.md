@@ -4,7 +4,7 @@
 | Start time  | End time | time spent | feature |
 |-----------|-------------|-------------|-------------|
 | Feb 21 | Feb 21 | 30 min | add svg icons |
-| Fed 21 | Fed 21 | 15 min | add basic structure of the project |
+| Feb 21 | Feb 21 | 15 min | add basic structure of the project |
 | Feb 23 | Feb 24 | 30 min | implement timeline component |
 | Feb 24 | Feb 24 | 1h | append writers' works element |
 | Feb 25 | Feb 25 | 1.5h | add YouTube video widget |
@@ -20,4 +20,14 @@
 | Start time  | End time | time spent | feature |
 |-----------|-------------|-------------|-------------|
 | Feb 24 | Feb 24 | 4h | add authors page |
-| Fed 24 | Fed 24 | 1h | add add logic  authors page  |
+| Feb 24 | Feb 24 | 1h | add add logic  authors page  |
+
+*Artsiom Lipchyk*
+| Start time  | End time | time spent | feature |
+|-----------|-------------|-------------|-------------|
+| Feb 19 | Feb 19 | 3h | create first page layout |
+| Feb 21 | Feb 21 | 15 min | add react router structure of the project |
+| Feb 25 | Feb 25 | 1h | add search option |
+| Feb 26 | Feb 26 | 30 min | adaptive design |
+| Feb 27 | Feb 27 | 1h | work with styles |
+| Feb 29 | Feb 29 | 1h | video block styles |

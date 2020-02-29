@@ -7,6 +7,7 @@ import ActivityMap from '../ActivityMap/ActivityMap';
 import AuthorIdentity from '../AuthorIdentity/AuthorIdentity';
 import data from '../../data/AuthorsData';
 import { useParams } from "react-router-dom";
+import './AuthorDescription.scss'
 
 function AuthorDescription() {
   const { id } = useParams();
@@ -18,7 +19,7 @@ function AuthorDescription() {
   const videoElem = videoId ? <YouTubeVideo videoId={videoId}/> : null;
   const mapElem = activity ? <ActivityMap activity={activity}/>  : null;
   return (
-    <div>
+    <div className="description-wrapp">
       <AuthorIdentity 
         name = { name }
         years = { years }
@@ -27,8 +28,10 @@ function AuthorDescription() {
       {timelineElem}
       {worksElem}
       {galleryElem}
-      {videoElem}
       {mapElem}
+      <div className="video-block">
+        {videoElem}
+      </div>
     </div>
   );
 }

@@ -20,9 +20,11 @@ class YouTubeVideo extends Component {
   render() {
     return (
       <div className="wrapper">
-        <h2>Видео об авторе:</h2>
-        <ModalVideo channel='youtube' isOpen={this.state.isOpen} videoId={this.state.videoId} onClose={() => this.setState({isOpen: false})} />
-        <button className="btn btn-dark" onClick={this.openModal}>Смотреть</button>
+        <div className="content">
+          <h2>Видео об авторе:</h2>
+          <ModalVideo channel='youtube' isOpen={this.state.isOpen} videoId={this.state.videoId} onClose={() => this.setState({isOpen: false})} />
+          <button className="btn btn-dark" onClick={this.openModal}>Смотреть</button>
+        </div>   
       </div>
     )
   }
