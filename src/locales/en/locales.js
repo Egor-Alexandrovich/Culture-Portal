@@ -123,5 +123,13 @@ export default {
   'Living in Belarus again': 'Living in Belarus again',
   'Member of the Rada (Council) of the Union of Belarusian Writers, Vice-President of the International PEN Club, since October 26, 2019 - Chairman of the Belarusian PEN Center': 'Member of the Rada (Council) of the Union of Belarusian Writers, Vice-President of the International PEN Club, since October 26, 2019 - Chairman of the Belarusian PEN Center',
   'Head of the Belarusian PEN Center': 'Head of the Belarusian PEN Center',
-  
+
+  'Natalia Batrakova': 'Natalia Batrakova',
+  'Natalia Batrakova was born on May 18, 1964 in Belynichi, Mogilev region, Belarus.': 'Natalia Batrakova was born on May 18, 1964 in Belynichi, Mogilev region, Belarus.',
+  'Graduated from Belynichnaya secondary school number 2.': 'Graduated from Belynichnaya secondary school number 2.',
+  'In 1986 she graduated from the Belarusian Institute of Railway Engineers in Gomel': 'In 1986 she graduated from the Belarusian Institute of Railway Engineers in Gomel',
+  'I tried to write poetry from the age of 16. Her books novels-dilogies “Territory of the Soul” and “Area of Concord” became real bestsellers in the Belarusian book market. After the dilogy "Territory of the Soul" became a famous author.': 'I tried to write poetry from the age of 16. Her books novels-dilogies “Territory of the Soul” and “Area of Concord” became real bestsellers in the Belarusian book market. After the dilogy "Territory of the Soul" became a famous author.',
+  'Her novel “The Moment of Infinity” in 2 volumes became the best-selling art book in Belarus in 2012': 'Her novel “The Moment of Infinity” in 2 volumes became the best-selling art book in Belarus in 2012',
+  'According to the results of the Brand of the Year 2012 professional competition held in Belarus, Natalya Batrakova became the 2012 brand person in the Culture nomination': 'According to the results of the Brand of the Year 2012 professional competition held in Belarus, Natalya Batrakova became the 2012 brand person in the Culture nomination',
+  'Belynichi, Mogilev region': 'Belynichi, Mogilev region',
 };

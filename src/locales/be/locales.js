@@ -124,5 +124,14 @@ export default {
   'Living in Belarus again': 'Зноў жыве ў Беларусі',
   'Member of the Rada (Council) of the Union of Belarusian Writers, Vice-President of the International PEN Club, since October 26, 2019 - Chairman of the Belarusian PEN Center': 'Член Рады (Савета) Саюза беларускіх пісьменнікаў, віцэ-прэзідэнт Міжнароднага ПЭН-клуба, з 26 кастрычніка 2019 года-старшыня Беларускага ПЭН-цэнтра',
   'Head of the Belarusian PEN Center': 'Кіраўнік Беларускага ПЭН-цэнтра',
+
+  'Natalia Batrakova': 'Наталля Батракова',
+  'Natalia Batrakova was born on May 18, 1964 in Belynichi, Mogilev region, Belarus.': 'Наталля Батракова нарадзілася 18 мая 1964 года ў Бялынічах, Магілёўская вобласць, Беларусь.',
+  'Graduated from Belynichnaya secondary school number 2.': 'Скончыла Бялыніцкую СШ № 2.',
+  'In 1986 she graduated from the Belarusian Institute of Railway Engineers in Gomel': 'У 1986 годзе скончыла Беларускі Інстытут інжынераў чыгуначнага транспарту ў Гомелі',
+  'I tried to write poetry from the age of 16. Her books novels-dilogies “Territory of the Soul” and “Area of Concord” became real bestsellers in the Belarusian book market. After the dilogy "Territory of the Soul" became a famous author.': 'Вершы спрабавала пісаць з 16 гадоў. Яе кнігі раманы-дылогіі "тэрыторыя душы» і" плошча згоды " сталі сапраўднымі бэстсэлерамі на беларускім кніжным рынку. Вядомым аўтарам стала пасля дылогіі "тэрыторыя душы".',
+  'Her novel “The Moment of Infinity” in 2 volumes became the best-selling art book in Belarus in 2012': 'Яе раман «Міг бясконцасці» у 2-х тамах стаў самым прадаваным мастацкай кнігай у Беларусі ў 2012 годзе',
+  'According to the results of the Brand of the Year 2012 professional competition held in Belarus, Natalya Batrakova became the 2012 brand person in the Culture nomination': 'Па выніках прафесійнага конкурсу «Брэнд Года—2012», які праводзіцца ў Беларусі, Наталля Батракова стала брэнд-персонай 2012 года ў намінацыі "Культура"',
+  'Belynichi, Mogilev region': 'Бялынічы, Магілёўская вобласць',
    
 };

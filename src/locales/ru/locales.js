@@ -124,5 +124,14 @@ export default {
   'Living in Belarus again': 'Снова живёт в Беларуси',
   'Member of the Rada (Council) of the Union of Belarusian Writers, Vice-President of the International PEN Club, since October 26, 2019 - Chairman of the Belarusian PEN Center': 'Член Рады (Совета) Союза белорусских писателей, вице-президент Международного ПЕН-клуба, с 26 октября 2019 года — председатель Белорусского ПЕН-центра',
   'Head of the Belarusian PEN Center': 'Руководитель Белорусского ПЕН-центра',
-    
+  
+  'Natalia Batrakova': 'Наталья Батракова',
+  'Natalia Batrakova was born on May 18, 1964 in Belynichi, Mogilev region, Belarus.': 'Наталья Батракова родилась 18 мая 1964 года в Белыничах, Могилёвская область, Белоруссия.',
+  'Graduated from Belynichnaya secondary school number 2.': 'Окончила Белыническую СШ № 2.',
+  'In 1986 she graduated from the Belarusian Institute of Railway Engineers in Gomel': 'В 1986 году окончила Белорусский институт инженеров железнодорожного транспорта в Гомеле',
+  'I tried to write poetry from the age of 16. Her books novels-dilogies “Territory of the Soul” and “Area of Concord” became real bestsellers in the Belarusian book market. After the dilogy "Territory of the Soul" became a famous author.': 'Стихи пробовала писать с 16 лет. Её книги романы-дилогии «Территория души» и «Площадь согласия» стали настоящими бестселлерами на белорусском книжном рынке. Известным автором стала после дилогии «Территория души».',
+  'Her novel “The Moment of Infinity” in 2 volumes became the best-selling art book in Belarus in 2012': 'Её роман «Миг бесконечности» в 2-х томах стал самым продаваемой художественной книгой в Белоруссии в 2012 году',
+  'According to the results of the Brand of the Year 2012 professional competition held in Belarus, Natalya Batrakova became the 2012 brand person in the Culture nomination': 'По итогам профессионального конкурса «Брэнд года—2012», проводимого в Белоруссии, Наталья Батракова стала брэнд-персоной 2012 года в номинации «Культура»',
+  'Belynichi, Mogilev region': 'Белыничи, Могилёвская область',
+  
 };

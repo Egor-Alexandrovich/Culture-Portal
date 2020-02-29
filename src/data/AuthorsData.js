@@ -1073,7 +1073,7 @@ export default [
     },
     {
         id: 9,
-        name: 'Наталья Батракова',
+        name: 'Natalia Batrakova',
         years: '1964 - наше время',
         about: 'Наталья Николаевна Батракова — русскоязычная писательница из Белоруссии. Одна из лидеров современных прозаиков по количеству проданных книг в Белоруссии, автор популярных романов',
         photo: 'https://www.sb.by/upload/resize_cache/slam.image/iblock/d5a/d5a8e5ef430671d5255fd9948a224de2.jpg',
@@ -1099,37 +1099,37 @@ export default [
             {
                 dateText: '1964',
                 paragraphs: [
-                    'Наталья Батракова родилась 18 мая 1964 года в Белыничах, Могилёвская область, Белоруссия.'
+                    'Natalia Batrakova was born on May 18, 1964 in Belynichi, Mogilev region, Belarus.'
                 ]
             },
             {
                 dateText: '1981',
                 paragraphs: [
-                    'Окончила Белыническую СШ № 2.'
+                    'Graduated from Belynichnaya secondary school number 2.'
                 ]
             },
             {
                 dateText: '1986',
                 paragraphs: [
-                    'В 1986 году окончила Белорусский институт инженеров железнодорожного транспорта в Гомеле'
+                    'In 1986 she graduated from the Belarusian Institute of Railway Engineers in Gomel'
                 ]
             },
             {
                 dateText: '2002',
                 paragraphs: [
-                    'Стихи пробовала писать с 16 лет. Её книги романы-дилогии «Территория души» и «Площадь согласия» стали настоящими бестселлерами на белорусском книжном рынке. Известным автором стала после дилогии «Территория души».'
+                    'I tried to write poetry from the age of 16. Her books novels-dilogies “Territory of the Soul” and “Area of Concord” became real bestsellers in the Belarusian book market. After the dilogy "Territory of the Soul" became a famous author.'
                 ]
             },
             {
                 dateText: '2012',
                 paragraphs: [
-                    'Её роман «Миг бесконечности» в 2-х томах стал самым продаваемой художественной книгой в Белоруссии в 2012 году'
+                    'Her novel “The Moment of Infinity” in 2 volumes became the best-selling art book in Belarus in 2012'
                 ]
             },
             {
                 dateText: '2013',
                 paragraphs: [
-                    'По итогам профессионального конкурса «Брэнд года—2012», проводимого в Белоруссии, Наталья Батракова стала брэнд-персоной 2012 года в номинации «Культура»'
+                    'According to the results of the Brand of the Year 2012 professional competition held in Belarus, Natalya Batrakova became the 2012 brand person in the Culture nomination'
                 ]
             }
         ],
@@ -1137,7 +1137,7 @@ export default [
             {
                 latitude: 53.995239,
                 longitude: 29.707344,
-                description: 'Белыничи, Могилёвская область'
+                description: 'Belynichi, Mogilev region'
             }
         ],
         works: [
