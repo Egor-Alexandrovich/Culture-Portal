@@ -101,5 +101,15 @@ export default {
   'Editor-in-chief of the literary magazine "Nyoman".': 'Editor-in-chief of the literary magazine "Nyoman".',
   'In 1966, as part of the BSSR delegation, he participated in the XX session of the UN General Assembly, in 1971-1982 he was a deputy of the BSSR Supreme Soviet.': 'In 1966, as part of the BSSR delegation, he participated in the XX session of the UN General Assembly, in 1971-1982 he was a deputy of the BSSR Supreme Soviet.',
   'Died November 16, 1982. He was buried in Minsk at the Eastern cemetery.': 'Died November 16, 1982. He was buried in Minsk at the Eastern cemetery.',
+
+  'Ivan Chigrinov': 'Ivan Chigrinov',
+  'Ivan Chigrinov was born on December 21, 1934 in the village of Veliky Bor, Mogilev region, Belarusian SSR, in the family of the chairman of the village council.': 'Ivan Chigrinov was born on December 21, 1934 in the village of Veliky Bor, Mogilev region, Belarusian SSR, in the family of the chairman of the village council.',
+  'In 1952 he entered the journalism department of the philological faculty of V.I. Lenin Belarusian State University.': 'In 1952 he entered the journalism department of the philological faculty of V.I. Lenin Belarusian State University.',
+  'After graduation, he worked at the publishing house of the Academy of Sciences of the BSSR.': 'After graduation, he worked at the publishing house of the Academy of Sciences of the BSSR.',
+  'Editor of the journalism department of the Polymya magazine.': 'Editor of the journalism department of the Polymya magazine.',
+  'Since 1975, deputy chief, and since 1976 - secretary of the board of the Union of Writers of the BSSR.': 'Since 1975, deputy chief, and since 1976 - secretary of the board of the Union of Writers of the BSSR.',
+  'Chairman of the Board of the Belarusian Branch of the Soviet Cultural Foundation.': 'Chairman of the Board of the Belarusian Branch of the Soviet Cultural Foundation.',
+  'Editor-in-chief of Spadchyna magazine.': 'Editor-in-chief of Spadchyna magazine.',
+  'Chigrinov died on January 5, 1996. He was buried in Minsk, at the Eastern cemetery.': 'Chigrinov died on January 5, 1996. He was buried in Minsk, at the Eastern cemetery.',
   
 };

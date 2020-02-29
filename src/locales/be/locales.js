@@ -102,7 +102,16 @@ export default {
   'Editor-in-chief of the literary magazine "Nyoman".': 'Галоўны рэдактар літаратурнага часопіса "Нёман".',
   'In 1966, as part of the BSSR delegation, he participated in the XX session of the UN General Assembly, in 1971-1982 he was a deputy of the BSSR Supreme Soviet.': 'У 1966 годзе ў складзе дэлегацыі БССР прымаў удзел у працы XX сесіі Генеральнай Асамблеі ААН, у 1971-1982 гадах быў дэпутатам ВС БССР.',
   'Died November 16, 1982. He was buried in Minsk at the Eastern cemetery.': 'Памёр 16 лістапада 1982 года. Пахаваны ў Мінску на Усходніх могілках.',
-  
 
+  'Ivan Chigrinov': 'Іван Чыгрынаў',
+  'Ivan Chigrinov was born on December 21, 1934 in the village of Veliky Bor, Mogilev region, Belarusian SSR, in the family of the chairman of the village council.': 'Іван Чыгрынаў нарадзіўся 21 снежня 1934 года ў вёсцы Вялікі Бор Магілёўскай вобласці Беларускай ССР у сям\'і старшыні сельсавета.',
+  'In 1952 he entered the journalism department of the philological faculty of V.I. Lenin Belarusian State University.': 'У 1952 годзе паступіў на аддзяленне журналістыкі філалагічнага факультэта Беларускага дзяржаўнага універсітэта імя у. І. Леніна.',
+  'After graduation, he worked at the publishing house of the Academy of Sciences of the BSSR.': 'Пасля заканчэння універсітэта, працаваў у выдавецтве АН БССР.',
+  'Editor of the journalism department of the Polymya magazine.': 'Рэдактар аддзела публіцыстыкі часопіса "Полымя".',
+  'Since 1975, deputy chief, and since 1976 - secretary of the board of the Union of Writers of the BSSR.': 'З 1975 года намеснік начальніка, а з 1976-сакратар праўлення Саюза пісьменнікаў БССР.',
+  'Chairman of the Board of the Belarusian Branch of the Soviet Cultural Foundation.': 'Старшыня праўлення Беларускага аддзялення Савецкага фонду культуры.',
+  'Editor-in-chief of Spadchyna magazine.': 'Галоўны рэдактар часопіса "Спадчына".',
+  'Chigrinov died on January 5, 1996. He was buried in Minsk, at the Eastern cemetery.': 'Памёр Чыгрынаў 5 студзеня 1996 года. Пахаваны ў Мінску на Усходніх могілках.',
+  
 
 };

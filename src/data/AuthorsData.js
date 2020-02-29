@@ -845,7 +845,7 @@ export default [
     },
     {
         id: 7,
-        name: 'Иван Чигринов',
+        name: 'Ivan Chigrinov',
         years: '1934 - 1996',
         about: 'Ива́н Гаври́лович Чигри́нов (белор. Іван Гаўрылавіч Чыгрынаў) — народный писатель Белоруссии, публицист, драматург, сценарист. Лауреат Государственной премии БССР (1974). Член СП СССР (1964).',
         photo: 'https://upload.wikimedia.org/wikipedia/ru/0/02/Chigrinov.jpg',
@@ -871,69 +871,63 @@ export default [
             {
                 dateText: '1934',
                 paragraphs: [
-                    'Иван Чигринов родился 21 декабря 1934 года в деревне Великий Бор Могилёвской области Белорусской ССР в семье председателя сельсовета.'
+                    'Ivan Chigrinov was born on December 21, 1934 in the village of Veliky Bor, Mogilev region, Belarusian SSR, in the family of the chairman of the village council.'
                 ]
             },
             {
                 dateText: '1952',
                 paragraphs: [
-                    'В 1952 году поступил на отделение журналистики филологического факультета Белорусского государственного университета имени В. И. Ленина.'
+                    'In 1952 he entered the journalism department of the philological faculty of V.I. Lenin Belarusian State University.'
                 ]
             },
             {
                 dateText: '1957 - 1962',
                 paragraphs: [
-                    'После окончания университета, работал в издательстве АН БССР.'
+                    'After graduation, he worked at the publishing house of the Academy of Sciences of the BSSR.'
                 ]
             },
             {
                 dateText: '1965',
                 paragraphs: [
-                    'Редактор отдела публицистики журнала «Полымя».'
+                    'Editor of the journalism department of the Polymya magazine.'
                 ]
             },
             {
                 dateText: '1975 - 1976',
                 paragraphs: [
-                    'С 1975 года заместитель начальника, а с 1976 — секретарь правления Союза писателей БССР.'
+                    'Since 1975, deputy chief, and since 1976 - secretary of the board of the Union of Writers of the BSSR.'
                 ]
             },
             {
                 dateText: '1986',
                 paragraphs: [
-                    'Депутат ВС БССР.'
+                    'Member of the Supreme Council of the BSSR.'
                 ]
             },
             {
                 dateText: '1987',
                 paragraphs: [
-                    'Председатель правления Белорусского отделения советского фонда культуры.'
+                    'Chairman of the Board of the Belarusian Branch of the Soviet Cultural Foundation.'
                 ]
             },
             {
                 dateText: '1989',
                 paragraphs: [
-                    'Главный редактор журнала «Спадчына».'
+                    'Editor-in-chief of Spadchyna magazine.'
                 ]
             },
             {
                 dateText: '1996',
                 paragraphs: [
-                    'Умер Чигринов 5 января 1996 года. Похоронен в Минске, на Восточном кладбище.'
+                    'Chigrinov died on January 5, 1996. He was buried in Minsk, at the Eastern cemetery.'
                 ]
             },
-            {
-                dateText: '1982',
-                paragraphs: [
-                    'Умер 16 ноября 1982 года. Похоронен в Минске на Восточном кладбище.'
-                ]
-            }
         ],
         activity: [
             {
                 latitude: 53.938303,
                 longitude: 27.662716,
-                description: 'Похоронен на Восточном кладбище'
+                description: 'Buried in the Eastern Cemetery'
             }
         ],
         works: [

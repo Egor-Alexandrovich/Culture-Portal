@@ -102,5 +102,15 @@ export default {
   'Editor-in-chief of the literary magazine "Nyoman".': 'Главный редактор литературного журнала «Нёман».',
   'In 1966, as part of the BSSR delegation, he participated in the XX session of the UN General Assembly, in 1971-1982 he was a deputy of the BSSR Supreme Soviet.': 'В 1966 году в составе делегации БССР принимал участие в работе XX сессии Генеральной Ассамблеи ООН, в 1971—1982 годах был депутатом ВС БССР.',
   'Died November 16, 1982. He was buried in Minsk at the Eastern cemetery.': 'Умер 16 ноября 1982 года. Похоронен в Минске на Восточном кладбище.',
+
+  'Ivan Chigrinov': 'Иван Чигринов',
+  'Ivan Chigrinov was born on December 21, 1934 in the village of Veliky Bor, Mogilev region, Belarusian SSR, in the family of the chairman of the village council.': 'Иван Чигринов родился 21 декабря 1934 года в деревне Великий Бор Могилёвской области Белорусской ССР в семье председателя сельсовета.',
+  'In 1952 he entered the journalism department of the philological faculty of V.I. Lenin Belarusian State University.': 'В 1952 году поступил на отделение журналистики филологического факультета Белорусского государственного университета имени В. И. Ленина.',
+  'After graduation, he worked at the publishing house of the Academy of Sciences of the BSSR.': 'После окончания университета, работал в издательстве АН БССР.',
+  'Editor of the journalism department of the Polymya magazine.': 'Редактор отдела публицистики журнала «Полымя».',
+  'Since 1975, deputy chief, and since 1976 - secretary of the board of the Union of Writers of the BSSR.': 'С 1975 года заместитель начальника, а с 1976 — секретарь правления Союза писателей БССР.',
+  'Chairman of the Board of the Belarusian Branch of the Soviet Cultural Foundation.': 'Председатель правления Белорусского отделения советского фонда культуры.',
+  'Editor-in-chief of Spadchyna magazine.': 'Главный редактор журнала «Спадчына».',
+  'Chigrinov died on January 5, 1996. He was buried in Minsk, at the Eastern cemetery.': 'Умер Чигринов 5 января 1996 года. Похоронен в Минске, на Восточном кладбище.',
    
 };
