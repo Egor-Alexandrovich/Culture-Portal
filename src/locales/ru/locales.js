@@ -89,5 +89,18 @@ export default {
   'In 1992-2002, Advisor to the Presidium of the National Academy of Sciences of Belarus. Since 2002, the main researcher at the Institute of Literature of the National Academy of Sciences of Belarus.': 'В 1992—2002 годах советник Президиума Национальной академии наук Беларуси. С 2002 года главный научный сотрудник Института литературы НАН Беларуси.',
   'Died December 17, 2006. He was buried in the Calvary cemetery of Minsk.': 'Умер 17 декабря 2006. Похоронен на Кальварийском кладбище Минска.',
   'Buried in Calvary Cemetery': 'Похоронен на Кальварийском кладбище',
+
+
+  'Andrei Makayonak': 'Андрей Макаёнок',
+  'Born on November 12, 1920 in the village of Borkhov in a peasant family.': 'Родился 12 ноября 1920 года в деревне Борхов в крестьянской семье.',
+  'In 1927 he entered the Borkhov elementary school, continued his studies at the Zhuravichi secondary school, which he graduated in 1938.': 'В 1927 году поступил в Борховскую начальную школу, продолжил учёбу в Журавичской средней школе, которую окончил в 1938 году.',
+  'In 1939, he did not enter the All-Union State Institute of Cinematography (VGIK) by competition and was mobilized in the Red Army in the same year, serving in Georgia.': 'В 1939 году не прошёл по конкурсу во Всесоюзный государственный институт кинематографии (ВГИК) и в том же году был мобилизован в ряды РККА, службу проходил в Грузии.',
+  'He worked as a military instructor in one of the villages of Georgia. At the end of 1943, after the liberation of the Gomel region from the invaders, he returned to the village of Zhuravichi.': 'Работал военруком в одном из сёл Грузии. В конце 1943 года, после освобождения Гомельской области от оккупантов, вернулся в село Журавичи.',
+  'He worked as the head of the party cabinet of the Mogilev railway junction.': 'Работал заведующим партийным кабинетом Могилёвского железнодорожного узла.',
+  'Member of the joint venture of the USSR.': 'Член СП СССР.',
+  'In 1947 he entered the Republican Party School under the Central Committee of the CPB, which he graduated in 1949. After training at a party school, he was sent to the magazine "Wozyk", where he worked until 1953 as head of the prose department.': 'В 1947 году поступил в Республиканскую партийную школу при ЦК КПБ, которую окончил в 1949 году. После обучения в партшколе был направлен в журнал «Вожык», где работал до 1953 года в должности заведующего отделом прозы.',
+  'Editor-in-chief of the literary magazine "Nyoman".': 'Главный редактор литературного журнала «Нёман».',
+  'In 1966, as part of the BSSR delegation, he participated in the XX session of the UN General Assembly, in 1971-1982 he was a deputy of the BSSR Supreme Soviet.': 'В 1966 году в составе делегации БССР принимал участие в работе XX сессии Генеральной Ассамблеи ООН, в 1971—1982 годах был депутатом ВС БССР.',
+  'Died November 16, 1982. He was buried in Minsk at the Eastern cemetery.': 'Умер 16 ноября 1982 года. Похоронен в Минске на Восточном кладбище.',
    
 };

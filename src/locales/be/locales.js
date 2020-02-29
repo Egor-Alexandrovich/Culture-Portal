@@ -91,6 +91,17 @@ export default {
   'Died December 17, 2006. He was buried in the Calvary cemetery of Minsk.': 'Памёр 17 снежня 2006. Пахаваны на Кальварыйскіх могілках Мінска.',
   'Buried in Calvary Cemetery': 'Пахаваны на Кальварыйскіх могілках',
 
+  'Andrei Makayonak': 'Андрэй Макаёнак',
+  'Born on November 12, 1920 in the village of Borkhov in a peasant family.': 'Нарадзіўся 12 лістапада 1920 года ў вёсцы Борхаў у сялянскай сям\'і.',
+  'In 1927 he entered the Borkhov elementary school, continued his studies at the Zhuravichi secondary school, which he graduated in 1938.': 'У 1927 годзе паступіў у Борхаўскую пачатковую школу, працягнуў вучобу ў Журавіцкай сярэдняй школе, якую скончыў у 1938 годзе.',
+  'In 1939, he did not enter the All-Union State Institute of Cinematography (VGIK) by competition and was mobilized in the Red Army in the same year, serving in Georgia.': 'У 1939 годзе не прайшоў па конкурсе ва Ўсесаюзны дзяржаўны інстытут кінематаграфіі і ў тым жа годзе быў мабілізаваны ў шэрагі РСЧА, службу праходзіў у Грузіі.',
+  'He worked as a military instructor in one of the villages of Georgia. At the end of 1943, after the liberation of the Gomel region from the invaders, he returned to the village of Zhuravichi.': 'Працаваў ваенруком у адным з сеў Грузіі. У канцы 1943 года, пасля вызвалення Гомельскай вобласці ад акупантаў, вярнуўся ў сяло Журавічы.',
+  'He worked as the head of the party cabinet of the Mogilev railway junction.': 'Працаваў загадчыкам партыйных кабінетам Магілёўскага чыгуначнага вузла.',
+  'Member of the joint venture of the USSR.': 'Член СП СССР.',
+  'In 1947 he entered the Republican Party School under the Central Committee of the CPB, which he graduated in 1949. After training at a party school, he was sent to the magazine "Wozyk", where he worked until 1953 as head of the prose department.': 'У 1947 годзе паступіў у Рэспубліканскую партыйную школу пры ЦК КПБ, якую скончыў у 1949 годзе. Пасля навучання ў партшколе быў накіраваны ў часопіс "Вожык", дзе працаваў да 1953 года на пасадзе загадчыка аддзела прозы.',
+  'Editor-in-chief of the literary magazine "Nyoman".': 'Галоўны рэдактар літаратурнага часопіса "Нёман".',
+  'In 1966, as part of the BSSR delegation, he participated in the XX session of the UN General Assembly, in 1971-1982 he was a deputy of the BSSR Supreme Soviet.': 'У 1966 годзе ў складзе дэлегацыі БССР прымаў удзел у працы XX сесіі Генеральнай Асамблеі ААН, у 1971-1982 гадах быў дэпутатам ВС БССР.',
+  'Died November 16, 1982. He was buried in Minsk at the Eastern cemetery.': 'Памёр 16 лістапада 1982 года. Пахаваны ў Мінску на Усходніх могілках.',
   
 
 
