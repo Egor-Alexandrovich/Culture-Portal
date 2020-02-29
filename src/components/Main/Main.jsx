@@ -10,8 +10,14 @@ function Main({id, t}) {
   let AuthorElem = null;
   if(id) {
     const index = data.findIndex((elem) => elem.id === id );
-    const { name, years, photo } = data[index];
-    AuthorElem = <AuthorIdentity name = { name } years = { years } photo = { photo } link = {true} id = { id }/>;
+    const { name, yearOfBirth, yearOfDeath, photo } = data[index];
+    AuthorElem = <AuthorIdentity 
+      name={ name }
+      years={ {yearOfBirth, yearOfDeath} }
+      photo={ photo }
+      link={true}
+      id={ id }
+    />;
   }
   return (
     <div>

@@ -73,6 +73,18 @@ export default [
     name: 'Natalia Zarubina',
     gitHub: 'https://github.com/tor4',
     contribution: [
+      {
+        startTime: 'Feb 21',
+        endTime: 'Feb 23',
+        timeSpent: '4h',
+        feature: 'Configure multi-language',
+      },
+      {
+        startTime: 'Feb 27',
+        endTime: 'Feb 29',
+        timeSpent: '7h',
+        feature: 'Translate timelines',
+      }
     ]
   },
   {
