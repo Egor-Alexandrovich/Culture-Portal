@@ -430,7 +430,7 @@ export default [
                 date: '1960'
             },
             {
-                name: '«Третья ракета»',
+                name: '«Third Rocket»',
                 date: '1961'
             },
             {
@@ -450,14 +450,14 @@ export default [
                 date: '1969'
             },
             {
-                name: '«Дожить до рассвета»',
+                name: '«To Live till Sunrise»',
                 date: '1972'
             }
         ]
     },
     {
         id: 4,
-        name: 'Янка Брыль',
+        name: 'Janka Bryl',
         years: '1917 - 2006',
         about: 'Янка Брыль — белорусский советский писатель и переводчик. Народный писатель Белорусской ССР (1981). Лауреат Сталинской премии третьей степени (1952). Лауреат Государственной премии Белорусской ССР имени Якуба Коласа (1982).',
         photo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/%D0%91%D1%80%D1%8B%D0%BB%D1%8C_%D0%98%D0%B2%D0%B0%D0%BD_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%BE%D0%B2%D0%B8%D1%87_1985.jpg/800px-%D0%91%D1%80%D1%8B%D0%BB%D1%8C_%D0%98%D0%B2%D0%B0%D0%BD_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%BE%D0%B2%D0%B8%D1%87_1985.jpg',
@@ -483,55 +483,55 @@ export default [
             {
                 dateText: '1917',
                 paragraphs: [
-                    'Родился 22 июля (4 августа) 1917 года в Одессе в семье железнодорожника.'
+                    'He was born on July 22 (August 4), 1917 in Odessa, in the family of a railway worker.'
                 ]
             },
             {
                 dateText: '1922',
                 paragraphs: [
-                    'В 1922 году вместе с родителями переехал на их родину в Западную Беларусь.'
+                    'In 1922, he moved with his parents to their homeland in Western Belarus.'
                 ]
             },
             {
                 dateText: '1931',
                 paragraphs: [
-                    'В 1931 году окончил польскую семилетнюю школу, поступил в гимназию, однако не мог в ней учиться из-за материальных затруднений, занимался самообразованием. C 1938 года публиковал стихи и публицистику в виленском белорусском журнале «Шлях моладзі».'
+                    'In 1931 he graduated from the Polish seven-year school, entered the gymnasium, but could not study in it because of material difficulties, he was engaged in self-education. Since 1938, he has published poetry and journalism in the Vilnius Belarusian magazine “Shlyakh Moladzi”.'
                 ]
             },
             {
                 dateText: '1939 — 1941',
                 paragraphs: [
-                    'В 1939 году призван в польскую армию, служил в морской пехоте. В сентябре 1939 года под Гдыней попал в немецкий плен, осенью 1941 бежал и вернулся на родину; присоединился к советским партизанам.'
+                    'In 1939, drafted into the Polish army, served in the Marine Corps. In September 1939, he was captured by German forces near Gdynia; in the fall of 1941 he fled and returned to his homeland; joined the Soviet partisans.'
                 ]
             },
             {
                 dateText: '1942 — 1944',
                 paragraphs: [
-                    'С октября 1942 года — связной партизанской бригады имени Жукова, с марта по июль 1944 года — партизан-разведчик бригады «Комсомолец», редактор газеты «Сцяг свабоды» и сатирического листка «Партызанскае жыгала».'
+                    'From October 1942 - a connected partisan brigade named after Zhukov, from March to July 1944 - a partisan reconnaissance brigade "Komsomolets", editor of the newspaper "Sciag Svaboda" and the satirical sheet "Partyzanske zhigala."'
                 ]
             },
             {
                 dateText: '1966 - 1971',
                 paragraphs: [
-                    'Секретарь правления Союза писателей Белорусской ССР. '
+                    'Secretary of the Board of the Union of Writers of the Belarusian SSR.'
                 ]
             },
             {
                 dateText: '1967 — 1990',
                 paragraphs: [
-                    'Председатель Белорусского отделения общества «СССР — Канада».'
+                    'Chairman of the Belarusian branch of the USSR-Canada Society.'
                 ]
             },
             {
                 dateText: '1994',
                 paragraphs: [
-                    'Почетный член Национальной академии наук Беларуси.'
+                    'Honorary Member of the National Academy of Sciences of Belarus.'
                 ]
             },
             {
                 dateText: '2006',
                 paragraphs: [
-                    'Янка Брыль скончался 25 июля 2006. Похоронен в Колодищах.'
+                    'Janka Bryl passed away on July 25, 2006. He is buried in Kolodishchi.'
                 ]
             }
         ],
@@ -539,12 +539,12 @@ export default [
             {
                 latitude: 53.906602,
                 longitude: 27.833675,
-                description: 'Похоронен на кладбище в Колодищах'
+                description: 'Buried in a cemetery in Kolodishchi'
             }
         ],
         works: [
             {
-                name: '«Рассказы»',
+                name: '«Tales»',
                 date: '1946'
             },
             {
@@ -552,7 +552,7 @@ export default [
                 date: '1949'
             },
             {
-                name: '«Сиротский хлеб»',
+                name: '«Orphan bread»',
                 date: '1950'
             },
             {

@@ -59,4 +59,21 @@ export default {
   'Returned to his homeland.': 'Вернулся на родину.',
   'Died June 22, 2003 at 20 hours from a malignant tumor of the stomach in the intensive care unit of the Oncology Hospital in Borovlyany, near Minsk. He was buried in the Eastern cemetery in Minsk.': 'Умер 22 июня 2003 года в 20 часов 30 минут от злокачественной опухоли желудка в реанимационном отделении онкологического госпиталя в Боровлянах, под Минском. Похоронен на Восточном кладбище в Минске.',
   '«Crane\'s Cry»': '«Журавлиный крик»',
+  '«Third Rocket»': '«Третья ракета»',
+  '«To Live till Sunrise»': '«Дожить до рассвета»',
+
+  'Janka Bryl': 'Янка Брыль',
+  'He was born on July 22 (August 4), 1917 in Odessa, in the family of a railway worker.': 'Родился 22 июля (4 августа) 1917 года в Одессе в семье железнодорожника.',
+  'In 1922, he moved with his parents to their homeland in Western Belarus.': 'В 1922 году вместе с родителями переехал на их родину в Западную Беларусь.',
+  'In 1931 he graduated from the Polish seven-year school, entered the gymnasium, but could not study in it because of material difficulties, he was engaged in self-education. Since 1938, he has published poetry and journalism in the Vilnius Belarusian magazine “Shlyakh Moladzi”.': 'В 1931 году окончил польскую семилетнюю школу, поступил в гимназию, однако не мог в ней учиться из-за материальных затруднений, занимался самообразованием. C 1938 года публиковал стихи и публицистику в виленском белорусском журнале «Шлях моладзі».',
+  'In 1939, drafted into the Polish army, served in the Marine Corps. In September 1939, he was captured by German forces near Gdynia; in the fall of 1941 he fled and returned to his homeland; joined the Soviet partisans.': 'В 1939 году призван в польскую армию, служил в морской пехоте. В сентябре 1939 года под Гдыней попал в немецкий плен, осенью 1941 бежал и вернулся на родину; присоединился к советским партизанам.',
+  'From October 1942 - a connected partisan brigade named after Zhukov, from March to July 1944 - a partisan reconnaissance brigade "Komsomolets", editor of the newspaper "Sciag Svaboda" and the satirical sheet "Partyzanske zhigala."': 'С октября 1942 года — связной партизанской бригады имени Жукова, с марта по июль 1944 года — партизан-разведчик бригады «Комсомолец», редактор газеты «Сцяг свабоды» и сатирического листка «Партызанскае жыгала».',
+  'Secretary of the Board of the Union of Writers of the Belarusian SSR.': 'Секретарь правления Союза писателей Белорусской ССР.',
+  'Chairman of the Belarusian branch of the USSR-Canada Society.': 'Председатель Белорусского отделения общества «СССР — Канада».',
+  'Honorary Member of the National Academy of Sciences of Belarus.': 'Почетный член Национальной академии наук Беларуси.',
+  'Janka Bryl passed away on July 25, 2006. He is buried in Kolodishchi.': 'Янка Брыль скончался 25 июля 2006. Похоронен в Колодищах.',
+  'Buried in a cemetery in Kolodishchi': 'Похоронен на кладбище в Колодищах',
+  '«Tales»': '«Рассказы»',
+  '«Orphan bread»': '«Сиротский хлеб»',
+  
 };
