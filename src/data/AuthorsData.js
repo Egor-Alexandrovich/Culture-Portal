@@ -305,7 +305,7 @@ export default [
     },
     {
         id: 3,
-        name: 'Василь Быков',
+        name: 'Vasíl Býkaŭ',
         years: '1924 - 2003',
         about: 'Васи́ль Влади́мирович Бы́ков — советский и белорусский писатель, общественный деятель, участник Великой Отечественной войны. Член Союза писателей СССР. Герой Социалистического Труда (1984). Народный писатель Беларуси (1980). Лауреат Ленинской премии (1986). Лауреат Государственной премии СССР (1974). Лауреат Государственной премии Белорусской ССР (1978).',
         photo: 'https://upload.wikimedia.org/wikipedia/commons/1/1a/Vasil_Bykov_%28cropped%29.jpg',
@@ -335,73 +335,73 @@ export default [
             {
                 dateText: '1924',
                 paragraphs: [
-                    'Родился 19 июня 1924 года в деревне Бычки Ушачского района Витебской области в крестьянской семье.'
+                    'He was born on June 19, 1924 in a peasant family in the village of Bychki, Ushachsky District, Vitebsk Region.'
                 ]
             },
             {
                 dateText: '1940 - 1942',
                 paragraphs: [
-                    'Зимой 1941—1942 годов жил на ст. Салтыковка и в городе Аткарске Саратовской области, учился в железнодорожной школе.'
+                    'In the winter of 1941-1942 he lived at Art. Saltykovka and in the city of Atkarsk, Saratov region, studied at a railway school.'
                 ]
             },
             {
                 dateText: '1942 - 1945',
                 paragraphs: [
-                    'Призван в армию летом 1942 года, окончил Саратовское пехотное училище. Осенью 1943 года присвоено звание младшего лейтенанта. Участвовал в боях за Кривой Рог, Александрию, Знаменку. Во время Кировоградской операции ранен в ногу и живот (по ошибке был записан как погибший); события после ранения послужили основой повести «Мёртвым не больно». В начале 1944 года три месяца находился в госпитале. '
+                    'Drafted into the army in the summer of 1942, he graduated from the Saratov Infantry School. In the fall of 1943, he was awarded the rank of junior lieutenant. Participated in the battles of Krivoy Rog, Alexandria, Znamenka. During the Kirovograd operation, he was wounded in the leg and stomach (he was mistakenly recorded as dead); events after the wound served as the basis for the story “It Doesn’t Hurt the Dead” At the beginning of 1944, he was in the hospital for three months.'
                 ]
             },
             {
                 dateText: '1947 — 1949',
                 paragraphs: [
-                    'После демобилизации жил в Гродно. Печатался с 1947 года, работал в мастерских, а также в редакции областной газеты «Гродненская правда».'
+                    'After demobilization he lived in Grodno. Published since 1947, worked in workshops, as well as in the editorial office of the regional newspaper Grodno Pravda.'
                 ]
             },
             {
                 dateText: '1949 — 1955',
                 paragraphs: [
-                    'В период с 1949 по 1955 год снова служил в Советской армии, в 1955 году окончательно демобилизовался в звании майора. '
+                    'In the period from 1949 to 1955 he again served in the Soviet army, in 1955 he was finally demobilized with the rank of major.'
                 ]
             },
             {
                 dateText: '1955 - 1972',
                 paragraphs: [
-                    'С 1955 по 1972 год вновь работал в «Гродненской правде».'
+                    'From 1955 to 1972 he again worked in the Grodno Truth.'
                 ]
             },
             {
                 dateText: '1972 — 1978',
                 paragraphs: [
-                    'Секретарь Гродненского отделения Союза писателей Белорусской ССР'
+                    'Secretary of the Grodno branch of the Union of Writers of the Belarusian SSR'
                 ]
             },
             {
                 dateText: '1978 — 1989',
                 paragraphs: [
-                    'В 1978 году переехал в Минск. Избирался депутатом Верховного Совета Белорусской ССР в 1978—1989 годах.'
+                    'In 1978 he moved to Minsk. He was elected deputy of the Supreme Council of the Belarusian SSR in 1978-1989.'
                 ]
             },
             {
                 dateText: '1988 — 1990',
                 paragraphs: [
-                    'В 1988 году стал одним из учредителей Белорусского народного фронта. В 1988 году входил в состав Государственной комиссии по расследованию советских преступлений в Куропатах. В 1989 году избран народным депутатом СССР, вошёл в Межрегиональную депутатскую группу. Был президентом белорусского ПЕН-центра.'
+                    'In 1988 he became one of the founders of the Belarusian Popular Front. In 1988, he was a member of the State Commission for the Investigation of Soviet Crimes in Kurapaty. In 1989, he was elected People’s Deputy of the USSR and joined the Interregional Deputy Group. He was president of the Belarusian PEN Center.'
                 ]
             },
             {
                 dateText: '1997 — 2003',
                 paragraphs: [
-                    'С конца 1997 года жил за границей в политической эмиграции — вначале по приглашению ПЕН-центра Финляндии проживал в окрестностях Хельсинки, затем, получив приглашение ПЕН-центра ФРГ, переехал в Германию, а затем в Чехию.'
+                    'Since the end of 1997, he lived abroad in political emigration - at first, at the invitation of the PEN Center of Finland, he lived in the vicinity of Helsinki, then, having received an invitation from the PEN Center of Germany, he moved to Germany and then to the Czech Republic.'
                 ]
             },
             {
                 dateText: '2004',
                 paragraphs: [
-                    'Вернулся на родину.'
+                    'Returned to his homeland.'
                 ]
             },
             {
                 dateText: '2004',
                 paragraphs: [
-                    'Умер 22 июня 2003 года в 20 часов 30 минут от злокачественной опухоли желудка в реанимационном отделении онкологического госпиталя в Боровлянах, под Минском. Похоронен на Восточном кладбище в Минске.'
+                    'Died June 22, 2003 at 20 hours from a malignant tumor of the stomach in the intensive care unit of the Oncology Hospital in Borovlyany, near Minsk. He was buried in the Eastern cemetery in Minsk.'
                 ]
             }
         ],
@@ -409,7 +409,7 @@ export default [
             {
                 latitude: 53.938303,
                 longitude: 27.662716,
-                description: 'Похоронен на Восточном кладбище'
+                description: 'Buried in the Eastern Cemetery'
             }
         ],
         works: [
@@ -422,7 +422,7 @@ export default [
                 date: '1958'
             },
             {
-                name: '«Журавлиный крик»',
+                name: '«Crane\'s Cry»',
                 date: '1959'
             },
             {
