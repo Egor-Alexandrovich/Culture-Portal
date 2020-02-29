@@ -1,6 +1,8 @@
 .team {
-    width: 100%;
-    padding: 20px 0;
+    width: 70%;
+    @media (max-width: 1240px) {
+        width: 80%;
+    }
 }
 
 .participant {
@@ -14,6 +16,12 @@
     font-family: 'Dancing Script', 'Marck Script', cursive;
 }
 
+.about-team {
+    margin: 20px 0;
+    width: 100%;
+    background: url(../../assets/images/manuscript-roll.jpg) center;
+}
+
 .our-team {
     margin: 20px 0;
 }
@@ -22,12 +30,12 @@
     width: 180px;
     height: 180px;
     border-radius: 50%;
-    margin: 25px;
 }
 
 @media (max-width: 850px) {
     .about-team-wrapp:after {
         background: url(../../assets/images/manuscript-roll.jpg) center; 
+        margin: 20px 0;
     }
 }
 

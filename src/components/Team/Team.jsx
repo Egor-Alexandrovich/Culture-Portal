@@ -16,14 +16,12 @@ function Team({t}) {
     />
   });
   return (
-    <div className="about-team-wrapp d-flex align-items-center justify-content-center">
       <div className="about-team d-flex flex-column align-items-center justify-content-center">
         <h2 className="our-team">{t('Our team')}</h2>
         <div className="team d-flex flex-wrap align-items-center justify-content-center">
           { membersList }
         </div>
       </div>
-    </div>
   );
 }
 
