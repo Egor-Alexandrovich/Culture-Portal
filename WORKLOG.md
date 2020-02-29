@@ -21,6 +21,7 @@
 |-----------|-------------|-------------|-------------|
 | Feb 24 | Feb 24 | 4h | add authors page |
 | Feb 24 | Feb 24 | 1h | add add logic  authors page  |
+| Feb 26 | Feb 26 | 5h | add photo-gallery |
 
 *Artsiom Lipchyk*
 | Start time  | End time | time spent | feature |
