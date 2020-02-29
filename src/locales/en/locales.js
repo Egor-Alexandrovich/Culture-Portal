@@ -132,4 +132,14 @@ export default {
   'Her novel “The Moment of Infinity” in 2 volumes became the best-selling art book in Belarus in 2012': 'Her novel “The Moment of Infinity” in 2 volumes became the best-selling art book in Belarus in 2012',
   'According to the results of the Brand of the Year 2012 professional competition held in Belarus, Natalya Batrakova became the 2012 brand person in the Culture nomination': 'According to the results of the Brand of the Year 2012 professional competition held in Belarus, Natalya Batrakova became the 2012 brand person in the Culture nomination',
   'Belynichi, Mogilev region': 'Belynichi, Mogilev region',
+
+  'Viktar Martsinovich': 'Viktar Martsinovich',
+  'Born on September 9, 1977 in Oshmyany.': 'Born on September 9, 1977 in Oshmyany.',
+  'In 1999 he graduated from the Faculty of Journalism': 'In 1999 he graduated from the Faculty of Journalism',
+  'In 2002 he graduated - postgraduate study at BSU': 'In 2002 he graduated - postgraduate study at BSU',
+  'Deputy editor-in-chief of the information and analytical weekly BelGazeta': 'Deputy editor-in-chief of the information and analytical weekly BelGazeta',
+  'On June 27, 2008, at the Vilnius Academy of Arts (Lithuania), he defended his doctoral dissertation on the topic “Vitebsk avant-garde (1918-1922): sociocultural context and artistic criticism” (“Vitebsk avant-garde (1918-1922): cantext and mastack cover is saty-cultural”) [ 3], has a PhD degree in art history. He teaches at the European Humanities University.': 'On June 27, 2008, at the Vilnius Academy of Arts (Lithuania), he defended his doctoral dissertation on the topic “Vitebsk avant-garde (1918-1922): sociocultural context and artistic criticism” (“Vitebsk avant-garde (1918-1922): cantext and mastack cover is saty-cultural”) [ 3], has a PhD degree in art history. He teaches at the European Humanities University.',
+  'In October-December 2014, he was engaged in research work at the Institute for the Humanities in Vienna (Austria), where, as part of the program named after Milena Yesenskaya was preparing a work on the Vitebsk period of the life and work of Marc Chagall.': 'In October-December 2014, he was engaged in research work at the Institute for the Humanities in Vienna (Austria), where, as part of the program named after Milena Yesenskaya was preparing a work on the Vitebsk period of the life and work of Marc Chagall.',
+  'Ashmyany': 'Ashmyany',
+  
 };

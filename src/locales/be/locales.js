@@ -133,5 +133,13 @@ export default {
   'Her novel “The Moment of Infinity” in 2 volumes became the best-selling art book in Belarus in 2012': 'Яе раман «Міг бясконцасці» у 2-х тамах стаў самым прадаваным мастацкай кнігай у Беларусі ў 2012 годзе',
   'According to the results of the Brand of the Year 2012 professional competition held in Belarus, Natalya Batrakova became the 2012 brand person in the Culture nomination': 'Па выніках прафесійнага конкурсу «Брэнд Года—2012», які праводзіцца ў Беларусі, Наталля Батракова стала брэнд-персонай 2012 года ў намінацыі "Культура"',
   'Belynichi, Mogilev region': 'Бялынічы, Магілёўская вобласць',
-   
+
+  'Viktar Martsinovich': 'Віктар Марціновіч',
+  'Born on September 9, 1977 in Oshmyany.': 'Нарадзіўся 9 верасня 1977 года ў Ашмянах.',
+  'In 1999 he graduated from the Faculty of Journalism': 'У 1999 годзе скончыў факультэт журналістыкі',
+  'In 2002 he graduated - postgraduate study at BSU': 'У 2002 годзе скончыў-аспірантуру БДУ',
+  'Deputy editor-in-chief of the information and analytical weekly BelGazeta': 'Намеснік галоўнага рэдактара інфармацыйна-аналітычнага штотыднёвіка "БелГазета"',
+  'On June 27, 2008, at the Vilnius Academy of Arts (Lithuania), he defended his doctoral dissertation on the topic “Vitebsk avant-garde (1918-1922): sociocultural context and artistic criticism” (“Vitebsk avant-garde (1918-1922): cantext and mastack cover is saty-cultural”) [ 3], has a PhD degree in art history. He teaches at the European Humanities University.': '27 чэрвеня 2008 года ў Віленскай акадэміі Мастацтваў (Літва) абараніў доктарскую дысертацыю на тэму" Віцебскі авангард( 1918-1922): сацыякультурны кантэкст і мастацкая крытыка»("Віцебскі авангард (1918-1922): сацыякультурны кантэкст і мастацкая крытыка") [3], мае навуковую ступень PhD па гісторыі мастацтваў. Выкладае ў Еўрапейскім гуманітарным універсітэце.',
+  'In October-December 2014, he was engaged in research work at the Institute for the Humanities in Vienna (Austria), where, as part of the program named after Milena Yesenskaya was preparing a work on the Vitebsk period of the life and work of Marc Chagall.': 'У кастрычніку-снежні 2014 года займаўся навукова-даследчай працай у Інстытуце гуманітарных навук у Вене( Аўстрыя), дзе ў рамках Праграмы ім. Мілены Ясенскай рыхтаваў працу аб Віцебскім перыядзе жыцця і творчасці Марка Шагала.',
+  'Ashmyany': 'Ашмяны', 
 };

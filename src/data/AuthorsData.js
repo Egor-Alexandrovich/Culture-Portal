@@ -1181,7 +1181,7 @@ export default [
     },
     {
         id: 10,
-        name: 'Виктор Мартинович',
+        name: 'Viktar Martsinovich',
         years: '1977 - наше время',
         about: 'Ви́ктор Вале́рьевич Мартино́вич — белорусский писатель, искусствовед и журналист. С 2002 по 2015 г. заместитель главного редактора информационно-аналитического еженедельника «БелГазета»',
         photo: 'https://s12.stc.all.kpcdn.net/share/i/4/687943/big.jpg',
@@ -1207,37 +1207,37 @@ export default [
             {
                 dateText: '1977',
                 paragraphs: [
-                    'Родился 9 сентября 1977 года в Ошмянах.'
+                    'Born on September 9, 1977 in Oshmyany.'
                 ]
             },
             {
                 dateText: '1999',
                 paragraphs: [
-                    'В 1999 году окончил факультет журналистики'
+                    'In 1999 he graduated from the Faculty of Journalism'
                 ]
             },
             {
                 dateText: '2002',
                 paragraphs: [
-                    'В 2002 году окончил — аспирантуру БГУ'
+                    'In 2002 he graduated - postgraduate study at BSU'
                 ]
             },
             {
                 dateText: '2002 - 2015',
                 paragraphs: [
-                    'Заместитель главного редактора информационно-аналитического еженедельника «БелГазета»'
+                    'Deputy editor-in-chief of the information and analytical weekly BelGazeta'
                 ]
             },
             {
                 dateText: '2008',
                 paragraphs: [
-                    '27 июня 2008 года в Вильнюсской Академии Искусств (Литва) защитил докторскую диссертацию на тему «Витебский авангард (1918—1922): социокультурный контекст и художественная критика» («Віцебскі авангард (1918—1922): сацыякультурны кантэкст і мастацкая крытыка»)[3], имеет учёную степень PhD по истории искусств. Преподаёт в Европейском гуманитарном университете.'
+                    'On June 27, 2008, at the Vilnius Academy of Arts (Lithuania), he defended his doctoral dissertation on the topic “Vitebsk avant-garde (1918-1922): sociocultural context and artistic criticism” (“Vitebsk avant-garde (1918-1922): cantext and mastack cover is saty-cultural”) [ 3], has a PhD degree in art history. He teaches at the European Humanities University.'
                 ]
             },
             {
                 dateText: '2014',
                 paragraphs: [
-                    'В октябре-декабре 2014 года занимался научно-исследовательской работой в Институте гуманитарных наук в Вене (Австрия), где в рамках программы им. Милены Есенской готовил работу о витебском периоде жизни и творчества Марка Шагала.'
+                    'In October-December 2014, he was engaged in research work at the Institute for the Humanities in Vienna (Austria), where, as part of the program named after Milena Yesenskaya was preparing a work on the Vitebsk period of the life and work of Marc Chagall.'
                 ]
             }
         ],
@@ -1245,7 +1245,7 @@ export default [
             {
                 latitude: 54.426144,
                 longitude: 25.935744,
-                description: 'Ошмяны'
+                description: 'Ashmyany'
             }
         ],
         works: [
