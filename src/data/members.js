@@ -5,6 +5,24 @@ export default [
     name: 'Yahor Shulha',
     gitHub: 'https://github.com/Egor-Alexandrovich',
     contribution: [
+      {
+        startTime: 'Feb 24',
+        endTime: 'Feb 24',
+        timeSpent: '4h',
+        feature: 'add authors page',
+      },
+      {
+        startTime: 'Feb 24',
+        endTime: 'Feb 24',
+        timeSpent: '1h',
+        feature: 'add add logic  authors page',
+      },
+      {
+        startTime: 'Feb 26',
+        endTime: 'Feb 26',
+        timeSpent: '5h',
+        feature: 'add photo-gallery',
+      }
     ]
   },
   {
@@ -53,14 +71,6 @@ export default [
   },
   {
     id: 3,
-    photo: 'https://avatars3.githubusercontent.com/u/29782090?s=460&v=4',
-    name: 'Anton Yanovskyi',
-    gitHub: 'https://github.com/antonini666',
-    contribution: [
-    ]
-  },
-  {
-    id: 4,
     photo: 'https://avatars1.githubusercontent.com/u/55248414?s=460&v=4',
     name: 'Ilya Androsau',
     gitHub: 'https://github.com/ajololr',
@@ -100,11 +110,17 @@ export default [
         endTime: 'Feb 27',
         timeSpent: '3h',
         feature: 'actualize activity map box',
+      },
+      {
+        startTime: 'Feb 28',
+        endTime: 'Feb 29',
+        timeSpent: '6h',
+        feature: 'add worklog and style guide pages',
       }
     ]
   },
   {
-    id: 5,
+    id: 4,
     photo: 'https://avatars1.githubusercontent.com/u/3773902?s=460&v=4',
     name: 'Natalia Zarubina',
     gitHub: 'https://github.com/tor4',
@@ -124,7 +140,7 @@ export default [
     ]
   },
   {
-    id: 6,
+    id: 5,
     photo: 'https://avatars0.githubusercontent.com/u/47758072?s=460&v=4',
     name: 'Artsiom Lipchyk',
     gitHub: 'https://github.com/tommergz',

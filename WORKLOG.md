@@ -9,6 +9,7 @@
 | Feb 24 | Feb 24 | 1h | append writers' works element |
 | Feb 25 | Feb 25 | 1.5h | add YouTube video widget |
 | Feb 26 | Feb 27 | 3h | actualize activity map box |
+| Feb 28 | Feb 29 | 6h | add worklog and style guide pages |
 
 *Natalia Zarubina*
 | Start time  | End time | time spent | feature |
