@@ -1,6 +1,6 @@
 export default {
   'About portal': 'About portal',
-  'About portal extended': `Need translation`,
+  'About portal extended': `A portal about outstanding Belarusian writers who have made a significant contribution to the development of Belarusian literature. Here you can find out about their biographies, and see photo galleries, videos and much more.`,
   'Author of the day': 'Author of the day',
   'More': 'More',
   'Writers of Belarus': 'Writers of Belarus',
