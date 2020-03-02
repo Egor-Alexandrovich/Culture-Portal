@@ -8,4 +8,4 @@ Culture-Portal
 - npm run start to start project in development mode
 - npm run build to start project in production mode
 ### Link 
--  https://romantic-wing-b2a38d.netlify.com/
+-  https://affectionate-panini-f2b434.netlify.com

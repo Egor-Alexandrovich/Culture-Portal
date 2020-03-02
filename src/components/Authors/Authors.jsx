@@ -33,19 +33,33 @@ class Authors extends Component {
   find(arr) {
     let lang = document.getElementById("lang").innerHTML;
     let value = this.searchInput.value;
-    if (lang === "ru") {
+    let places = arr;
+    let filteredArr;
+    if (lang === "ru" || lang === "ru-RU") {
+      places = (places.filter(au => au.placeRu.toUpperCase().includes(value.toUpperCase())));
+      filteredArr = arr.filter(au => au.ru.toUpperCase().includes(value.toUpperCase()));
       this.setState({
-        list: arr.filter(au => au.ru.toUpperCase().includes(value.toUpperCase())),
+        list: filteredArr.concat(places.filter(function (item) {
+          return filteredArr.indexOf(item) < 0;
+        }))      
       });  
     }
-    else if (lang === "be") {
+    else if (lang === "be" || lang === "be-BE") {
+      places = (places.filter(au => au.placeBe.toUpperCase().includes(value.toUpperCase())));
+      filteredArr = arr.filter(au => au.be.toUpperCase().includes(value.toUpperCase()));
       this.setState({
-        list: arr.filter(au => au.be.toUpperCase().includes(value.toUpperCase())),
+        list: filteredArr.concat(places.filter(function (item) {
+          return filteredArr.indexOf(item) < 0;
+        }))      
       });
     } 
-    else {
+    else if (lang === "en" || lang === "en-EN") {
+      places = (places.filter(au => au.placeEn.toUpperCase().includes(value.toUpperCase())));
+      filteredArr = arr.filter(au => au.name.toUpperCase().includes(value.toUpperCase()));
       this.setState({
-        list: arr.filter(au => au.name.toUpperCase().includes(value.toUpperCase())),
+        list: filteredArr.concat(places.filter(function (item) {
+          return filteredArr.indexOf(item) < 0;
+        }))      
       });
     }
   }
