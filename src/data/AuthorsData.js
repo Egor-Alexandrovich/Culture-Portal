@@ -1,6 +1,8 @@
 export default [
     {
         id: 1,
+        ru: 'Кондрат Крапива',
+        be: 'Кандрат Крапіва',
         name: 'Kandrat Krapiva',
         yearOfBirth: 1986,
         yearOfDeath: 1991,
@@ -162,6 +164,8 @@ export default [
     },
     {
         id: 2,
+        ru: 'Иван Шамякин',
+        be: 'Іван Шамякін',
         name: 'Ivan Shamiakin',
         yearOfBirth: 1921,
         yearOfDeath: 2004,
@@ -311,6 +315,8 @@ export default [
     },
     {
         id: 3,
+        ru: 'Василь Быков',
+        be: 'Васіль Быкаў',
         name: 'Vasíl Býkaŭ',
         years: '1924 - 2003',
         yearOfBirth: 1924,
@@ -466,6 +472,8 @@ export default [
     },
     {
         id: 4,
+        ru: 'Янка Бриль',
+        be: 'Янка Брыль',
         name: 'Janka Bryl',
         years: '1917 - 2006',
         yearOfBirth: 1917,
@@ -599,6 +607,8 @@ export default [
     },
     {
         id: 5,
+        ru: 'Иван Науменко',
+        be: 'Іван Навуменка',
         name: 'Ivan Navumienka',
         years: '1925 - 2006',
         yearOfBirth: 1925,
@@ -744,6 +754,8 @@ export default [
     },
     {
         id: 6,
+        ru: 'Андрей Макаёнок',
+        be: 'Андрэй Макаёнак',
         name: 'Andrei Makayonak',
         years: '1920 - 1982',
         yearOfBirth: 1920,
@@ -863,6 +875,8 @@ export default [
     },
     {
         id: 7,
+        ru: 'Иван Чигринов',
+        be: 'Іван Чыгрынаў',
         name: 'Ivan Chigrinov',
         years: '1934 - 1996',
         yearOfBirth: 1934,
@@ -976,6 +990,8 @@ export default [
     },
     {
         id: 8,
+        ru: 'Светлана Алексиевич',
+        be: 'Святлана Алексіевіч',
         name: 'Svetlana Alexievich',
         years: '1948 - наше время',
         yearOfBirth: 1948,
@@ -1097,6 +1113,8 @@ export default [
     },
     {
         id: 9,
+        ru: 'Наталья Батракова',
+        be: 'Наталля Батракова',
         name: 'Natalia Batrakova',
         years: '1964 - наше время',
         yearOfBirth: 1964,
@@ -1208,6 +1226,8 @@ export default [
     },
     {
         id: 10,
+        ru: 'Виктор Мартинович',
+        be: 'Віктар Марціновіч',
         name: 'Viktar Martsinovich',
         years: '1977 - наше время',
         yearOfBirth: 1977,

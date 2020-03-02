@@ -4,10 +4,13 @@ import {DropdownButton, Dropdown} from 'react-bootstrap';
 import './LanguageSelector.scss';
 
 const languages = ['en', 'ru', 'be'];
+let lang;
+
 
 function LanguageSelector({i18n}) {
   return (
     <DropdownButton
+      id="lang"
       className="language-selector"
       title={i18n.language}
       variant="outline-dark"

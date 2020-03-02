@@ -31,10 +31,23 @@ class Authors extends Component {
   }
 
   find(arr) {
+    let lang = document.getElementById("lang").innerHTML;
     let value = this.searchInput.value;
-    this.setState({
-      list: arr.filter(au => au.name.toUpperCase().includes(value.toUpperCase())),
-    });  
+    if (lang === "ru") {
+      this.setState({
+        list: arr.filter(au => au.ru.toUpperCase().includes(value.toUpperCase())),
+      });  
+    }
+    else if (lang === "be") {
+      this.setState({
+        list: arr.filter(au => au.be.toUpperCase().includes(value.toUpperCase())),
+      });
+    } 
+    else {
+      this.setState({
+        list: arr.filter(au => au.name.toUpperCase().includes(value.toUpperCase())),
+      });
+    }
   }
 
   render () {
