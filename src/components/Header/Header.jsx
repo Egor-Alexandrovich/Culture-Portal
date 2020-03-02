@@ -10,7 +10,9 @@ function Header({t}) {
   return (
     <header className='header-container'>
         <img className='logo-img' src={logo} alt=""/>
-        <h1 className='logo-name'>{t('Writers of Belarus')}</h1>
+        <div className="logo-wrapp">
+          <h1 className='logo-name'>{t('Writers of Belarus')}</h1>
+        </div>       
         <LinksList list={ linksList }/>
         <LanguageSelector/>
     </header>
