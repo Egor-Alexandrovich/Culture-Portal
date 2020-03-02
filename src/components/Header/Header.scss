@@ -24,6 +24,8 @@
 
 .logo-img {
   height: 65px;
+  margin-left: 20px;
+  margin-right: 20px;
   @media (max-width: 550px) {
     display: none;
   }
@@ -33,6 +35,7 @@
   margin: 0;
   width: max-content;
   font-family: 'Dancing Script', 'Marck Script', cursive;
+  align-items: center;
   @media (max-width: 950px) {
     display: none;
   }
@@ -110,6 +113,10 @@ li {
   color: #ef0;
 }
 
+.links-item {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
 
 @media (max-width: 450px) {
   .head-buttons-block {
